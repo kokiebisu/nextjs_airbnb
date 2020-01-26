@@ -93,9 +93,9 @@ module.exports =
 /************************************************************************/
 /******/ ({
 
-/***/ "./components/Header.js":
+/***/ "./components/Banner.js":
 /*!******************************!*\
-  !*** ./components/Header.js ***!
+  !*** ./components/Banner.js ***!
   \******************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -106,8 +106,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _public_airbnb_home_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../public/airbnb-home.jpg */ "./public/airbnb-home.jpg");
 /* harmony import */ var _public_airbnb_home_jpg__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_public_airbnb_home_jpg__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _components_HeaderButton__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/HeaderButton */ "./components/HeaderButton.js");
-var _jsxFileName = "/Users/ken/Downloads/nextjs_airbnb/components/Header.js";
+/* harmony import */ var _HeaderButton__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./HeaderButton */ "./components/HeaderButton.js");
+var _jsxFileName = "/Users/ken/Downloads/nextjs_airbnb/components/Banner.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -186,7 +186,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
       lineNumber: 26
     },
     __self: undefined
-  }, __jsx(_components_HeaderButton__WEBPACK_IMPORTED_MODULE_2__["default"], {
+  }, __jsx(_HeaderButton__WEBPACK_IMPORTED_MODULE_2__["default"], {
     color: "white",
     description: "Find a place to stay and things to do",
     name: "Explore",
@@ -197,7 +197,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
       lineNumber: 27
     },
     __self: undefined
-  }), __jsx(_components_HeaderButton__WEBPACK_IMPORTED_MODULE_2__["default"], {
+  }), __jsx(_HeaderButton__WEBPACK_IMPORTED_MODULE_2__["default"], {
     color: "transparent",
     description: "Earn money from our extra space",
     name: "Host",
@@ -266,6 +266,133 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /***/ }),
 
+/***/ "./components/InputBox.js":
+/*!********************************!*\
+  !*** ./components/InputBox.js ***!
+  \********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+var _jsxFileName = "/Users/ken/Downloads/nextjs_airbnb/components/InputBox.js";
+
+var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+/* harmony default export */ __webpack_exports__["default"] = (({
+  label,
+  placeholder
+}) => {
+  return __jsx("div", {
+    class: "py-2 w-full lg:w-1/3",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 3
+    },
+    __self: undefined
+  }, __jsx("label", {
+    class: "uppercase text-xs font-semibold pb-2 text-gray-800 block",
+    for: label,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 4
+    },
+    __self: undefined
+  }, label), __jsx("input", {
+    type: "text",
+    id: label,
+    class: "p-3 w-full rounded border border-gray-300",
+    placeholder: placeholder,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7
+    },
+    __self: undefined
+  }));
+});
+
+/***/ }),
+
+/***/ "./components/OptionBox.js":
+/*!*********************************!*\
+  !*** ./components/OptionBox.js ***!
+  \*********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+var _jsxFileName = "/Users/ken/Downloads/nextjs_airbnb/components/OptionBox.js";
+
+var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+/* harmony default export */ __webpack_exports__["default"] = (({
+  label,
+  options
+}) => {
+  return __jsx("div", {
+    class: "w-full lg:w-1/3",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 3
+    },
+    __self: undefined
+  }, __jsx("h4", {
+    class: "uppercase text-sm font-semibold pb-2 text-gray-800",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 4
+    },
+    __self: undefined
+  }, options.first), __jsx("label", {
+    for: label,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 5
+    },
+    __self: undefined
+  }), __jsx("div", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 6
+    },
+    __self: undefined
+  }, __jsx("select", {
+    name: "",
+    id: "",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7
+    },
+    __self: undefined
+  }, __jsx("option", {
+    value: "",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8
+    },
+    __self: undefined
+  }), __jsx("option", {
+    value: "",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9
+    },
+    __self: undefined
+  }), __jsx("option", {
+    value: "",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 10
+    },
+    __self: undefined
+  }))));
+});
+
+/***/ }),
+
 /***/ "./pages/index.js":
 /*!************************!*\
   !*** ./pages/index.js ***!
@@ -277,20 +404,80 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _components_Header__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Header */ "./components/Header.js");
+/* harmony import */ var _components_Banner__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Banner */ "./components/Banner.js");
+/* harmony import */ var _components_InputBox__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/InputBox */ "./components/InputBox.js");
+/* harmony import */ var _components_OptionBox__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/OptionBox */ "./components/OptionBox.js");
 var _jsxFileName = "/Users/ken/Downloads/nextjs_airbnb/pages/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
+
+
 const Home = () => {
-  return __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, __jsx(_components_Header__WEBPACK_IMPORTED_MODULE_1__["default"], {
+  return __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, __jsx(_components_Banner__WEBPACK_IMPORTED_MODULE_1__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 6
+      lineNumber: 8
     },
     __self: undefined
-  }));
+  }), __jsx("div", {
+    class: "max-w-5xl mx-auto py-12 px-4",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9
+    },
+    __self: undefined
+  }, __jsx("h3", {
+    class: "text-2xl font-semibold text-gray-800",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 10
+    },
+    __self: undefined
+  }, "Book unique homes and experiences"), __jsx("form", {
+    action: "",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 11
+    },
+    __self: undefined
+  }, __jsx("div", {
+    class: "flex flex-wrap items-start justify-start w-full lg:w-1/3",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 12
+    },
+    __self: undefined
+  }, __jsx(_components_InputBox__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    label: "where",
+    placeholder: "Anywhere",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 13
+    },
+    __self: undefined
+  }), __jsx(_components_InputBox__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    label: "when",
+    placeholder: "mm/dd/yy - mm/dd/yyyy",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 14
+    },
+    __self: undefined
+  }), __jsx(_components_OptionBox__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    label: "guests",
+    options: {
+      first: 'First',
+      second: 'Second',
+      third: 'Third'
+    },
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15
+    },
+    __self: undefined
+  })))));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Home);
