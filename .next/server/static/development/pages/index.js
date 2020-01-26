@@ -112,8 +112,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
   description,
   name,
   borderColor,
-  fontColor,
-  position
+  fontColor
 }) => {
   return __jsx("div", {
     class: "lg:pr-2 pb-3 w-full lg:w-1/2",
@@ -247,7 +246,6 @@ const Home = () => {
     name: "Explore",
     borderColor: "transparent",
     fontColor: "gray",
-    position: "right",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 28
@@ -259,10 +257,9 @@ const Home = () => {
     name: "Host",
     borderColor: "white",
     fontColor: "white",
-    position: "left",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 36
+      lineNumber: 35
     },
     __self: undefined
   })))));

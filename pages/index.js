@@ -31,7 +31,6 @@ const Home = () => {
 							name='Explore'
 							borderColor='transparent'
 							fontColor='gray'
-							position='right'
 						/>
 						<HeaderButton
 							color='transparent'
@@ -39,7 +38,6 @@ const Home = () => {
 							name='Host'
 							borderColor='white'
 							fontColor='white'
-							position='left'
 						/>
 					</div>
 				</div>
