@@ -270,7 +270,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
   var label = _ref.label,
       placeholder = _ref.placeholder;
   return __jsx("div", {
-    "class": "lg:mb-0 w-full lg:w-1/3 lg:pr-2",
+    "class": "lg:mb-0 w-full lg:w-1/3 lg:pr-2 py-2 ",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 3
@@ -317,7 +317,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
   var label = _ref.label,
       options = _ref.options;
   return __jsx("div", {
-    "class": "lg:w-1/3 w-full lg:pr-0 ",
+    "class": "lg:w-1/3 w-full py-2 lg:pr-0 ",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 3
