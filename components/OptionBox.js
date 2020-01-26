@@ -1,11 +1,11 @@
 export default ({ label, options }) => {
 	return (
-		<div class=' py-2 w-full lg:w-1/3'>
-			<label for={label} class='uppercase text-xs font-semibold text-gray-800'>
+		<div class='lg:w-1/3 w-full lg:pr-0 '>
+			<label for={label} class='uppercase tracking-wide font-semibold text-xs text-gray-900 mb-2 block'>
 				{label}
 			</label>
-			<div class='relative mt-3'>
-				<select id={label} class='p-3 border border-gray-300 w-full appearance-none'>
+			<div class='relative'>
+				<select id={label} class='p-3 border border-gray-300 rounded w-full appearance-none'>
 					<option value='1'>{options.first}</option>
 					<option value='2'>{options.second}</option>
 					<option value='3'>{options.third}</option>

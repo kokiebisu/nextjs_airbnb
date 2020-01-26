@@ -285,7 +285,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
   placeholder
 }) => {
   return __jsx("div", {
-    class: "py-2 w-full lg:w-1/3",
+    class: "lg:mb-0 w-full lg:w-1/3 lg:pr-2",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 3
@@ -333,7 +333,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
   options
 }) => {
   return __jsx("div", {
-    class: " py-2 w-full lg:w-1/3",
+    class: "lg:w-1/3 w-full lg:pr-0 ",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 3
@@ -341,14 +341,14 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     __self: undefined
   }, __jsx("label", {
     for: label,
-    class: "uppercase text-xs font-semibold text-gray-800",
+    class: "uppercase tracking-wide font-semibold text-xs text-gray-900 mb-2 block",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 4
     },
     __self: undefined
   }, label), __jsx("div", {
-    class: "relative mt-3",
+    class: "relative",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
@@ -356,7 +356,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     __self: undefined
   }, __jsx("select", {
     id: label,
-    class: "p-3 border border-gray-300 w-full appearance-none",
+    class: "p-3 border border-gray-300 rounded w-full appearance-none",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 8
@@ -447,7 +447,7 @@ const Home = () => {
     },
     __self: undefined
   }, __jsx("h3", {
-    class: "text-2xl font-semibold text-gray-800",
+    class: "text-2xl font-semibold text-gray-800 lg:mb-4",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10
@@ -461,7 +461,7 @@ const Home = () => {
     },
     __self: undefined
   }, __jsx("div", {
-    class: "flex flex-wrap items-start justify-start w-full lg:w-1/3",
+    class: "flex flex-wrap items-start justify-start",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12
@@ -486,9 +486,9 @@ const Home = () => {
   }), __jsx(_components_OptionBox__WEBPACK_IMPORTED_MODULE_3__["default"], {
     label: "guests",
     options: {
-      first: 'First',
-      second: 'Second',
-      third: 'Third'
+      first: '1 Guest',
+      second: '2 Guests',
+      third: '3 Guests'
     },
     __source: {
       fileName: _jsxFileName,
