@@ -348,7 +348,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: undefined
   }, label), __jsx("div", {
-    class: "relative pt-3",
+    class: "relative mt-3",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
@@ -384,7 +384,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: undefined
   }, options.third)), __jsx("div", {
-    class: "pointer-events-none",
+    class: "flex items-center pointer-events-none absolute inset-y-0 right-0 px-2",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 13
