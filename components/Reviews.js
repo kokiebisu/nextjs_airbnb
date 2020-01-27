@@ -1,4 +1,4 @@
-import Card from '../components/Card';
+import Review from './Review';
 
 import card1 from '../public/1.jpg';
 import card2 from '../public/2.jpg';
@@ -33,7 +33,7 @@ export default () => {
 				</p>
 			</div>
 			<div class='flex items-start flex-wrap'>
-				<Card
+				<Review
 					img={card1}
 					stars='5'
 					description='What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and...'
@@ -41,7 +41,7 @@ export default () => {
 					hostName='Jeff'
 					hostCountry='United States'
 				/>
-				<Card
+				<Review
 					img={card2}
 					stars='4'
 					description='What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and...'
@@ -49,7 +49,7 @@ export default () => {
 					hostName='Lesley'
 					hostCountry='United Kingdom'
 				/>
-				<Card
+				<Review
 					img={card3}
 					stars='5'
 					description='What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and...'
