@@ -1,0 +1,16 @@
+[
+	{
+		"Card1": {
+			"Star": 4,
+			"Description": "Description here",
+			"Image": "./public/1.jpg"
+		}
+	},
+	{
+		"Card2": {
+			"Start": 5,
+			"Description": "Description here",
+			"Image": "./public/2.jpg"
+		}
+	}
+]

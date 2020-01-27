@@ -16,4 +16,8 @@
 	@apply text-gray-800;
 }
 
+.text-cyan {
+	color: #008f94;
+}
+
 @tailwind utilities;

@@ -293,6 +293,125 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /***/ }),
 
+/***/ "./components/Card.js":
+/*!****************************!*\
+  !*** ./components/Card.js ***!
+  \****************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+var _jsxFileName = "/Users/ken/Downloads/nextjs_airbnb/components/Card.js";
+
+var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+/* harmony default export */ __webpack_exports__["default"] = (({
+  img,
+  stars,
+  description,
+  avatar,
+  hostName,
+  hostCountry
+}) => {
+  var starArray = [],
+      i = 0,
+      len = parseInt(stars);
+
+  while (++i <= len) starArray.push(i);
+
+  return __jsx("div", {
+    class: "w-full lg:w-1/3 px-1 my-5",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7
+    },
+    __self: undefined
+  }, __jsx("img", {
+    class: "bg-no-repeat bg-cover rounded",
+    src: img,
+    alt: "",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8
+    },
+    __self: undefined
+  }), __jsx("div", {
+    class: "flex items-start justify-start flex-wrap py-2",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9
+    },
+    __self: undefined
+  }, starArray.map(function (i) {
+    return __jsx("svg", {
+      key: i,
+      class: "fill-current w-4 h-4 text-cyan mr-1",
+      viewBox: "0 0 1000 1000",
+      xmlns: "http://www.w3.org/2000/svg",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 12
+      },
+      __self: this
+    }, __jsx("path", {
+      d: "M972 380c9 28 2 50-20 67L725 619l87 280c11 39-18 75-54 75-12 0-23-4-33-12L499 790 273 962a58 58 0 0 1-78-12 50 50 0 0 1-8-51l86-278L46 447c-21-17-28-39-19-67 8-24 29-40 52-40h280l87-279c7-23 28-39 52-39 25 0 47 17 54 41l87 277h280c24 0 45 16 53 40z",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 17
+      },
+      __self: this
+    }));
+  })), __jsx("p", {
+    class: "text-gray-600 font-thin text-sm",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 22
+    },
+    __self: undefined
+  }, description), __jsx("div", {
+    class: "flex items-center justify-start flex-wrap mt-3",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 23
+    },
+    __self: undefined
+  }, __jsx("img", {
+    class: "rounded-full w-12 h-12",
+    src: avatar,
+    alt: "",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 24
+    },
+    __self: undefined
+  }), __jsx("div", {
+    class: "pl-4",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 25
+    },
+    __self: undefined
+  }, __jsx("p", {
+    class: "text-sm font-semibold text-gray-900",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 26
+    },
+    __self: undefined
+  }, hostName), __jsx("p", {
+    class: "text-sm text-gray-800",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 27
+    },
+    __self: undefined
+  }, hostCountry))));
+});
+
+/***/ }),
+
 /***/ "./components/HeaderButton.js":
 /*!************************************!*\
   !*** ./components/HeaderButton.js ***!
@@ -504,9 +623,29 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_Banner__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Banner */ "./components/Banner.js");
 /* harmony import */ var _components_Booking__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Booking */ "./components/Booking.js");
+/* harmony import */ var _components_Card__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Card */ "./components/Card.js");
+/* harmony import */ var _public_1_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../public/1.jpg */ "./public/1.jpg");
+/* harmony import */ var _public_1_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_1_jpg__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _public_2_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../public/2.jpg */ "./public/2.jpg");
+/* harmony import */ var _public_2_jpg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_2_jpg__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _public_3_jpg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../public/3.jpg */ "./public/3.jpg");
+/* harmony import */ var _public_3_jpg__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_public_3_jpg__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _public_jeff_jpg__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../public/jeff.jpg */ "./public/jeff.jpg");
+/* harmony import */ var _public_jeff_jpg__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_public_jeff_jpg__WEBPACK_IMPORTED_MODULE_7__);
+/* harmony import */ var _public_lesley_jpg__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../public/lesley.jpg */ "./public/lesley.jpg");
+/* harmony import */ var _public_lesley_jpg__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_public_lesley_jpg__WEBPACK_IMPORTED_MODULE_8__);
+/* harmony import */ var _public_denise_jpg__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../public/denise.jpg */ "./public/denise.jpg");
+/* harmony import */ var _public_denise_jpg__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_public_denise_jpg__WEBPACK_IMPORTED_MODULE_9__);
 var _jsxFileName = "/Users/ken/Downloads/nextjs_airbnb/pages/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+
+
+
+
+
+
+
 
 
 
@@ -514,34 +653,34 @@ const Home = () => {
   return __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, __jsx(_components_Banner__WEBPACK_IMPORTED_MODULE_1__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7
+      lineNumber: 16
     },
     __self: undefined
   }), __jsx(_components_Booking__WEBPACK_IMPORTED_MODULE_2__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
+      lineNumber: 17
     },
     __self: undefined
   }), __jsx("div", {
     class: "max-w-5xl mx-auto px-4 lg:px-0",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 9
+      lineNumber: 18
     },
     __self: undefined
   }, __jsx("h3", {
     class: "font-semibold text-2xl leading-none text-gray-800",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 10
+      lineNumber: 19
     },
     __self: undefined
   }, "What guests are saying about homes in the United States"), __jsx("div", {
     class: "flex items-center flex-wrap justify-start lg:py-2",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13
+      lineNumber: 22
     },
     __self: undefined
   }, __jsx("svg", {
@@ -557,7 +696,7 @@ const Home = () => {
     },
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14
+      lineNumber: 23
     },
     __self: undefined
   }, __jsx("path", {
@@ -565,41 +704,117 @@ const Home = () => {
     fill: "#484848",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 21
+      lineNumber: 30
     },
     __self: undefined
   }), __jsx("path", {
     d: "m11 21.5a.5.5 0 1 1 -.5-.5.5.5 0 0 1 .5.5zm-3.5-15.5a.5.5 0 1 0 .5.5.5.5 0 0 0 -.5-.5zm15 10h-.5v-.5a.5.5 0 0 0 -1 0v .5h-.5a.5.5 0 0 0 0 1h .5v.5a.5.5 0 0 0 1 0v-.5h.5a.5.5 0 0 0 0-1zm-15-13h-.5v-.5a.5.5 0 0 0 -1 0v .5h-.5a.5.5 0 0 0 0 1h .5v.5a.5.5 0 0 0 1 0v-.5h.5a.5.5 0 0 0 0-1zm10.22 7.54a.84.84 0 0 0 -.17-.02q-.28-.01-3.19 0a .6.6 0 0 1 -.55-.35l-1.5-3.23a.42.42 0 0 0 -.75 0l-1.81 4.14a2.92 2.92 0 0 0 4.12 3.72l.46-.26 3.49-2.99.16-.18a.5.5 0 0 0 -.26-.82z",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24
+      lineNumber: 33
     },
     __self: undefined
   })), __jsx("p", {
     class: " text-gray-700 sm:mt-5 sm:pl-4 lg:mt-5 lg:pl-4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26
+      lineNumber: 35
     },
     __self: undefined
   }, "United States homes were ", __jsx("strong", {
     class: "emphasized",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27
+      lineNumber: 36
     },
     __self: undefined
   }, "rated 4.8 out of 5 starts"), " with", __jsx("strong", {
     class: "emphasized",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
+      lineNumber: 37
     },
     __self: undefined
-  }, " 42,5000,000+ reviews")))));
+  }, " 42,5000,000+ reviews"))), __jsx("div", {
+    class: "flex items-start flex-wrap",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 40
+    },
+    __self: undefined
+  }, __jsx(_components_Card__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    img: _public_1_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,
+    stars: "5",
+    description: "What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and...",
+    avatar: _public_jeff_jpg__WEBPACK_IMPORTED_MODULE_7___default.a,
+    hostName: "Jeff",
+    hostCountry: "United States",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 41
+    },
+    __self: undefined
+  }), __jsx(_components_Card__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    img: _public_2_jpg__WEBPACK_IMPORTED_MODULE_5___default.a,
+    stars: "4",
+    description: "What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and...",
+    avatar: _public_lesley_jpg__WEBPACK_IMPORTED_MODULE_8___default.a,
+    hostName: "Lesley",
+    hostCountry: "United Kingdom",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 49
+    },
+    __self: undefined
+  }), __jsx(_components_Card__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    img: _public_3_jpg__WEBPACK_IMPORTED_MODULE_6___default.a,
+    stars: "5",
+    description: "What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and...",
+    avatar: _public_denise_jpg__WEBPACK_IMPORTED_MODULE_9___default.a,
+    hostName: "Denise",
+    hostCountry: "United States",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 57
+    },
+    __self: undefined
+  }))));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Home);
+
+/***/ }),
+
+/***/ "./public/1.jpg":
+/*!**********************!*\
+  !*** ./public/1.jpg ***!
+  \**********************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/images/1-43a265f29bfa729901245a88b6b81a0d.jpg";
+
+/***/ }),
+
+/***/ "./public/2.jpg":
+/*!**********************!*\
+  !*** ./public/2.jpg ***!
+  \**********************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/images/2-00d3b8ff8d3d3eb0c0cc40dbba61af11.jpg";
+
+/***/ }),
+
+/***/ "./public/3.jpg":
+/*!**********************!*\
+  !*** ./public/3.jpg ***!
+  \**********************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/images/3-4c306b453afb1874e88924b0f109ac67.jpg";
 
 /***/ }),
 
@@ -611,6 +826,39 @@ const Home = () => {
 /***/ (function(module, exports) {
 
 module.exports = "/_next/static/images/airbnb-home-bb270612b5fb0dddf3eaa293a588c61f.jpg";
+
+/***/ }),
+
+/***/ "./public/denise.jpg":
+/*!***************************!*\
+  !*** ./public/denise.jpg ***!
+  \***************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/images/denise-18d6fd65cd42379188e569f84ddf5e6b.jpg";
+
+/***/ }),
+
+/***/ "./public/jeff.jpg":
+/*!*************************!*\
+  !*** ./public/jeff.jpg ***!
+  \*************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/images/jeff-768c9733398f2a227bd8b4b97c7faee7.jpg";
+
+/***/ }),
+
+/***/ "./public/lesley.jpg":
+/*!***************************!*\
+  !*** ./public/lesley.jpg ***!
+  \***************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/images/lesley-1b77564a0c7afd0720e3f6a1e9123d45.jpg";
 
 /***/ }),
 

@@ -1,5 +1,14 @@
 import Banner from '../components/Banner';
 import Booking from '../components/Booking';
+import Card from '../components/Card';
+
+import card1 from '../public/1.jpg';
+import card2 from '../public/2.jpg';
+import card3 from '../public/3.jpg';
+
+import avatar1 from '../public/jeff.jpg';
+import avatar2 from '../public/lesley.jpg';
+import avatar3 from '../public/denise.jpg';
 
 const Home = () => {
 	return (
@@ -27,6 +36,32 @@ const Home = () => {
 						United States homes were <strong class='emphasized'>rated 4.8 out of 5 starts</strong> with
 						<strong class='emphasized'> 42,5000,000+ reviews</strong>
 					</p>
+				</div>
+				<div class='flex items-start flex-wrap'>
+					<Card
+						img={card1}
+						stars='5'
+						description='What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and...'
+						avatar={avatar1}
+						hostName='Jeff'
+						hostCountry='United States'
+					/>
+					<Card
+						img={card2}
+						stars='4'
+						description='What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and...'
+						avatar={avatar2}
+						hostName='Lesley'
+						hostCountry='United Kingdom'
+					/>
+					<Card
+						img={card3}
+						stars='5'
+						description='What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and...'
+						avatar={avatar3}
+						hostName='Denise'
+						hostCountry='United States'
+					/>
 				</div>
 			</div>
 		</>
