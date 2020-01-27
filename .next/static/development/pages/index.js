@@ -306,14 +306,14 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
     },
     __self: this
   }, __jsx("p", {
-    "class": "text-sm font-semibold text-gray-900",
+    "class": "text-sm font-semibold text-gray-800",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 26
     },
     __self: this
   }, hostName), __jsx("p", {
-    "class": "text-sm text-gray-800",
+    "class": "text-sm text-gray-700",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 27

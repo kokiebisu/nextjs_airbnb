@@ -23,8 +23,8 @@ export default ({ img, stars, description, avatar, hostName, hostCountry }) => {
 			<div class='flex items-center justify-start flex-wrap mt-3'>
 				<img class='rounded-full w-12 h-12' src={avatar} alt='' />
 				<div class='pl-4'>
-					<p class='text-sm font-semibold text-gray-900'>{hostName}</p>
-					<p class='text-sm text-gray-800'>{hostCountry}</p>
+					<p class='text-sm font-semibold text-gray-800'>{hostName}</p>
+					<p class='text-sm text-gray-700'>{hostCountry}</p>
 				</div>
 			</div>
 		</div>
