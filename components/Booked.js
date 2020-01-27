@@ -8,7 +8,7 @@ import img4 from '../public/just-booked-4.jpg';
 
 export default () => {
 	return (
-		<div class='max-w-5xl mx-auto px-4 lg:px-0 lg:py-4'>
+		<div class='max-w-5xl mx-auto px-4 mb-16 lg:px-0 lg:py-4'>
 			<h3 class='font-semibold text-2xl text-gray-800 my-5'>Just booked in the United States</h3>
 			<div class='flex justify-start items-center flex-wrap'>
 				<Card houseType='Entire House' houseName='Joshua Tree' title='The Joshua Tree House' img={img1} />

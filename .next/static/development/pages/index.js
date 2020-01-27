@@ -327,7 +327,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /* harmony default export */ __webpack_exports__["default"] = (function () {
   return __jsx("div", {
-    "class": "max-w-5xl mx-auto px-4 lg:px-0 lg:py-4",
+    "class": "max-w-5xl mx-auto px-4 mb-16 lg:px-0 lg:py-4",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 11
