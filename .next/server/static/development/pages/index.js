@@ -107,62 +107,33 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _public_airbnb_home_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../public/airbnb-home.jpg */ "./public/airbnb-home.jpg");
 /* harmony import */ var _public_airbnb_home_jpg__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_public_airbnb_home_jpg__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _HeaderButton__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./HeaderButton */ "./components/HeaderButton.js");
-/* harmony import */ var framer_motion__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! framer-motion */ "framer-motion");
-/* harmony import */ var framer_motion__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(framer_motion__WEBPACK_IMPORTED_MODULE_3__);
 var _jsxFileName = "/Users/ken/Downloads/nextjs_airbnb/components/Banner.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
-
 /* harmony default export */ __webpack_exports__["default"] = (() => {
-  const stagger = {
-    initial: {
-      opacity: 1
-    },
-    animate: {
-      opacity: 1,
-      transition: {
-        staggerChildren: 0.5
-      }
-    }
-  };
-  const fadeUp = {
-    initial: {
-      opacity: 0,
-      y: 60
-    },
-    animate: {
-      opacity: 1,
-      y: 0
-    },
-    transition: {
-      duration: 0.9
-    }
-  };
-  return __jsx(framer_motion__WEBPACK_IMPORTED_MODULE_3__["motion"].header, {
-    initial: "initial",
-    animate: "animate",
+  return __jsx("header", {
     style: {
       backgroundImage: `url(${_public_airbnb_home_jpg__WEBPACK_IMPORTED_MODULE_1___default.a})`
     },
     className: "relative bg-cover bg-no-repeat bg-top-right lg:bg-center p-6",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
+      lineNumber: 6
     },
     __self: undefined
   }, __jsx("a", {
     href: "/",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35
+      lineNumber: 9
     },
     __self: undefined
   }, __jsx("h1", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 36
+      lineNumber: 10
     },
     __self: undefined
   }, __jsx("svg", {
@@ -178,44 +149,44 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 37
+      lineNumber: 11
     },
     __self: undefined
   }, __jsx("title", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 43
+      lineNumber: 17
     },
     __self: undefined
   }, "AirBnb"), __jsx("path", {
     d: "m499.3 736.7c-51-64-81-120.1-91-168.1-10-39-6-70 11-93 18-27 45-40 80-40s62 13 80 40c17 23 21 54 11 93-11 49-41 105-91 168.1zm362.2 43c-7 47-39 86-83 105-85 37-169.1-22-241.1-102 119.1-149.1 141.1-265.1 90-340.2-30-43-73-64-128.1-64-111 0-172.1 94-148.1 203.1 14 59 51 126.1 110 201.1-37 41-72 70-103 88-24 13-47 21-69 23-101 15-180.1-83-144.1-184.1 5-13 15-37 32-74l1-2c55-120.1 122.1-256.1 199.1-407.2l2-5 22-42c17-31 24-45 51-62 13-8 29-12 47-12 36 0 64 21 76 38 6 9 13 21 22 36l21 41 3 6c77 151.1 144.1 287.1 199.1 407.2l1 1 20 46 12 29c9.2 23.1 11.2 46.1 8.2 70.1zm46-90.1c-7-22-19-48-34-79v-1c-71-151.1-137.1-287.1-200.1-409.2l-4-6c-45-92-77-147.1-170.1-147.1-92 0-131.1 64-171.1 147.1l-3 6c-63 122.1-129.1 258.1-200.1 409.2v2l-21 46c-8 19-12 29-13 32-51 140.1 54 263.1 181.1 263.1 1 0 5 0 10-1h14c66-8 134.1-50 203.1-125.1 69 75 137.1 117.1 203.1 125.1h14c5 1 9 1 10 1 127.1.1 232.1-123 181.1-263.1z",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 44
+      lineNumber: 18
     },
     __self: undefined
-  })))), __jsx(framer_motion__WEBPACK_IMPORTED_MODULE_3__["motion"].div, {
+  })))), __jsx("div", {
     variants: stagger,
     className: "max-w-5xl mx-auto py-4 lg:py-32",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 48
+      lineNumber: 22
     },
     __self: undefined
-  }, __jsx(framer_motion__WEBPACK_IMPORTED_MODULE_3__["motion"].h2, {
+  }, __jsx("h2", {
     variants: fadeUp,
     className: "text-white text-4xl lg:text-5xl font-semibold leading-relaxing mb-4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 49
+      lineNumber: 23
     },
     __self: undefined
-  }, "Book a trip. Host travels. All on Airbnb"), __jsx(framer_motion__WEBPACK_IMPORTED_MODULE_3__["motion"].div, {
+  }, "Book a trip. Host travels. All on Airbnb"), __jsx("div", {
     variants: fadeUp,
     className: "flex items-center flex-wrap justify-start max-w-2xl lg:mx-0 mx-auto",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 54
+      lineNumber: 26
     },
     __self: undefined
   }, __jsx(_HeaderButton__WEBPACK_IMPORTED_MODULE_2__["default"], {
@@ -226,7 +197,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     fontColor: "gray",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 57
+      lineNumber: 27
     },
     __self: undefined
   }), __jsx(_HeaderButton__WEBPACK_IMPORTED_MODULE_2__["default"], {
@@ -237,7 +208,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     fontColor: "white",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 64
+      lineNumber: 34
     },
     __self: undefined
   }))));

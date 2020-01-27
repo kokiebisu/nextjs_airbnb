@@ -1,35 +1,9 @@
 import img from '../public/airbnb-home.jpg';
 import HeaderButton from './HeaderButton';
-import { motion } from 'framer-motion';
 
 export default () => {
-	const stagger = {
-		initial: { opacity: 1 },
-		animate: {
-			opacity: 1,
-			transition: {
-				staggerChildren: 0.5
-			}
-		}
-	};
-
-	const fadeUp = {
-		initial: {
-			opacity: 0,
-			y: 60
-		},
-		animate: {
-			opacity: 1,
-			y: 0
-		},
-		transition: {
-			duration: 0.9
-		}
-	};
 	return (
-		<motion.header
-			initial='initial'
-			animate='animate'
+		<header
 			style={{ backgroundImage: `url(${img})` }}
 			className='relative bg-cover bg-no-repeat bg-top-right lg:bg-center p-6'>
 			<a href='/'>
@@ -45,15 +19,11 @@ export default () => {
 					</svg>
 				</h1>
 			</a>
-			<motion.div variants={stagger} className='max-w-5xl mx-auto py-4 lg:py-32'>
-				<motion.h2
-					variants={fadeUp}
-					className='text-white text-4xl lg:text-5xl font-semibold leading-relaxing mb-4'>
+			<div variants={stagger} className='max-w-5xl mx-auto py-4 lg:py-32'>
+				<h2 variants={fadeUp} className='text-white text-4xl lg:text-5xl font-semibold leading-relaxing mb-4'>
 					Book a trip. Host travels. All on Airbnb
-				</motion.h2>
-				<motion.div
-					variants={fadeUp}
-					className='flex items-center flex-wrap justify-start max-w-2xl lg:mx-0 mx-auto'>
+				</h2>
+				<div variants={fadeUp} className='flex items-center flex-wrap justify-start max-w-2xl lg:mx-0 mx-auto'>
 					<HeaderButton
 						color='white'
 						description='Find a place to stay and things to do'
@@ -68,8 +38,8 @@ export default () => {
 						borderColor='white'
 						fontColor='white'
 					/>
-				</motion.div>
-			</motion.div>
-		</motion.header>
+				</div>
+			</div>
+		</header>
 	);
 };
