@@ -12,6 +12,10 @@
 	appearance: none;
 }
 
+.transition {
+	transition: 0.2s ease;
+}
+
 .emphasized {
 	@apply text-gray-800;
 }
