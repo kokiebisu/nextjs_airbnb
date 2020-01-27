@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 
 export default ({ color, description, name, borderColor, fontColor }) => {
 	return (
-		<div class='lg:pr-2 pb-3 w-full lg:w-1/2' initial='initial' animate='animate'>
+		<div className='lg:pr-2 pb-3 w-full lg:w-1/2' initial='initial' animate='animate'>
 			<p className='py-2 text-white font-thin tracking-wide'>{description}</p>
 			<motion.a
 				whileHover={{ scale: 0.95, easing: 'ease' }}
