@@ -8,3 +8,8 @@ Previous Airbnb Landing Page
 ### Technologies
 - NextJS
 - Tailwindcss
+
+### What did I learn?
+- How to use tailwindcss for responsive effective layout
+- How to use images in NextJs
+- How to integrate PostCss plugins into webpack
