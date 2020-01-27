@@ -19,11 +19,11 @@ export default () => {
 					</svg>
 				</h1>
 			</a>
-			<div variants={stagger} className='max-w-5xl mx-auto py-4 lg:py-32'>
-				<h2 variants={fadeUp} className='text-white text-4xl lg:text-5xl font-semibold leading-relaxing mb-4'>
+			<div className='max-w-5xl mx-auto py-4 lg:py-32'>
+				<h2 className='text-white text-4xl lg:text-5xl font-semibold leading-relaxing mb-4'>
 					Book a trip. Host travels. All on Airbnb
 				</h2>
-				<div variants={fadeUp} className='flex items-center flex-wrap justify-start max-w-2xl lg:mx-0 mx-auto'>
+				<div className='flex items-center flex-wrap justify-start max-w-2xl lg:mx-0 mx-auto'>
 					<HeaderButton
 						color='white'
 						description='Find a place to stay and things to do'

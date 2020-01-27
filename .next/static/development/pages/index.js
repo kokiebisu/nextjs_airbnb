@@ -73,7 +73,6 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   })))), __jsx("div", {
-    variants: stagger,
     className: "max-w-5xl mx-auto py-4 lg:py-32",
     __source: {
       fileName: _jsxFileName,
@@ -81,7 +80,6 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, __jsx("h2", {
-    variants: fadeUp,
     className: "text-white text-4xl lg:text-5xl font-semibold leading-relaxing mb-4",
     __source: {
       fileName: _jsxFileName,
@@ -89,7 +87,6 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, "Book a trip. Host travels. All on Airbnb"), __jsx("div", {
-    variants: fadeUp,
     className: "flex items-center flex-wrap justify-start max-w-2xl lg:mx-0 mx-auto",
     __source: {
       fileName: _jsxFileName,
