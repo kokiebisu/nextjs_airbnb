@@ -670,14 +670,14 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, __jsx("div", {
-    className: "flex",
+    className: "flex items-start justify-start flex-wrap",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5
     },
     __self: this
   }, __jsx("div", {
-    className: "w-full lg:w-1/4",
+    className: "w-full lg:w-1/4 mb-6",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
@@ -763,7 +763,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, "Diversity & Belonging")))), __jsx("div", {
-    className: "w-full lg:w-1/4",
+    className: "w-full lg:w-1/4 mb-6",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 26
@@ -862,7 +862,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, "Airbnbmag")))), __jsx("div", {
-    className: "w-full lg:w-1/4",
+    className: "w-full lg:w-1/4 mb-6",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 49
@@ -1087,7 +1087,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, "Site Map")))))), __jsx("div", {
-    "class": "max-w-5xl mx-auto flex items-center justify-start flex-wrap py-6",
+    "class": "max-w-5xl mx-auto flex items-center justify-start flex-wrap py-6 px-4 lg:px-0",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 124
