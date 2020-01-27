@@ -3,7 +3,7 @@ import OptionBox from '../components/OptionBox';
 
 export default () => {
 	return (
-		<div class='max-w-5xl mx-auto py-12 px-4'>
+		<div class='max-w-5xl mx-auto py-12 px-4 lg:px-0'>
 			<h3 class='text-2xl font-semibold text-gray-800 lg:mb-4'>Book unique homes and experiences</h3>
 			<form action=''>
 				<div class='flex flex-wrap items-start justify-start'>
