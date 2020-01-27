@@ -14,7 +14,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _public_airbnb_home_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../public/airbnb-home.jpg */ "./public/airbnb-home.jpg");
 /* harmony import */ var _public_airbnb_home_jpg__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_public_airbnb_home_jpg__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _HeaderButton__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./HeaderButton */ "./components/HeaderButton.js");
-var _jsxFileName = "/Users/ken/Downloads/nextjs_airbnb/components/Banner.js";
+var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/Banner.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -131,7 +131,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/ken/Downloads/nextjs_airbnb/components/Benefit.js";
+var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/Benefit.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 /* harmony default export */ __webpack_exports__["default"] = (function (_ref) {
@@ -176,7 +176,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_Benefit__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Benefit */ "./components/Benefit.js");
-var _jsxFileName = "/Users/ken/Downloads/nextjs_airbnb/components/Benefits.js";
+var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/Benefits.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -316,7 +316,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _public_just_booked_3_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_just_booked_3_jpg__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _public_just_booked_4_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../public/just-booked-4.jpg */ "./public/just-booked-4.jpg");
 /* harmony import */ var _public_just_booked_4_jpg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_just_booked_4_jpg__WEBPACK_IMPORTED_MODULE_5__);
-var _jsxFileName = "/Users/ken/Downloads/nextjs_airbnb/components/Booked.js";
+var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/Booked.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
  // Images
@@ -405,7 +405,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_InputBox__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/InputBox */ "./components/InputBox.js");
 /* harmony import */ var _components_OptionBox__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/OptionBox */ "./components/OptionBox.js");
-var _jsxFileName = "/Users/ken/Downloads/nextjs_airbnb/components/Booking.js";
+var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/Booking.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -483,7 +483,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/ken/Downloads/nextjs_airbnb/components/Card.js";
+var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/Card.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 /* harmony default export */ __webpack_exports__["default"] = (function (_ref) {
@@ -651,7 +651,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/ken/Downloads/nextjs_airbnb/components/Footer.js";
+var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/Footer.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 /* harmony default export */ __webpack_exports__["default"] = (function () {
@@ -1135,7 +1135,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var framer_motion__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! framer-motion */ "./node_modules/framer-motion/dist/framer-motion.es.js");
-var _jsxFileName = "/Users/ken/Downloads/nextjs_airbnb/components/HeaderButton.js";
+var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/HeaderButton.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -1197,7 +1197,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/ken/Downloads/nextjs_airbnb/components/InputBox.js";
+var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/InputBox.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 /* harmony default export */ __webpack_exports__["default"] = (function (_ref) {
@@ -1244,7 +1244,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/ken/Downloads/nextjs_airbnb/components/OptionBox.js";
+var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/OptionBox.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 /* harmony default export */ __webpack_exports__["default"] = (function (_ref) {
@@ -1343,7 +1343,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 
-var _jsxFileName = "/Users/ken/Downloads/nextjs_airbnb/components/Review.js";
+var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/Review.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 /* harmony default export */ __webpack_exports__["default"] = (function (_ref) {
@@ -1471,13 +1471,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _public_2_jpg__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_public_2_jpg__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var _public_3_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../public/3.jpg */ "./public/3.jpg");
 /* harmony import */ var _public_3_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_3_jpg__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var _public_jeff_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../public/jeff.jpg */ "./public/jeff.jpg");
-/* harmony import */ var _public_jeff_jpg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_jeff_jpg__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var _public_lesley_jpg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../public/lesley.jpg */ "./public/lesley.jpg");
-/* harmony import */ var _public_lesley_jpg__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_public_lesley_jpg__WEBPACK_IMPORTED_MODULE_6__);
-/* harmony import */ var _public_denise_jpg__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../public/denise.jpg */ "./public/denise.jpg");
-/* harmony import */ var _public_denise_jpg__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_public_denise_jpg__WEBPACK_IMPORTED_MODULE_7__);
-var _jsxFileName = "/Users/ken/Downloads/nextjs_airbnb/components/Reviews.js";
+/* harmony import */ var _public_jeff_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../public/jeff.png */ "./public/jeff.png");
+/* harmony import */ var _public_jeff_png__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_jeff_png__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _public_lesley_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../public/lesley.png */ "./public/lesley.png");
+/* harmony import */ var _public_lesley_png__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_public_lesley_png__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _public_denise_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../public/denise.png */ "./public/denise.png");
+/* harmony import */ var _public_denise_png__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_public_denise_png__WEBPACK_IMPORTED_MODULE_7__);
+var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/Reviews.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -1572,7 +1572,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     img: _public_1_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
     stars: "5",
     description: "What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and...",
-    avatar: _public_jeff_jpg__WEBPACK_IMPORTED_MODULE_5___default.a,
+    avatar: _public_jeff_png__WEBPACK_IMPORTED_MODULE_5___default.a,
     hostName: "Jeff",
     hostCountry: "United States",
     __source: {
@@ -1584,7 +1584,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     img: _public_2_jpg__WEBPACK_IMPORTED_MODULE_3___default.a,
     stars: "4",
     description: "What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and...",
-    avatar: _public_lesley_jpg__WEBPACK_IMPORTED_MODULE_6___default.a,
+    avatar: _public_lesley_png__WEBPACK_IMPORTED_MODULE_6___default.a,
     hostName: "Lesley",
     hostCountry: "United Kingdom",
     __source: {
@@ -1596,7 +1596,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     img: _public_3_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,
     stars: "5",
     description: "What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and...",
-    avatar: _public_denise_jpg__WEBPACK_IMPORTED_MODULE_7___default.a,
+    avatar: _public_denise_png__WEBPACK_IMPORTED_MODULE_7___default.a,
     hostName: "Denise",
     hostCountry: "United States",
     __source: {
@@ -7838,10 +7838,10 @@ if (true) {
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fken%2FDownloads%2Fnextjs_airbnb%2Fpages%2Findex.js!./":
-/*!**************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fken%2FDownloads%2Fnextjs_airbnb%2Fpages%2Findex.js ***!
-  \**************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fken%2FDesktop%2Fnextjs_airbnb%2Fpages%2Findex.js!./":
+/*!************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fken%2FDesktop%2Fnextjs_airbnb%2Fpages%2Findex.js ***!
+  \************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10346,8 +10346,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_Benefits__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Benefits */ "./components/Benefits.js");
 /* harmony import */ var _components_Reviews__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Reviews */ "./components/Reviews.js");
 /* harmony import */ var _components_Booked__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../components/Booked */ "./components/Booked.js");
-/* harmony import */ var _components_Footer__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../components/Footer */ "./components/Footer.js");
-var _jsxFileName = "/Users/ken/Downloads/nextjs_airbnb/pages/index.js";
+/* harmony import */ var _components_Footer__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../components/Footer */ "./components/Footer.js");
+var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/pages/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -10388,7 +10388,7 @@ var Home = function Home() {
       lineNumber: 15
     },
     __self: this
-  }), __jsx(_components_Footer__WEBPACK_IMPORTED_MODULE_7__["default"], {
+  }), __jsx(_components_Footer__WEBPACK_IMPORTED_MODULE_6__["default"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 16
@@ -10408,7 +10408,7 @@ var Home = function Home() {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/1-43a265f29bfa729901245a88b6b81a0d.jpg";
+module.exports = "/_next/static/images/1-8b037215ff02f4d447df791ae31adb56.jpg";
 
 /***/ }),
 
@@ -10419,7 +10419,7 @@ module.exports = "/_next/static/images/1-43a265f29bfa729901245a88b6b81a0d.jpg";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/2-00d3b8ff8d3d3eb0c0cc40dbba61af11.jpg";
+module.exports = "/_next/static/images/2-f0e015e588a04e728e8244d33113443d.jpg";
 
 /***/ }),
 
@@ -10430,7 +10430,7 @@ module.exports = "/_next/static/images/2-00d3b8ff8d3d3eb0c0cc40dbba61af11.jpg";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/3-4c306b453afb1874e88924b0f109ac67.jpg";
+module.exports = "/_next/static/images/3-857ecc567d4f4afcb3f68dc7d4cd7471.jpg";
 
 /***/ }),
 
@@ -10445,25 +10445,25 @@ module.exports = "/_next/static/images/airbnb-home-bb270612b5fb0dddf3eaa293a588c
 
 /***/ }),
 
-/***/ "./public/denise.jpg":
+/***/ "./public/denise.png":
 /*!***************************!*\
-  !*** ./public/denise.jpg ***!
+  !*** ./public/denise.png ***!
   \***************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/denise-18d6fd65cd42379188e569f84ddf5e6b.jpg";
+module.exports = "/_next/static/images/denise-c82af5fa014eee735276ed082ba8e5ad.png";
 
 /***/ }),
 
-/***/ "./public/jeff.jpg":
+/***/ "./public/jeff.png":
 /*!*************************!*\
-  !*** ./public/jeff.jpg ***!
+  !*** ./public/jeff.png ***!
   \*************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/jeff-768c9733398f2a227bd8b4b97c7faee7.jpg";
+module.exports = "/_next/static/images/jeff-7a19b7f8042b10590f2c5bd46d2775b6.png";
 
 /***/ }),
 
@@ -10511,25 +10511,25 @@ module.exports = "/_next/static/images/just-booked-4-fe952247e32c0b80f3e057bcf17
 
 /***/ }),
 
-/***/ "./public/lesley.jpg":
+/***/ "./public/lesley.png":
 /*!***************************!*\
-  !*** ./public/lesley.jpg ***!
+  !*** ./public/lesley.png ***!
   \***************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/lesley-1b77564a0c7afd0720e3f6a1e9123d45.jpg";
+module.exports = "/_next/static/images/lesley-040ddcb0c5e7d413d7ee2d95f72ed91f.png";
 
 /***/ }),
 
-/***/ 2:
-/*!******************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fken%2FDownloads%2Fnextjs_airbnb%2Fpages%2Findex.js ***!
-  \******************************************************************************************************************************/
+/***/ 1:
+/*!****************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fken%2FDesktop%2Fnextjs_airbnb%2Fpages%2Findex.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fken%2FDownloads%2Fnextjs_airbnb%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fken%2FDownloads%2Fnextjs_airbnb%2Fpages%2Findex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fken%2FDesktop%2Fnextjs_airbnb%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fken%2FDesktop%2Fnextjs_airbnb%2Fpages%2Findex.js!./");
 
 
 /***/ }),
@@ -10545,5 +10545,5 @@ module.exports = dll_ef0ff7c60362f24a921f;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map

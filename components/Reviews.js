@@ -4,9 +4,9 @@ import card1 from '../public/1.jpg';
 import card2 from '../public/2.jpg';
 import card3 from '../public/3.jpg';
 
-import avatar1 from '../public/jeff.jpg';
-import avatar2 from '../public/lesley.jpg';
-import avatar3 from '../public/denise.jpg';
+import avatar1 from '../public/jeff.png';
+import avatar2 from '../public/lesley.png';
+import avatar3 from '../public/denise.png';
 
 export default () => {
 	return (
