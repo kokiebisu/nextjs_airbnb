@@ -8,6 +8,7 @@ Previous Airbnb Landing Page
 ### Technologies
 - NextJS
 - Tailwindcss
+- Self made boilerplate for Nextjs + tailwindcss: https://github.com/kokiebisu/nextjs_starter_kit
 
 ### What did I learn?
 - How to use tailwindcss for responsive effective layout
