@@ -1,6 +1,6 @@
 import Banner from '../components/Banner';
 import Booking from '../components/Booking';
-
+import Benefits from '../components/Benefits';
 import Reviews from '../components/Reviews';
 
 const Home = () => {
@@ -9,6 +9,7 @@ const Home = () => {
 			<Banner />
 			<Booking />
 			<Reviews />
+			<Benefits />
 		</>
 	);
 };

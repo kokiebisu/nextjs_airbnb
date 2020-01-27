@@ -1,6 +1,6 @@
 export default ({ label, options }) => {
 	return (
-		<div class='lg:w-1/3 w-full py-2 lg:pr-0 '>
+		<div class='lg:w-1/3 w-full pt-2 lg:pr-0 '>
 			<label for={label} class='uppercase tracking-wide font-semibold text-xs text-gray-900 mb-2 block'>
 				{label}
 			</label>

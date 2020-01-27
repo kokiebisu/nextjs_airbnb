@@ -10,7 +10,7 @@ import avatar3 from '../public/denise.jpg';
 
 export default () => {
 	return (
-		<div class='max-w-5xl mx-auto px-4 lg:px-0'>
+		<div class='max-w-5xl mx-auto py-12 my-1 px-4 lg:px-0'>
 			<h3 class='font-semibold text-2xl leading-none text-gray-800'>
 				What guests are saying about homes in the United States
 			</h3>
