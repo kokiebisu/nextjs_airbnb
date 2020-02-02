@@ -1,4 +1,4 @@
-import Review from './Review';
+import Review from './ReviewCard';
 
 import card1 from '../public/1.jpg';
 import card2 from '../public/2.jpg';

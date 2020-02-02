@@ -705,6 +705,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, __jsx("a", {
+    href: "#",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10
@@ -718,6 +719,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, __jsx("a", {
+    href: "#",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 13
@@ -731,6 +733,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, __jsx("a", {
+    href: "#",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 16
@@ -744,6 +747,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, __jsx("a", {
+    href: "#",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 19
@@ -757,6 +761,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, __jsx("a", {
+    href: "#",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 22
@@ -791,6 +796,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, __jsx("a", {
+    href: "#",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 30
@@ -804,6 +810,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, __jsx("a", {
+    href: "#",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 33
@@ -817,6 +824,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, __jsx("a", {
+    href: "#",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 36
@@ -830,6 +838,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, __jsx("a", {
+    href: "#",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 39
@@ -843,6 +852,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, __jsx("a", {
+    href: "#",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 42
@@ -856,6 +866,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, __jsx("a", {
+    href: "#",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 45
@@ -890,6 +901,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, __jsx("a", {
+    href: "#",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 53
@@ -903,6 +915,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, __jsx("a", {
+    href: "#",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 56
@@ -916,6 +929,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, __jsx("a", {
+    href: "#",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 59
@@ -929,6 +943,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, __jsx("a", {
+    href: "#",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 62
@@ -942,6 +957,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, __jsx("a", {
+    href: "#",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 65
@@ -1055,6 +1071,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, __jsx("a", {
+    href: "#",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 112
@@ -1068,6 +1085,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, __jsx("a", {
+    href: "#",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 115
@@ -1081,6 +1099,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     },
     __self: this
   }, __jsx("a", {
+    href: "#",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 118
@@ -1329,10 +1348,10 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /***/ }),
 
-/***/ "./components/Review.js":
-/*!******************************!*\
-  !*** ./components/Review.js ***!
-  \******************************/
+/***/ "./components/ReviewCard.js":
+/*!**********************************!*\
+  !*** ./components/ReviewCard.js ***!
+  \**********************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1343,7 +1362,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 
-var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/Review.js";
+var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/ReviewCard.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 /* harmony default export */ __webpack_exports__["default"] = (function (_ref) {
@@ -1464,7 +1483,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _Review__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Review */ "./components/Review.js");
+/* harmony import */ var _ReviewCard__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./ReviewCard */ "./components/ReviewCard.js");
 /* harmony import */ var _public_1_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../public/1.jpg */ "./public/1.jpg");
 /* harmony import */ var _public_1_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_public_1_jpg__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _public_2_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../public/2.jpg */ "./public/2.jpg");
@@ -1568,7 +1587,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
       lineNumber: 35
     },
     __self: this
-  }, __jsx(_Review__WEBPACK_IMPORTED_MODULE_1__["default"], {
+  }, __jsx(_ReviewCard__WEBPACK_IMPORTED_MODULE_1__["default"], {
     img: _public_1_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
     stars: "5",
     description: "What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and...",
@@ -1580,7 +1599,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
       lineNumber: 36
     },
     __self: this
-  }), __jsx(_Review__WEBPACK_IMPORTED_MODULE_1__["default"], {
+  }), __jsx(_ReviewCard__WEBPACK_IMPORTED_MODULE_1__["default"], {
     img: _public_2_jpg__WEBPACK_IMPORTED_MODULE_3___default.a,
     stars: "4",
     description: "What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and...",
@@ -1592,7 +1611,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
       lineNumber: 44
     },
     __self: this
-  }), __jsx(_Review__WEBPACK_IMPORTED_MODULE_1__["default"], {
+  }), __jsx(_ReviewCard__WEBPACK_IMPORTED_MODULE_1__["default"], {
     img: _public_3_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,
     stars: "5",
     description: "What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and...",
@@ -10350,6 +10369,7 @@ __webpack_require__.r(__webpack_exports__);
 var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/pages/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+// Components
 
 
 
@@ -10361,37 +10381,37 @@ var Home = function Home() {
   return __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, __jsx(_components_Banner__WEBPACK_IMPORTED_MODULE_1__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 11
+      lineNumber: 16
     },
     __self: this
   }), __jsx(_components_Booking__WEBPACK_IMPORTED_MODULE_2__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 12
+      lineNumber: 17
     },
     __self: this
   }), __jsx(_components_Reviews__WEBPACK_IMPORTED_MODULE_4__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13
+      lineNumber: 18
     },
     __self: this
   }), __jsx(_components_Benefits__WEBPACK_IMPORTED_MODULE_3__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14
+      lineNumber: 19
     },
     __self: this
   }), __jsx(_components_Booked__WEBPACK_IMPORTED_MODULE_5__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15
+      lineNumber: 20
     },
     __self: this
   }), __jsx(_components_Footer__WEBPACK_IMPORTED_MODULE_6__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
+      lineNumber: 21
     },
     __self: this
   }));

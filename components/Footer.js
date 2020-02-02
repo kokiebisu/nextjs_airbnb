@@ -7,19 +7,19 @@ export default () => {
 						<h3 className='text-gray-900 text-sm font-semibold pb-3'>Airbnb</h3>
 						<ul className='leading-loose'>
 							<li class='text-gray-600 text-sm tracking-wide pb-1'>
-								<a>Careers</a>
+								<a href="#">Careers</a>
 							</li>
 							<li class='text-gray-600 text-sm tracking-wide pb-1'>
-								<a>News</a>
+								<a href="#">News</a>
 							</li>
 							<li class='text-gray-600 text-sm tracking-wide pb-1'>
-								<a>Policies</a>
+								<a href="#">Policies</a>
 							</li>
 							<li class='text-gray-600 text-sm tracking-wide pb-1'>
-								<a>Help</a>
+								<a href="#">Help</a>
 							</li>
 							<li class='text-gray-600 text-sm tracking-wide pb-1'>
-								<a>Diversity & Belonging</a>
+								<a href="#">Diversity & Belonging</a>
 							</li>
 						</ul>
 					</div>
@@ -27,22 +27,22 @@ export default () => {
 						<h3 className='text-gray-900 text-sm font-semibold pb-3'>Discover</h3>
 						<ul className='leading-loose'>
 							<li class='text-gray-600 text-sm tracking-wide pb-1'>
-								<a>Trust & Safety</a>
+								<a href="#">Trust & Safety</a>
 							</li>
 							<li class='text-gray-600 text-sm tracking-wide pb-1'>
-								<a>Travel Credit</a>
+								<a href="#">Travel Credit</a>
 							</li>
 							<li class='text-gray-600 text-sm tracking-wide pb-1'>
-								<a>Airbnb Citizen</a>
+								<a href="#">Airbnb Citizen</a>
 							</li>
 							<li class='text-gray-600 text-sm tracking-wide pb-1'>
-								<a>Business Travel</a>
+								<a href="#">Business Travel</a>
 							</li>
 							<li class='text-gray-600 text-sm tracking-wide pb-1'>
-								<a>Things To Do</a>
+								<a href="#">Things To Do</a>
 							</li>
 							<li class='text-gray-600 text-sm tracking-wide pb-1'>
-								<a>Airbnbmag</a>
+								<a href="#">Airbnbmag</a>
 							</li>
 						</ul>
 					</div>
@@ -50,19 +50,19 @@ export default () => {
 						<h3 className='text-gray-900 text-sm font-semibold pb-3'>Hosting</h3>
 						<ul class='leading-loose'>
 							<li class='text-gray-600 text-sm tracking-wide pb-1'>
-								<a>Why Host</a>
+								<a href="#">Why Host</a>
 							</li>
 							<li class='text-gray-600 text-sm tracking-wide pb-1'>
-								<a>Hospitality</a>
+								<a href="#">Hospitality</a>
 							</li>
 							<li class='text-gray-600 text-sm tracking-wide pb-1'>
-								<a>Responsible Hosting</a>
+								<a href="#">Responsible Hosting</a>
 							</li>
 							<li class='text-gray-600 text-sm tracking-wide pb-1'>
-								<a>Community Center</a>
+								<a href="#">Community Center</a>
 							</li>
 							<li class='text-gray-600 text-sm tracking-wide pb-1'>
-								<a>Host an Experience</a>
+								<a href="#">Host an Experience</a>
 							</li>
 						</ul>
 					</div>
@@ -109,13 +109,13 @@ export default () => {
 						</div>
 						<ul>
 							<li class='text-gray-600 text-sm tracking-wide pb-1'>
-								<a>Terms</a>
+								<a href="#">Terms</a>
 							</li>
 							<li class='text-gray-600 text-sm tracking-wide pb-1'>
-								<a>Privacy</a>
+								<a href="#">Privacy</a>
 							</li>
 							<li class='text-gray-600 text-sm tracking-wide pb-1'>
-								<a>Site Map</a>
+								<a href="#">Site Map</a>
 							</li>
 						</ul>
 					</div>
