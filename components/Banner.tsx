@@ -1,4 +1,4 @@
-import img from '../public/airbnb-home.jpg';
+const img = require('../public/airbnb-home.jpg');
 import HeaderButton from './HeaderButton';
 
 interface Props {}

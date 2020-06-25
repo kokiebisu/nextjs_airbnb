@@ -6,7 +6,9 @@ import Reviews from '../components/Reviews';
 import Booked from '../components/Booked';
 import Footer from '../components/Footer';
 
-const Home = () => {
+interface Props {}
+
+export const Home: React.FC<Props> = () => {
   return (
     <>
       <Banner />
@@ -18,5 +20,3 @@ const Home = () => {
     </>
   );
 };
-
-export default Home;
