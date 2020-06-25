@@ -1,6 +1,12 @@
 interface Props {
   label: string;
-  options: string;
+  options: OptionProps;
+}
+
+interface OptionProps {
+  first: string;
+  second: string;
+  third: string;
 }
 
 export const OptionBox: React.FC<Props> = ({ label, options }) => {
