@@ -7,7 +7,7 @@ export const OptionBox: React.FC<Props> = ({ label, options }) => {
   return (
     <div className='lg:w-1/3 w-full pt-2 lg:pr-0 '>
       <label
-        for={label}
+        htmlFor={label}
         className='uppercase tracking-wide font-semibold text-xs text-gray-900 mb-2 block'>
         {label}
       </label>
