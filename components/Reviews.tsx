@@ -8,7 +8,9 @@ const avatar1 = require('../public/jeff.png');
 const avatar2 = require('../public/lesley.png');
 const avatar3 = require('../public/denise.png');
 
-export default () => {
+interface Props {}
+
+export const Reviews: React.FC<Props> = () => {
   return (
     <div className='max-w-5xl mx-auto py-12 my-1 px-4 lg:px-0'>
       <h3 className='font-semibold text-2xl leading-none text-gray-800'>

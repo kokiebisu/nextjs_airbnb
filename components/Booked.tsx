@@ -1,4 +1,4 @@
-import Card from './Card';
+import { Card } from './Card';
 
 // Images
 import img1 from '../public/just-booked-1.jpg';
@@ -6,7 +6,9 @@ import img2 from '../public/just-booked-2.jpg';
 import img3 from '../public/just-booked-3.jpg';
 import img4 from '../public/just-booked-4.jpg';
 
-export default () => {
+interface Props {}
+
+export const Booked: React.FC<Props> = () => {
   return (
     <div className='max-w-5xl mx-auto px-4 mb-16 lg:px-0 lg:py-4'>
       <h3 className='font-semibold text-2xl text-gray-800 my-5'>

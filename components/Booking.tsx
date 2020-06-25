@@ -1,5 +1,5 @@
-import InputBox from './InputBox';
-import OptionBox from './OptionBox';
+import { InputBox } from './InputBox';
+import { OptionBox } from './OptionBox';
 
 interface Props {}
 

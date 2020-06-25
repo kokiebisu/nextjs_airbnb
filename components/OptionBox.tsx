@@ -5,23 +5,23 @@ interface Props {
 
 export const OptionBox: React.FC<Props> = ({ label, options }) => {
   return (
-    <div class='lg:w-1/3 w-full pt-2 lg:pr-0 '>
+    <div className='lg:w-1/3 w-full pt-2 lg:pr-0 '>
       <label
         for={label}
-        class='uppercase tracking-wide font-semibold text-xs text-gray-900 mb-2 block'>
+        className='uppercase tracking-wide font-semibold text-xs text-gray-900 mb-2 block'>
         {label}
       </label>
-      <div class='relative'>
+      <div className='relative'>
         <select
           id={label}
-          class='p-3 border border-gray-300 rounded w-full appearance-none'>
+          className='p-3 border border-gray-300 rounded w-full appearance-none'>
           <option value='1'>{options.first}</option>
           <option value='2'>{options.second}</option>
           <option value='3'>{options.third}</option>
         </select>
-        <div class='flex items-center pointer-events-none absolute inset-y-0 right-0 px-2'>
+        <div className='flex items-center pointer-events-none absolute inset-y-0 right-0 px-2'>
           <svg
-            class='fill-current h-4 w-4'
+            className='fill-current h-4 w-4'
             xmlns='http://www.w3.org/2000/svg'
             viewBox='0 0 20 20'>
             <path d='M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z' />

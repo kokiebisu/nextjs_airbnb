@@ -1,14 +1,14 @@
 // Components
 import { Banner } from '../components/Banner';
-import Booking from '../components/Booking';
-import Benefits from '../components/Benefits';
-import Reviews from '../components/Reviews';
-import Booked from '../components/Booked';
-import Footer from '../components/Footer';
+import { Booking } from '../components/Booking';
+import { Benefits } from '../components/Benefits';
+import { Reviews } from '../components/Reviews';
+import { Booked } from '../components/Booked';
+import { Footer } from '../components/Footer';
 
 interface Props {}
 
-export const Home: React.FC<Props> = () => {
+export default () => {
   return (
     <>
       <Banner />
