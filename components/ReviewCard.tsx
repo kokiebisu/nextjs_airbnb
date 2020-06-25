@@ -1,6 +1,6 @@
 interface Props {
   img: string;
-  stars: number;
+  stars: string;
   description: string;
   avatar: string;
   hostName: string;
