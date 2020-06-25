@@ -101,115 +101,7 @@ module.exports =
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _public_airbnb_home_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../public/airbnb-home.jpg */ "./public/airbnb-home.jpg");
-/* harmony import */ var _public_airbnb_home_jpg__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_public_airbnb_home_jpg__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _HeaderButton__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./HeaderButton */ "./components/HeaderButton.js");
-var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/Banner.js";
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-
-
-/* harmony default export */ __webpack_exports__["default"] = (() => {
-  return __jsx("header", {
-    style: {
-      backgroundImage: `url(${_public_airbnb_home_jpg__WEBPACK_IMPORTED_MODULE_1___default.a})`
-    },
-    className: "relative bg-cover bg-no-repeat bg-top-right lg:bg-center p-6",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 6
-    },
-    __self: undefined
-  }, __jsx("a", {
-    href: "/",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 9
-    },
-    __self: undefined
-  }, __jsx("h1", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 10
-    },
-    __self: undefined
-  }, __jsx("svg", {
-    viewBox: "0 0 1000 1000",
-    role: "presentation",
-    "aria-hidden": "true",
-    focusable: "false",
-    style: {
-      height: 32,
-      width: 32,
-      display: 'block',
-      fill: '#ffffff'
-    },
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 11
-    },
-    __self: undefined
-  }, __jsx("title", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 17
-    },
-    __self: undefined
-  }, "AirBnb"), __jsx("path", {
-    d: "m499.3 736.7c-51-64-81-120.1-91-168.1-10-39-6-70 11-93 18-27 45-40 80-40s62 13 80 40c17 23 21 54 11 93-11 49-41 105-91 168.1zm362.2 43c-7 47-39 86-83 105-85 37-169.1-22-241.1-102 119.1-149.1 141.1-265.1 90-340.2-30-43-73-64-128.1-64-111 0-172.1 94-148.1 203.1 14 59 51 126.1 110 201.1-37 41-72 70-103 88-24 13-47 21-69 23-101 15-180.1-83-144.1-184.1 5-13 15-37 32-74l1-2c55-120.1 122.1-256.1 199.1-407.2l2-5 22-42c17-31 24-45 51-62 13-8 29-12 47-12 36 0 64 21 76 38 6 9 13 21 22 36l21 41 3 6c77 151.1 144.1 287.1 199.1 407.2l1 1 20 46 12 29c9.2 23.1 11.2 46.1 8.2 70.1zm46-90.1c-7-22-19-48-34-79v-1c-71-151.1-137.1-287.1-200.1-409.2l-4-6c-45-92-77-147.1-170.1-147.1-92 0-131.1 64-171.1 147.1l-3 6c-63 122.1-129.1 258.1-200.1 409.2v2l-21 46c-8 19-12 29-13 32-51 140.1 54 263.1 181.1 263.1 1 0 5 0 10-1h14c66-8 134.1-50 203.1-125.1 69 75 137.1 117.1 203.1 125.1h14c5 1 9 1 10 1 127.1.1 232.1-123 181.1-263.1z",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 18
-    },
-    __self: undefined
-  })))), __jsx("div", {
-    className: "max-w-5xl mx-auto py-4 lg:py-32",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 22
-    },
-    __self: undefined
-  }, __jsx("h2", {
-    className: "text-white text-4xl lg:text-5xl font-semibold leading-relaxing mb-4",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 23
-    },
-    __self: undefined
-  }, "Book a trip. Host travels. All on Airbnb"), __jsx("div", {
-    className: "flex items-center flex-wrap justify-start max-w-2xl lg:mx-0 mx-auto",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 26
-    },
-    __self: undefined
-  }, __jsx(_HeaderButton__WEBPACK_IMPORTED_MODULE_2__["default"], {
-    color: "white",
-    description: "Find a place to stay and things to do",
-    name: "Explore",
-    borderColor: "transparent",
-    fontColor: "gray",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 27
-    },
-    __self: undefined
-  }), __jsx(_HeaderButton__WEBPACK_IMPORTED_MODULE_2__["default"], {
-    color: "transparent",
-    description: "Earn money from your extra space",
-    name: "Host",
-    borderColor: "white",
-    fontColor: "white",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 34
-    },
-    __self: undefined
-  }))));
-});
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _public_airbnb_home_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../public/airbnb-home.jpg */ \"./public/airbnb-home.jpg\");\n/* harmony import */ var _public_airbnb_home_jpg__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_public_airbnb_home_jpg__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _HeaderButton__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./HeaderButton */ \"./components/HeaderButton.js\");\nvar _jsxFileName = \"/Users/ken/Desktop/nextjs_airbnb/components/Banner.js\";\n\nvar __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;\n\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (() => {\n  return __jsx(\"header\", {\n    style: {\n      backgroundImage: `url(${_public_airbnb_home_jpg__WEBPACK_IMPORTED_MODULE_1___default.a})`\n    },\n    className: \"relative bg-cover bg-no-repeat bg-top-right lg:bg-center p-6\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 6,\n      columnNumber: 3\n    }\n  }, __jsx(\"a\", {\n    href: \"/\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 9,\n      columnNumber: 4\n    }\n  }, __jsx(\"h1\", {\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 10,\n      columnNumber: 5\n    }\n  }, __jsx(\"svg\", {\n    viewBox: \"0 0 1000 1000\",\n    role: \"presentation\",\n    \"aria-hidden\": \"true\",\n    focusable: \"false\",\n    style: {\n      height: 32,\n      width: 32,\n      display: 'block',\n      fill: '#ffffff'\n    },\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 11,\n      columnNumber: 6\n    }\n  }, __jsx(\"title\", {\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 17,\n      columnNumber: 7\n    }\n  }, \"AirBnb\"), __jsx(\"path\", {\n    d: \"m499.3 736.7c-51-64-81-120.1-91-168.1-10-39-6-70 11-93 18-27 45-40 80-40s62 13 80 40c17 23 21 54 11 93-11 49-41 105-91 168.1zm362.2 43c-7 47-39 86-83 105-85 37-169.1-22-241.1-102 119.1-149.1 141.1-265.1 90-340.2-30-43-73-64-128.1-64-111 0-172.1 94-148.1 203.1 14 59 51 126.1 110 201.1-37 41-72 70-103 88-24 13-47 21-69 23-101 15-180.1-83-144.1-184.1 5-13 15-37 32-74l1-2c55-120.1 122.1-256.1 199.1-407.2l2-5 22-42c17-31 24-45 51-62 13-8 29-12 47-12 36 0 64 21 76 38 6 9 13 21 22 36l21 41 3 6c77 151.1 144.1 287.1 199.1 407.2l1 1 20 46 12 29c9.2 23.1 11.2 46.1 8.2 70.1zm46-90.1c-7-22-19-48-34-79v-1c-71-151.1-137.1-287.1-200.1-409.2l-4-6c-45-92-77-147.1-170.1-147.1-92 0-131.1 64-171.1 147.1l-3 6c-63 122.1-129.1 258.1-200.1 409.2v2l-21 46c-8 19-12 29-13 32-51 140.1 54 263.1 181.1 263.1 1 0 5 0 10-1h14c66-8 134.1-50 203.1-125.1 69 75 137.1 117.1 203.1 125.1h14c5 1 9 1 10 1 127.1.1 232.1-123 181.1-263.1z\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 18,\n      columnNumber: 7\n    }\n  })))), __jsx(\"div\", {\n    className: \"max-w-5xl mx-auto py-4 lg:py-32\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 22,\n      columnNumber: 4\n    }\n  }, __jsx(\"h2\", {\n    className: \"text-white text-4xl lg:text-5xl font-semibold leading-relaxing mb-4\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 23,\n      columnNumber: 5\n    }\n  }, \"Book a trip. Host travels. All on Airbnb\"), __jsx(\"div\", {\n    className: \"flex items-center flex-wrap justify-start max-w-2xl lg:mx-0 mx-auto\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 26,\n      columnNumber: 5\n    }\n  }, __jsx(_HeaderButton__WEBPACK_IMPORTED_MODULE_2__[\"default\"], {\n    color: \"white\",\n    description: \"Find a place to stay and things to do\",\n    name: \"Explore\",\n    borderColor: \"transparent\",\n    fontColor: \"gray\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 27,\n      columnNumber: 6\n    }\n  }), __jsx(_HeaderButton__WEBPACK_IMPORTED_MODULE_2__[\"default\"], {\n    color: \"transparent\",\n    description: \"Earn money from your extra space\",\n    name: \"Host\",\n    borderColor: \"white\",\n    fontColor: \"white\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 34,\n      columnNumber: 6\n    }\n  }))));\n});//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb21wb25lbnRzL0Jhbm5lci5qcz9lZGY2Il0sIm5hbWVzIjpbImJhY2tncm91bmRJbWFnZSIsImltZyIsImhlaWdodCIsIndpZHRoIiwiZGlzcGxheSIsImZpbGwiXSwibWFwcGluZ3MiOiI7Ozs7Ozs7OztBQUFBO0FBQ0E7QUFFZSxxRUFBTTtBQUNwQixTQUNDO0FBQ0MsU0FBSyxFQUFFO0FBQUVBLHFCQUFlLEVBQUcsT0FBTUMsOERBQUk7QUFBOUIsS0FEUjtBQUVDLGFBQVMsRUFBQyw4REFGWDtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBR0M7QUFBRyxRQUFJLEVBQUMsR0FBUjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUNDO0FBQ0MsV0FBTyxFQUFDLGVBRFQ7QUFFQyxRQUFJLEVBQUMsY0FGTjtBQUdDLG1CQUFZLE1BSGI7QUFJQyxhQUFTLEVBQUMsT0FKWDtBQUtDLFNBQUssRUFBRTtBQUFFQyxZQUFNLEVBQUUsRUFBVjtBQUFjQyxXQUFLLEVBQUUsRUFBckI7QUFBeUJDLGFBQU8sRUFBRSxPQUFsQztBQUEyQ0MsVUFBSSxFQUFFO0FBQWpELEtBTFI7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQU1DO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsY0FORCxFQU9DO0FBQU0sS0FBQyxFQUFDLDQ0QkFBUjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLElBUEQsQ0FERCxDQURELENBSEQsRUFnQkM7QUFBSyxhQUFTLEVBQUMsaUNBQWY7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUNDO0FBQUksYUFBUyxFQUFDLHFFQUFkO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsZ0RBREQsRUFJQztBQUFLLGFBQVMsRUFBQyxxRUFBZjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0MsTUFBQyxxREFBRDtBQUNDLFNBQUssRUFBQyxPQURQO0FBRUMsZUFBVyxFQUFDLHVDQUZiO0FBR0MsUUFBSSxFQUFDLFNBSE47QUFJQyxlQUFXLEVBQUMsYUFKYjtBQUtDLGFBQVMsRUFBQyxNQUxYO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsSUFERCxFQVFDLE1BQUMscURBQUQ7QUFDQyxTQUFLLEVBQUMsYUFEUDtBQUVDLGVBQVcsRUFBQyxrQ0FGYjtBQUdDLFFBQUksRUFBQyxNQUhOO0FBSUMsZUFBVyxFQUFDLE9BSmI7QUFLQyxhQUFTLEVBQUMsT0FMWDtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLElBUkQsQ0FKRCxDQWhCRCxDQUREO0FBd0NBLENBekNEIiwiZmlsZSI6Ii4vY29tcG9uZW50cy9CYW5uZXIuanMuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgaW1nIGZyb20gJy4uL3B1YmxpYy9haXJibmItaG9tZS5qcGcnO1xuaW1wb3J0IEhlYWRlckJ1dHRvbiBmcm9tICcuL0hlYWRlckJ1dHRvbic7XG5cbmV4cG9ydCBkZWZhdWx0ICgpID0+IHtcblx0cmV0dXJuIChcblx0XHQ8aGVhZGVyXG5cdFx0XHRzdHlsZT17eyBiYWNrZ3JvdW5kSW1hZ2U6IGB1cmwoJHtpbWd9KWAgfX1cblx0XHRcdGNsYXNzTmFtZT0ncmVsYXRpdmUgYmctY292ZXIgYmctbm8tcmVwZWF0IGJnLXRvcC1yaWdodCBsZzpiZy1jZW50ZXIgcC02Jz5cblx0XHRcdDxhIGhyZWY9Jy8nPlxuXHRcdFx0XHQ8aDE+XG5cdFx0XHRcdFx0PHN2Z1xuXHRcdFx0XHRcdFx0dmlld0JveD0nMCAwIDEwMDAgMTAwMCdcblx0XHRcdFx0XHRcdHJvbGU9J3ByZXNlbnRhdGlvbidcblx0XHRcdFx0XHRcdGFyaWEtaGlkZGVuPSd0cnVlJ1xuXHRcdFx0XHRcdFx0Zm9jdXNhYmxlPSdmYWxzZSdcblx0XHRcdFx0XHRcdHN0eWxlPXt7IGhlaWdodDogMzIsIHdpZHRoOiAzMiwgZGlzcGxheTogJ2Jsb2NrJywgZmlsbDogJyNmZmZmZmYnIH19PlxuXHRcdFx0XHRcdFx0PHRpdGxlPkFpckJuYjwvdGl0bGU+XG5cdFx0XHRcdFx0XHQ8cGF0aCBkPSdtNDk5LjMgNzM2LjdjLTUxLTY0LTgxLTEyMC4xLTkxLTE2OC4xLTEwLTM5LTYtNzAgMTEtOTMgMTgtMjcgNDUtNDAgODAtNDBzNjIgMTMgODAgNDBjMTcgMjMgMjEgNTQgMTEgOTMtMTEgNDktNDEgMTA1LTkxIDE2OC4xem0zNjIuMiA0M2MtNyA0Ny0zOSA4Ni04MyAxMDUtODUgMzctMTY5LjEtMjItMjQxLjEtMTAyIDExOS4xLTE0OS4xIDE0MS4xLTI2NS4xIDkwLTM0MC4yLTMwLTQzLTczLTY0LTEyOC4xLTY0LTExMSAwLTE3Mi4xIDk0LTE0OC4xIDIwMy4xIDE0IDU5IDUxIDEyNi4xIDExMCAyMDEuMS0zNyA0MS03MiA3MC0xMDMgODgtMjQgMTMtNDcgMjEtNjkgMjMtMTAxIDE1LTE4MC4xLTgzLTE0NC4xLTE4NC4xIDUtMTMgMTUtMzcgMzItNzRsMS0yYzU1LTEyMC4xIDEyMi4xLTI1Ni4xIDE5OS4xLTQwNy4ybDItNSAyMi00MmMxNy0zMSAyNC00NSA1MS02MiAxMy04IDI5LTEyIDQ3LTEyIDM2IDAgNjQgMjEgNzYgMzggNiA5IDEzIDIxIDIyIDM2bDIxIDQxIDMgNmM3NyAxNTEuMSAxNDQuMSAyODcuMSAxOTkuMSA0MDcuMmwxIDEgMjAgNDYgMTIgMjljOS4yIDIzLjEgMTEuMiA0Ni4xIDguMiA3MC4xem00Ni05MC4xYy03LTIyLTE5LTQ4LTM0LTc5di0xYy03MS0xNTEuMS0xMzcuMS0yODcuMS0yMDAuMS00MDkuMmwtNC02Yy00NS05Mi03Ny0xNDcuMS0xNzAuMS0xNDcuMS05MiAwLTEzMS4xIDY0LTE3MS4xIDE0Ny4xbC0zIDZjLTYzIDEyMi4xLTEyOS4xIDI1OC4xLTIwMC4xIDQwOS4ydjJsLTIxIDQ2Yy04IDE5LTEyIDI5LTEzIDMyLTUxIDE0MC4xIDU0IDI2My4xIDE4MS4xIDI2My4xIDEgMCA1IDAgMTAtMWgxNGM2Ni04IDEzNC4xLTUwIDIwMy4xLTEyNS4xIDY5IDc1IDEzNy4xIDExNy4xIDIwMy4xIDEyNS4xaDE0YzUgMSA5IDEgMTAgMSAxMjcuMS4xIDIzMi4xLTEyMyAxODEuMS0yNjMuMXonPjwvcGF0aD5cblx0XHRcdFx0XHQ8L3N2Zz5cblx0XHRcdFx0PC9oMT5cblx0XHRcdDwvYT5cblx0XHRcdDxkaXYgY2xhc3NOYW1lPSdtYXgtdy01eGwgbXgtYXV0byBweS00IGxnOnB5LTMyJz5cblx0XHRcdFx0PGgyIGNsYXNzTmFtZT0ndGV4dC13aGl0ZSB0ZXh0LTR4bCBsZzp0ZXh0LTV4bCBmb250LXNlbWlib2xkIGxlYWRpbmctcmVsYXhpbmcgbWItNCc+XG5cdFx0XHRcdFx0Qm9vayBhIHRyaXAuIEhvc3QgdHJhdmVscy4gQWxsIG9uIEFpcmJuYlxuXHRcdFx0XHQ8L2gyPlxuXHRcdFx0XHQ8ZGl2IGNsYXNzTmFtZT0nZmxleCBpdGVtcy1jZW50ZXIgZmxleC13cmFwIGp1c3RpZnktc3RhcnQgbWF4LXctMnhsIGxnOm14LTAgbXgtYXV0byc+XG5cdFx0XHRcdFx0PEhlYWRlckJ1dHRvblxuXHRcdFx0XHRcdFx0Y29sb3I9J3doaXRlJ1xuXHRcdFx0XHRcdFx0ZGVzY3JpcHRpb249J0ZpbmQgYSBwbGFjZSB0byBzdGF5IGFuZCB0aGluZ3MgdG8gZG8nXG5cdFx0XHRcdFx0XHRuYW1lPSdFeHBsb3JlJ1xuXHRcdFx0XHRcdFx0Ym9yZGVyQ29sb3I9J3RyYW5zcGFyZW50J1xuXHRcdFx0XHRcdFx0Zm9udENvbG9yPSdncmF5J1xuXHRcdFx0XHRcdC8+XG5cdFx0XHRcdFx0PEhlYWRlckJ1dHRvblxuXHRcdFx0XHRcdFx0Y29sb3I9J3RyYW5zcGFyZW50J1xuXHRcdFx0XHRcdFx0ZGVzY3JpcHRpb249J0Vhcm4gbW9uZXkgZnJvbSB5b3VyIGV4dHJhIHNwYWNlJ1xuXHRcdFx0XHRcdFx0bmFtZT0nSG9zdCdcblx0XHRcdFx0XHRcdGJvcmRlckNvbG9yPSd3aGl0ZSdcblx0XHRcdFx0XHRcdGZvbnRDb2xvcj0nd2hpdGUnXG5cdFx0XHRcdFx0Lz5cblx0XHRcdFx0PC9kaXY+XG5cdFx0XHQ8L2Rpdj5cblx0XHQ8L2hlYWRlcj5cblx0KTtcbn07XG4iXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./components/Banner.js\n");
 
 /***/ }),
 
@@ -221,40 +113,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/Benefit.js";
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-/* harmony default export */ __webpack_exports__["default"] = (({
-  title,
-  description,
-  children
-}) => {
-  return __jsx("div", {
-    class: "lg:w-1/3 w-full my-6",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 3
-    },
-    __self: undefined
-  }, children, __jsx("h4", {
-    class: "font-semibold text-gray-800 my-3",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 5
-    },
-    __self: undefined
-  }, title), __jsx("p", {
-    class: "text-gray-600 tracking-wide font-light leading-snug text-sm pr-4",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 6
-    },
-    __self: undefined
-  }, description));
-});
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\nvar _jsxFileName = \"/Users/ken/Desktop/nextjs_airbnb/components/Benefit.js\";\n\nvar __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;\n/* harmony default export */ __webpack_exports__[\"default\"] = (({\n  title,\n  description,\n  children\n}) => {\n  return __jsx(\"div\", {\n    class: \"lg:w-1/3 w-full my-6\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 3,\n      columnNumber: 3\n    }\n  }, children, __jsx(\"h4\", {\n    class: \"font-semibold text-gray-800 my-3\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 5,\n      columnNumber: 4\n    }\n  }, title), __jsx(\"p\", {\n    class: \"text-gray-600 tracking-wide font-light leading-snug text-sm pr-4\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 6,\n      columnNumber: 4\n    }\n  }, description));\n});//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb21wb25lbnRzL0JlbmVmaXQuanM/OGRhYiJdLCJuYW1lcyI6WyJ0aXRsZSIsImRlc2NyaXB0aW9uIiwiY2hpbGRyZW4iXSwibWFwcGluZ3MiOiI7Ozs7OztBQUFlLGdFQUFDO0FBQUVBLE9BQUY7QUFBU0MsYUFBVDtBQUFzQkM7QUFBdEIsQ0FBRCxLQUFzQztBQUNwRCxTQUNDO0FBQUssU0FBSyxFQUFDLHNCQUFYO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FDRUEsUUFERixFQUVDO0FBQUksU0FBSyxFQUFDLGtDQUFWO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FBOENGLEtBQTlDLENBRkQsRUFHQztBQUFHLFNBQUssRUFBQyxrRUFBVDtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQTZFQyxXQUE3RSxDQUhELENBREQ7QUFPQSxDQVJEIiwiZmlsZSI6Ii4vY29tcG9uZW50cy9CZW5lZml0LmpzLmpzIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGRlZmF1bHQgKHsgdGl0bGUsIGRlc2NyaXB0aW9uLCBjaGlsZHJlbiB9KSA9PiB7XG5cdHJldHVybiAoXG5cdFx0PGRpdiBjbGFzcz0nbGc6dy0xLzMgdy1mdWxsIG15LTYnPlxuXHRcdFx0e2NoaWxkcmVufVxuXHRcdFx0PGg0IGNsYXNzPSdmb250LXNlbWlib2xkIHRleHQtZ3JheS04MDAgbXktMyc+e3RpdGxlfTwvaDQ+XG5cdFx0XHQ8cCBjbGFzcz0ndGV4dC1ncmF5LTYwMCB0cmFja2luZy13aWRlIGZvbnQtbGlnaHQgbGVhZGluZy1zbnVnIHRleHQtc20gcHItNCc+e2Rlc2NyaXB0aW9ufTwvcD5cblx0XHQ8L2Rpdj5cblx0KTtcbn07XG4iXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./components/Benefit.js\n");
 
 /***/ }),
 
@@ -266,127 +125,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _components_Benefit__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Benefit */ "./components/Benefit.js");
-var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/Benefits.js";
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-
-/* harmony default export */ __webpack_exports__["default"] = (() => {
-  return __jsx("div", {
-    class: "max-w-5xl mx-auto my-1 py-12 px-4 lg:px-0 border-b border-gray-300",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 5
-    },
-    __self: undefined
-  }, __jsx("h3", {
-    class: "font-semibold text-2xl text-gray-800 border-b border-gray-300 pb-3",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 6
-    },
-    __self: undefined
-  }, "Traveling with Airbnb"), __jsx("div", {
-    class: "flex flex-wrap items-center justify-start",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 7
-    },
-    __self: undefined
-  }, __jsx(_components_Benefit__WEBPACK_IMPORTED_MODULE_1__["default"], {
-    title: "24/7 customer support",
-    description: "Day or night, we're here for you. Talk to our support team from anywhere in the world, any hour.",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: undefined
-  }, __jsx("svg", {
-    class: "w-8 h-8",
-    viewBox: "0 0 24 24",
-    fill: "#60B6B5",
-    fillOpacity: "0",
-    stroke: "#60B6B5",
-    strokeWidth: "1",
-    focusable: "false",
-    "aria-hidden": "true",
-    role: "presentation",
-    strokeLinecap: "round",
-    strokeLinejoin: "round",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 11
-    },
-    __self: undefined
-  }, __jsx("path", {
-    d: "m17.5 2.9c-2.1 0-4.1 1.3-5.4 2.8-1.6-1.6-3.8-3.2-6.2-2.7-1.5.2-2.9 1.2-3.6 2.6-2.3 4.1 1 8.3 3.9 11.1 1.4 1.3 2.8 2.5 4.3 3.6.4.3 1.1.9 1.6.9s1.2-.6 1.6-.9c3.2-2.3 6.6-5.1 8.2-8.8 1.5-3.4 0-8.6-4.4-8.6",
-    "stroke-linejoin": "round",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 23
-    },
-    __self: undefined
-  }))), __jsx(_components_Benefit__WEBPACK_IMPORTED_MODULE_1__["default"], {
-    title: "Global hospitality standards",
-    description: "Guests review their hosts after each stay. All hosts must maintain a minimum rating and our hospitality standards to be on Airbnb.",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 28
-    },
-    __self: undefined
-  }, __jsx("svg", {
-    class: "w-8 h-8",
-    viewBox: "0 0 24 24",
-    role: "presentation",
-    "aria-hidden": "true",
-    focusable: "false",
-    fill: "#60B6B5",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 31
-    },
-    __self: undefined
-  }, __jsx("path", {
-    d: "m23.57 11.4-1.75-1.76-3.85-3.87-1.78-1.79-2.7-2.71-.82-.83-.22-.23-.06-.06c-.22-.22-.53-.22-.73-.02l-1.75 1.76-3.85 3.87-3.85 3.87-1.75 1.76a1.49 1.49 0 0 0 -.44 1.05v.01c0 .38.15.77.44 1.06l.55.55a1.49 1.49 0 0 0 2.01.08v8.4c0 .81.68 1.45 1.5 1.45h15c .82 0 1.5-.65 1.5-1.45v-8.4c.59.49 1.45.47 2.01-.08l.55-.55c.29-.29.44-.68.44-1.06v-.01c0-.38-.14-.77-.44-1.06zm-3.57 11.16c0 .24-.22.45-.5.45h-15c-.28 0-.5-.21-.5-.45v-9.36l8-7.99 8 7.99zm2.85-9.74-.55.55c-.2.2-.52.2-.71.01l-9.24-9.22a.5.5 0 0 0 -.71 0l-9.24 9.22a.5.5 0 0 1 -.71-.01l-.55-.55a.5.5 0 0 1 -.01-.71l1.75-1.76 3.85-3.87 3.85-3.87 1.4-1.4.77.77 2.7 2.71 1.78 1.79 3.85 3.87 1.75 1.76a.51.51 0 0 1 -.01.71z",
-    fillRule: "evenodd",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 38
-    },
-    __self: undefined
-  }))), __jsx(_components_Benefit__WEBPACK_IMPORTED_MODULE_1__["default"], {
-    title: "5-star hosts",
-    description: "From fresh-pressed sheets to tips on where to get the best brunch, our hosts are full of local hospitality.",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 43
-    },
-    __self: undefined
-  }, __jsx("svg", {
-    class: "w-8 h-8",
-    viewBox: "0 0 24 24",
-    role: "presentation",
-    "aria-hidden": "true",
-    focusable: "false",
-    fill: "#60B6B5",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 46
-    },
-    __self: undefined
-  }, __jsx("path", {
-    d: "m15.37 13.54-.01.01a.53.53 0 0 0 .01-.01m-.37 9.46h-11.5c-.28 0-.9-.22-1.38-.58-.71-.52-1.12-1.31-1.12-2.42 0-.04 0-.07.01-.11.09-1.1 1.59-2.44 4.02-3.79a33.14 33.14 0 0 1 2.9-1.42 35.57 35.57 0 0 1 1.31-.54c.63-.26.71-.95.18-1.35a4.55 4.55 0 0 1 -.38-.31 7.1 7.1 0 0 1 -.84-.9c-.73-.92-1.17-1.96-1.2-3.09v-2.99c.07-2.36 2.38-4.5 5.04-4.5 2.67 0 4.96 2.14 4.96 4.5v3c0 1.13-.43 2.17-1.15 3.11a7.35 7.35 0 0 1 -1.09 1.13l-.08.07c-.02.02-.02.02-.05.05s-.03.03-.09.14c-.05.47-.05.47.46.7a.49.49 0 0 0 .36-.15l.06-.05a8.32 8.32 0 0 0 1.23-1.28c.84-1.1 1.35-2.35 1.35-3.72v-3c0-2.92-2.75-5.5-5.96-5.5-3.2 0-5.96 2.56-6.04 5.49v3.01c.03 1.38.56 2.62 1.42 3.71.31.39.63.73.96 1.03.06.05.1.08.15.12a34.28 34.28 0 0 0 -3.98 1.87c-2.73 1.51-4.41 3.02-4.54 4.58a2.41 2.41 0 0 0 -.01.19c0 2.55 1.91 3.99 3.5 4h11.5a.5.5 0 1 0 0-1m7.67-4.22c-.36.74-.97 1.55-1.78 2.38a20.33 20.33 0 0 1 -1.89 1.71 19.94 19.94 0 0 1 -1.89-1.71c-.81-.83-1.42-1.64-1.78-2.38-.22-.45-.33-.86-.33-1.23 0-.99.61-1.56 1.43-1.56.7 0 1.55.53 2.18 1.31a.5.5 0 0 0 .78 0c .63-.78 1.48-1.31 2.18-1.31.82 0 1.43.57 1.43 1.56 0 .36-.11.77-.33 1.23m-1.1-3.78c-.89 0-1.82.5-2.57 1.25-.75-.76-1.68-1.25-2.57-1.25-1.36 0-2.43 1.01-2.43 2.56 0 .53.15 1.08.43 1.66.41.85 1.09 1.74 1.96 2.64a21.09 21.09 0 0 0 2.31 2.05.5.5 0 0 0 .6 0 20.91 20.91 0 0 0 2.31-2.05c.87-.9 1.55-1.79 1.96-2.64.28-.58.43-1.13.43-1.66 0-1.55-1.07-2.56-2.43-2.56",
-    fillRule: "evenodd",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 53
-    },
-    __self: undefined
-  })))));
-});
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _components_Benefit__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Benefit */ \"./components/Benefit.js\");\nvar _jsxFileName = \"/Users/ken/Desktop/nextjs_airbnb/components/Benefits.js\";\n\nvar __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (() => {\n  return __jsx(\"div\", {\n    class: \"max-w-5xl mx-auto my-1 py-12 px-4 lg:px-0 border-b border-gray-300\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 5,\n      columnNumber: 3\n    }\n  }, __jsx(\"h3\", {\n    class: \"font-semibold text-2xl text-gray-800 border-b border-gray-300 pb-3\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 6,\n      columnNumber: 4\n    }\n  }, \"Traveling with Airbnb\"), __jsx(\"div\", {\n    class: \"flex flex-wrap items-center justify-start\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 7,\n      columnNumber: 4\n    }\n  }, __jsx(_components_Benefit__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n    title: \"24/7 customer support\",\n    description: \"Day or night, we're here for you. Talk to our support team from anywhere in the world, any hour.\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 8,\n      columnNumber: 5\n    }\n  }, __jsx(\"svg\", {\n    class: \"w-8 h-8\",\n    viewBox: \"0 0 24 24\",\n    fill: \"#60B6B5\",\n    fillOpacity: \"0\",\n    stroke: \"#60B6B5\",\n    strokeWidth: \"1\",\n    focusable: \"false\",\n    \"aria-hidden\": \"true\",\n    role: \"presentation\",\n    strokeLinecap: \"round\",\n    strokeLinejoin: \"round\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 11,\n      columnNumber: 6\n    }\n  }, __jsx(\"path\", {\n    d: \"m17.5 2.9c-2.1 0-4.1 1.3-5.4 2.8-1.6-1.6-3.8-3.2-6.2-2.7-1.5.2-2.9 1.2-3.6 2.6-2.3 4.1 1 8.3 3.9 11.1 1.4 1.3 2.8 2.5 4.3 3.6.4.3 1.1.9 1.6.9s1.2-.6 1.6-.9c3.2-2.3 6.6-5.1 8.2-8.8 1.5-3.4 0-8.6-4.4-8.6\",\n    \"stroke-linejoin\": \"round\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 23,\n      columnNumber: 7\n    }\n  }))), __jsx(_components_Benefit__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n    title: \"Global hospitality standards\",\n    description: \"Guests review their hosts after each stay. All hosts must maintain a minimum rating and our hospitality standards to be on Airbnb.\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 28,\n      columnNumber: 5\n    }\n  }, __jsx(\"svg\", {\n    class: \"w-8 h-8\",\n    viewBox: \"0 0 24 24\",\n    role: \"presentation\",\n    \"aria-hidden\": \"true\",\n    focusable: \"false\",\n    fill: \"#60B6B5\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 31,\n      columnNumber: 6\n    }\n  }, __jsx(\"path\", {\n    d: \"m23.57 11.4-1.75-1.76-3.85-3.87-1.78-1.79-2.7-2.71-.82-.83-.22-.23-.06-.06c-.22-.22-.53-.22-.73-.02l-1.75 1.76-3.85 3.87-3.85 3.87-1.75 1.76a1.49 1.49 0 0 0 -.44 1.05v.01c0 .38.15.77.44 1.06l.55.55a1.49 1.49 0 0 0 2.01.08v8.4c0 .81.68 1.45 1.5 1.45h15c .82 0 1.5-.65 1.5-1.45v-8.4c.59.49 1.45.47 2.01-.08l.55-.55c.29-.29.44-.68.44-1.06v-.01c0-.38-.14-.77-.44-1.06zm-3.57 11.16c0 .24-.22.45-.5.45h-15c-.28 0-.5-.21-.5-.45v-9.36l8-7.99 8 7.99zm2.85-9.74-.55.55c-.2.2-.52.2-.71.01l-9.24-9.22a.5.5 0 0 0 -.71 0l-9.24 9.22a.5.5 0 0 1 -.71-.01l-.55-.55a.5.5 0 0 1 -.01-.71l1.75-1.76 3.85-3.87 3.85-3.87 1.4-1.4.77.77 2.7 2.71 1.78 1.79 3.85 3.87 1.75 1.76a.51.51 0 0 1 -.01.71z\",\n    fillRule: \"evenodd\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 38,\n      columnNumber: 7\n    }\n  }))), __jsx(_components_Benefit__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n    title: \"5-star hosts\",\n    description: \"From fresh-pressed sheets to tips on where to get the best brunch, our hosts are full of local hospitality.\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 43,\n      columnNumber: 5\n    }\n  }, __jsx(\"svg\", {\n    class: \"w-8 h-8\",\n    viewBox: \"0 0 24 24\",\n    role: \"presentation\",\n    \"aria-hidden\": \"true\",\n    focusable: \"false\",\n    fill: \"#60B6B5\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 46,\n      columnNumber: 6\n    }\n  }, __jsx(\"path\", {\n    d: \"m15.37 13.54-.01.01a.53.53 0 0 0 .01-.01m-.37 9.46h-11.5c-.28 0-.9-.22-1.38-.58-.71-.52-1.12-1.31-1.12-2.42 0-.04 0-.07.01-.11.09-1.1 1.59-2.44 4.02-3.79a33.14 33.14 0 0 1 2.9-1.42 35.57 35.57 0 0 1 1.31-.54c.63-.26.71-.95.18-1.35a4.55 4.55 0 0 1 -.38-.31 7.1 7.1 0 0 1 -.84-.9c-.73-.92-1.17-1.96-1.2-3.09v-2.99c.07-2.36 2.38-4.5 5.04-4.5 2.67 0 4.96 2.14 4.96 4.5v3c0 1.13-.43 2.17-1.15 3.11a7.35 7.35 0 0 1 -1.09 1.13l-.08.07c-.02.02-.02.02-.05.05s-.03.03-.09.14c-.05.47-.05.47.46.7a.49.49 0 0 0 .36-.15l.06-.05a8.32 8.32 0 0 0 1.23-1.28c.84-1.1 1.35-2.35 1.35-3.72v-3c0-2.92-2.75-5.5-5.96-5.5-3.2 0-5.96 2.56-6.04 5.49v3.01c.03 1.38.56 2.62 1.42 3.71.31.39.63.73.96 1.03.06.05.1.08.15.12a34.28 34.28 0 0 0 -3.98 1.87c-2.73 1.51-4.41 3.02-4.54 4.58a2.41 2.41 0 0 0 -.01.19c0 2.55 1.91 3.99 3.5 4h11.5a.5.5 0 1 0 0-1m7.67-4.22c-.36.74-.97 1.55-1.78 2.38a20.33 20.33 0 0 1 -1.89 1.71 19.94 19.94 0 0 1 -1.89-1.71c-.81-.83-1.42-1.64-1.78-2.38-.22-.45-.33-.86-.33-1.23 0-.99.61-1.56 1.43-1.56.7 0 1.55.53 2.18 1.31a.5.5 0 0 0 .78 0c .63-.78 1.48-1.31 2.18-1.31.82 0 1.43.57 1.43 1.56 0 .36-.11.77-.33 1.23m-1.1-3.78c-.89 0-1.82.5-2.57 1.25-.75-.76-1.68-1.25-2.57-1.25-1.36 0-2.43 1.01-2.43 2.56 0 .53.15 1.08.43 1.66.41.85 1.09 1.74 1.96 2.64a21.09 21.09 0 0 0 2.31 2.05.5.5 0 0 0 .6 0 20.91 20.91 0 0 0 2.31-2.05c.87-.9 1.55-1.79 1.96-2.64.28-.58.43-1.13.43-1.66 0-1.55-1.07-2.56-2.43-2.56\",\n    fillRule: \"evenodd\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 53,\n      columnNumber: 7\n    }\n  })))));\n});//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb21wb25lbnRzL0JlbmVmaXRzLmpzPzBmYzUiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7OztBQUFBO0FBRWUscUVBQU07QUFDcEIsU0FDQztBQUFLLFNBQUssRUFBQyxvRUFBWDtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBSSxTQUFLLEVBQUMsb0VBQVY7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSw2QkFERCxFQUVDO0FBQUssU0FBSyxFQUFDLDJDQUFYO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FDQyxNQUFDLDJEQUFEO0FBQ0MsU0FBSyxFQUFDLHVCQURQO0FBRUMsZUFBVyxFQUFDLGtHQUZiO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FHQztBQUNDLFNBQUssRUFBQyxTQURQO0FBRUMsV0FBTyxFQUFDLFdBRlQ7QUFHQyxRQUFJLEVBQUMsU0FITjtBQUlDLGVBQVcsRUFBQyxHQUpiO0FBS0MsVUFBTSxFQUFDLFNBTFI7QUFNQyxlQUFXLEVBQUMsR0FOYjtBQU9DLGFBQVMsRUFBQyxPQVBYO0FBUUMsbUJBQVksTUFSYjtBQVNDLFFBQUksRUFBQyxjQVROO0FBVUMsaUJBQWEsRUFBQyxPQVZmO0FBV0Msa0JBQWMsRUFBQyxPQVhoQjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBWUM7QUFDQyxLQUFDLEVBQUMsMk1BREg7QUFFQyx1QkFBZ0IsT0FGakI7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxJQVpELENBSEQsQ0FERCxFQXFCQyxNQUFDLDJEQUFEO0FBQ0MsU0FBSyxFQUFDLDhCQURQO0FBRUMsZUFBVyxFQUFDLG9JQUZiO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FHQztBQUNDLFNBQUssRUFBQyxTQURQO0FBRUMsV0FBTyxFQUFDLFdBRlQ7QUFHQyxRQUFJLEVBQUMsY0FITjtBQUlDLG1CQUFZLE1BSmI7QUFLQyxhQUFTLEVBQUMsT0FMWDtBQU1DLFFBQUksRUFBQyxTQU5OO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FPQztBQUNDLEtBQUMsRUFBQyxpcUJBREg7QUFFQyxZQUFRLEVBQUMsU0FGVjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLElBUEQsQ0FIRCxDQXJCRCxFQW9DQyxNQUFDLDJEQUFEO0FBQ0MsU0FBSyxFQUFDLGNBRFA7QUFFQyxlQUFXLEVBQUMsNkdBRmI7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUdDO0FBQ0MsU0FBSyxFQUFDLFNBRFA7QUFFQyxXQUFPLEVBQUMsV0FGVDtBQUdDLFFBQUksRUFBQyxjQUhOO0FBSUMsbUJBQVksTUFKYjtBQUtDLGFBQVMsRUFBQyxPQUxYO0FBTUMsUUFBSSxFQUFDLFNBTk47QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQU9DO0FBQ0MsS0FBQyxFQUFDLDgyQ0FESDtBQUVDLFlBQVEsRUFBQyxTQUZWO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsSUFQRCxDQUhELENBcENELENBRkQsQ0FERDtBQXlEQSxDQTFERCIsImZpbGUiOiIuL2NvbXBvbmVudHMvQmVuZWZpdHMuanMuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgQmVuZWZpdCBmcm9tICcuLi9jb21wb25lbnRzL0JlbmVmaXQnO1xuXG5leHBvcnQgZGVmYXVsdCAoKSA9PiB7XG5cdHJldHVybiAoXG5cdFx0PGRpdiBjbGFzcz0nbWF4LXctNXhsIG14LWF1dG8gbXktMSBweS0xMiBweC00IGxnOnB4LTAgYm9yZGVyLWIgYm9yZGVyLWdyYXktMzAwJz5cblx0XHRcdDxoMyBjbGFzcz0nZm9udC1zZW1pYm9sZCB0ZXh0LTJ4bCB0ZXh0LWdyYXktODAwIGJvcmRlci1iIGJvcmRlci1ncmF5LTMwMCBwYi0zJz5UcmF2ZWxpbmcgd2l0aCBBaXJibmI8L2gzPlxuXHRcdFx0PGRpdiBjbGFzcz0nZmxleCBmbGV4LXdyYXAgaXRlbXMtY2VudGVyIGp1c3RpZnktc3RhcnQnPlxuXHRcdFx0XHQ8QmVuZWZpdFxuXHRcdFx0XHRcdHRpdGxlPScyNC83IGN1c3RvbWVyIHN1cHBvcnQnXG5cdFx0XHRcdFx0ZGVzY3JpcHRpb249XCJEYXkgb3IgbmlnaHQsIHdlJ3JlIGhlcmUgZm9yIHlvdS4gVGFsayB0byBvdXIgc3VwcG9ydCB0ZWFtIGZyb20gYW55d2hlcmUgaW4gdGhlIHdvcmxkLCBhbnkgaG91ci5cIj5cblx0XHRcdFx0XHQ8c3ZnXG5cdFx0XHRcdFx0XHRjbGFzcz0ndy04IGgtOCdcblx0XHRcdFx0XHRcdHZpZXdCb3g9JzAgMCAyNCAyNCdcblx0XHRcdFx0XHRcdGZpbGw9JyM2MEI2QjUnXG5cdFx0XHRcdFx0XHRmaWxsT3BhY2l0eT0nMCdcblx0XHRcdFx0XHRcdHN0cm9rZT0nIzYwQjZCNSdcblx0XHRcdFx0XHRcdHN0cm9rZVdpZHRoPScxJ1xuXHRcdFx0XHRcdFx0Zm9jdXNhYmxlPSdmYWxzZSdcblx0XHRcdFx0XHRcdGFyaWEtaGlkZGVuPSd0cnVlJ1xuXHRcdFx0XHRcdFx0cm9sZT0ncHJlc2VudGF0aW9uJ1xuXHRcdFx0XHRcdFx0c3Ryb2tlTGluZWNhcD0ncm91bmQnXG5cdFx0XHRcdFx0XHRzdHJva2VMaW5lam9pbj0ncm91bmQnPlxuXHRcdFx0XHRcdFx0PHBhdGhcblx0XHRcdFx0XHRcdFx0ZD0nbTE3LjUgMi45Yy0yLjEgMC00LjEgMS4zLTUuNCAyLjgtMS42LTEuNi0zLjgtMy4yLTYuMi0yLjctMS41LjItMi45IDEuMi0zLjYgMi42LTIuMyA0LjEgMSA4LjMgMy45IDExLjEgMS40IDEuMyAyLjggMi41IDQuMyAzLjYuNC4zIDEuMS45IDEuNi45czEuMi0uNiAxLjYtLjljMy4yLTIuMyA2LjYtNS4xIDguMi04LjggMS41LTMuNCAwLTguNi00LjQtOC42J1xuXHRcdFx0XHRcdFx0XHRzdHJva2UtbGluZWpvaW49J3JvdW5kJz48L3BhdGg+XG5cdFx0XHRcdFx0PC9zdmc+XG5cdFx0XHRcdDwvQmVuZWZpdD5cblx0XHRcdFx0PEJlbmVmaXRcblx0XHRcdFx0XHR0aXRsZT0nR2xvYmFsIGhvc3BpdGFsaXR5IHN0YW5kYXJkcydcblx0XHRcdFx0XHRkZXNjcmlwdGlvbj0nR3Vlc3RzIHJldmlldyB0aGVpciBob3N0cyBhZnRlciBlYWNoIHN0YXkuIEFsbCBob3N0cyBtdXN0IG1haW50YWluIGEgbWluaW11bSByYXRpbmcgYW5kIG91ciBob3NwaXRhbGl0eSBzdGFuZGFyZHMgdG8gYmUgb24gQWlyYm5iLic+XG5cdFx0XHRcdFx0PHN2Z1xuXHRcdFx0XHRcdFx0Y2xhc3M9J3ctOCBoLTgnXG5cdFx0XHRcdFx0XHR2aWV3Qm94PScwIDAgMjQgMjQnXG5cdFx0XHRcdFx0XHRyb2xlPSdwcmVzZW50YXRpb24nXG5cdFx0XHRcdFx0XHRhcmlhLWhpZGRlbj0ndHJ1ZSdcblx0XHRcdFx0XHRcdGZvY3VzYWJsZT0nZmFsc2UnXG5cdFx0XHRcdFx0XHRmaWxsPScjNjBCNkI1Jz5cblx0XHRcdFx0XHRcdDxwYXRoXG5cdFx0XHRcdFx0XHRcdGQ9J20yMy41NyAxMS40LTEuNzUtMS43Ni0zLjg1LTMuODctMS43OC0xLjc5LTIuNy0yLjcxLS44Mi0uODMtLjIyLS4yMy0uMDYtLjA2Yy0uMjItLjIyLS41My0uMjItLjczLS4wMmwtMS43NSAxLjc2LTMuODUgMy44Ny0zLjg1IDMuODctMS43NSAxLjc2YTEuNDkgMS40OSAwIDAgMCAtLjQ0IDEuMDV2LjAxYzAgLjM4LjE1Ljc3LjQ0IDEuMDZsLjU1LjU1YTEuNDkgMS40OSAwIDAgMCAyLjAxLjA4djguNGMwIC44MS42OCAxLjQ1IDEuNSAxLjQ1aDE1YyAuODIgMCAxLjUtLjY1IDEuNS0xLjQ1di04LjRjLjU5LjQ5IDEuNDUuNDcgMi4wMS0uMDhsLjU1LS41NWMuMjktLjI5LjQ0LS42OC40NC0xLjA2di0uMDFjMC0uMzgtLjE0LS43Ny0uNDQtMS4wNnptLTMuNTcgMTEuMTZjMCAuMjQtLjIyLjQ1LS41LjQ1aC0xNWMtLjI4IDAtLjUtLjIxLS41LS40NXYtOS4zNmw4LTcuOTkgOCA3Ljk5em0yLjg1LTkuNzQtLjU1LjU1Yy0uMi4yLS41Mi4yLS43MS4wMWwtOS4yNC05LjIyYS41LjUgMCAwIDAgLS43MSAwbC05LjI0IDkuMjJhLjUuNSAwIDAgMSAtLjcxLS4wMWwtLjU1LS41NWEuNS41IDAgMCAxIC0uMDEtLjcxbDEuNzUtMS43NiAzLjg1LTMuODcgMy44NS0zLjg3IDEuNC0xLjQuNzcuNzcgMi43IDIuNzEgMS43OCAxLjc5IDMuODUgMy44NyAxLjc1IDEuNzZhLjUxLjUxIDAgMCAxIC0uMDEuNzF6J1xuXHRcdFx0XHRcdFx0XHRmaWxsUnVsZT0nZXZlbm9kZCc+PC9wYXRoPlxuXHRcdFx0XHRcdDwvc3ZnPlxuXHRcdFx0XHQ8L0JlbmVmaXQ+XG5cdFx0XHRcdDxCZW5lZml0XG5cdFx0XHRcdFx0dGl0bGU9JzUtc3RhciBob3N0cydcblx0XHRcdFx0XHRkZXNjcmlwdGlvbj0nRnJvbSBmcmVzaC1wcmVzc2VkIHNoZWV0cyB0byB0aXBzIG9uIHdoZXJlIHRvIGdldCB0aGUgYmVzdCBicnVuY2gsIG91ciBob3N0cyBhcmUgZnVsbCBvZiBsb2NhbCBob3NwaXRhbGl0eS4nPlxuXHRcdFx0XHRcdDxzdmdcblx0XHRcdFx0XHRcdGNsYXNzPSd3LTggaC04J1xuXHRcdFx0XHRcdFx0dmlld0JveD0nMCAwIDI0IDI0J1xuXHRcdFx0XHRcdFx0cm9sZT0ncHJlc2VudGF0aW9uJ1xuXHRcdFx0XHRcdFx0YXJpYS1oaWRkZW49J3RydWUnXG5cdFx0XHRcdFx0XHRmb2N1c2FibGU9J2ZhbHNlJ1xuXHRcdFx0XHRcdFx0ZmlsbD0nIzYwQjZCNSc+XG5cdFx0XHRcdFx0XHQ8cGF0aFxuXHRcdFx0XHRcdFx0XHRkPSdtMTUuMzcgMTMuNTQtLjAxLjAxYS41My41MyAwIDAgMCAuMDEtLjAxbS0uMzcgOS40NmgtMTEuNWMtLjI4IDAtLjktLjIyLTEuMzgtLjU4LS43MS0uNTItMS4xMi0xLjMxLTEuMTItMi40MiAwLS4wNCAwLS4wNy4wMS0uMTEuMDktMS4xIDEuNTktMi40NCA0LjAyLTMuNzlhMzMuMTQgMzMuMTQgMCAwIDEgMi45LTEuNDIgMzUuNTcgMzUuNTcgMCAwIDEgMS4zMS0uNTRjLjYzLS4yNi43MS0uOTUuMTgtMS4zNWE0LjU1IDQuNTUgMCAwIDEgLS4zOC0uMzEgNy4xIDcuMSAwIDAgMSAtLjg0LS45Yy0uNzMtLjkyLTEuMTctMS45Ni0xLjItMy4wOXYtMi45OWMuMDctMi4zNiAyLjM4LTQuNSA1LjA0LTQuNSAyLjY3IDAgNC45NiAyLjE0IDQuOTYgNC41djNjMCAxLjEzLS40MyAyLjE3LTEuMTUgMy4xMWE3LjM1IDcuMzUgMCAwIDEgLTEuMDkgMS4xM2wtLjA4LjA3Yy0uMDIuMDItLjAyLjAyLS4wNS4wNXMtLjAzLjAzLS4wOS4xNGMtLjA1LjQ3LS4wNS40Ny40Ni43YS40OS40OSAwIDAgMCAuMzYtLjE1bC4wNi0uMDVhOC4zMiA4LjMyIDAgMCAwIDEuMjMtMS4yOGMuODQtMS4xIDEuMzUtMi4zNSAxLjM1LTMuNzJ2LTNjMC0yLjkyLTIuNzUtNS41LTUuOTYtNS41LTMuMiAwLTUuOTYgMi41Ni02LjA0IDUuNDl2My4wMWMuMDMgMS4zOC41NiAyLjYyIDEuNDIgMy43MS4zMS4zOS42My43My45NiAxLjAzLjA2LjA1LjEuMDguMTUuMTJhMzQuMjggMzQuMjggMCAwIDAgLTMuOTggMS44N2MtMi43MyAxLjUxLTQuNDEgMy4wMi00LjU0IDQuNThhMi40MSAyLjQxIDAgMCAwIC0uMDEuMTljMCAyLjU1IDEuOTEgMy45OSAzLjUgNGgxMS41YS41LjUgMCAxIDAgMC0xbTcuNjctNC4yMmMtLjM2Ljc0LS45NyAxLjU1LTEuNzggMi4zOGEyMC4zMyAyMC4zMyAwIDAgMSAtMS44OSAxLjcxIDE5Ljk0IDE5Ljk0IDAgMCAxIC0xLjg5LTEuNzFjLS44MS0uODMtMS40Mi0xLjY0LTEuNzgtMi4zOC0uMjItLjQ1LS4zMy0uODYtLjMzLTEuMjMgMC0uOTkuNjEtMS41NiAxLjQzLTEuNTYuNyAwIDEuNTUuNTMgMi4xOCAxLjMxYS41LjUgMCAwIDAgLjc4IDBjIC42My0uNzggMS40OC0xLjMxIDIuMTgtMS4zMS44MiAwIDEuNDMuNTcgMS40MyAxLjU2IDAgLjM2LS4xMS43Ny0uMzMgMS4yM20tMS4xLTMuNzhjLS44OSAwLTEuODIuNS0yLjU3IDEuMjUtLjc1LS43Ni0xLjY4LTEuMjUtMi41Ny0xLjI1LTEuMzYgMC0yLjQzIDEuMDEtMi40MyAyLjU2IDAgLjUzLjE1IDEuMDguNDMgMS42Ni40MS44NSAxLjA5IDEuNzQgMS45NiAyLjY0YTIxLjA5IDIxLjA5IDAgMCAwIDIuMzEgMi4wNS41LjUgMCAwIDAgLjYgMCAyMC45MSAyMC45MSAwIDAgMCAyLjMxLTIuMDVjLjg3LS45IDEuNTUtMS43OSAxLjk2LTIuNjQuMjgtLjU4LjQzLTEuMTMuNDMtMS42NiAwLTEuNTUtMS4wNy0yLjU2LTIuNDMtMi41Nidcblx0XHRcdFx0XHRcdFx0ZmlsbFJ1bGU9J2V2ZW5vZGQnPjwvcGF0aD5cblx0XHRcdFx0XHQ8L3N2Zz5cblx0XHRcdFx0PC9CZW5lZml0PlxuXHRcdFx0PC9kaXY+XG5cdFx0PC9kaXY+XG5cdCk7XG59O1xuIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./components/Benefits.js\n");
 
 /***/ }),
 
@@ -398,91 +137,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _components_Card__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Card */ "./components/Card.js");
-/* harmony import */ var _public_just_booked_1_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../public/just-booked-1.jpg */ "./public/just-booked-1.jpg");
-/* harmony import */ var _public_just_booked_1_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_public_just_booked_1_jpg__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _public_just_booked_2_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../public/just-booked-2.jpg */ "./public/just-booked-2.jpg");
-/* harmony import */ var _public_just_booked_2_jpg__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_public_just_booked_2_jpg__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _public_just_booked_3_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../public/just-booked-3.jpg */ "./public/just-booked-3.jpg");
-/* harmony import */ var _public_just_booked_3_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_just_booked_3_jpg__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var _public_just_booked_4_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../public/just-booked-4.jpg */ "./public/just-booked-4.jpg");
-/* harmony import */ var _public_just_booked_4_jpg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_just_booked_4_jpg__WEBPACK_IMPORTED_MODULE_5__);
-var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/Booked.js";
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
- // Images
-
-
-
-
-
-/* harmony default export */ __webpack_exports__["default"] = (() => {
-  return __jsx("div", {
-    class: "max-w-5xl mx-auto px-4 mb-16 lg:px-0 lg:py-4",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 11
-    },
-    __self: undefined
-  }, __jsx("h3", {
-    class: "font-semibold text-2xl text-gray-800 my-5",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 12
-    },
-    __self: undefined
-  }, "Just booked in the United States"), __jsx("div", {
-    class: "flex justify-start items-center flex-wrap",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 13
-    },
-    __self: undefined
-  }, __jsx(_components_Card__WEBPACK_IMPORTED_MODULE_1__["default"], {
-    houseType: "Entire House",
-    houseName: "Joshua Tree",
-    title: "The Joshua Tree House",
-    img: _public_just_booked_1_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 14
-    },
-    __self: undefined
-  }), __jsx(_components_Card__WEBPACK_IMPORTED_MODULE_1__["default"], {
-    houseType: "Dome House",
-    houseName: "Aptos",
-    title: "Mushroom Dome Cabin",
-    img: _public_just_booked_2_jpg__WEBPACK_IMPORTED_MODULE_3___default.a,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 15
-    },
-    __self: undefined
-  }), __jsx(_components_Card__WEBPACK_IMPORTED_MODULE_1__["default"], {
-    houseType: "Earth House",
-    houseName: "Orondo",
-    title: "Underground Hygge",
-    img: _public_just_booked_3_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16
-    },
-    __self: undefined
-  }), __jsx(_components_Card__WEBPACK_IMPORTED_MODULE_1__["default"], {
-    houseType: "Entire House",
-    houseName: "Pioneertown",
-    title: "Off-grid itHouse",
-    img: _public_just_booked_4_jpg__WEBPACK_IMPORTED_MODULE_5___default.a,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 17
-    },
-    __self: undefined
-  })));
-});
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _components_Card__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Card */ \"./components/Card.js\");\n/* harmony import */ var _public_just_booked_1_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../public/just-booked-1.jpg */ \"./public/just-booked-1.jpg\");\n/* harmony import */ var _public_just_booked_1_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_public_just_booked_1_jpg__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _public_just_booked_2_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../public/just-booked-2.jpg */ \"./public/just-booked-2.jpg\");\n/* harmony import */ var _public_just_booked_2_jpg__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_public_just_booked_2_jpg__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var _public_just_booked_3_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../public/just-booked-3.jpg */ \"./public/just-booked-3.jpg\");\n/* harmony import */ var _public_just_booked_3_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_just_booked_3_jpg__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var _public_just_booked_4_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../public/just-booked-4.jpg */ \"./public/just-booked-4.jpg\");\n/* harmony import */ var _public_just_booked_4_jpg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_just_booked_4_jpg__WEBPACK_IMPORTED_MODULE_5__);\nvar _jsxFileName = \"/Users/ken/Desktop/nextjs_airbnb/components/Booked.js\";\n\nvar __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;\n // Images\n\n\n\n\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (() => {\n  return __jsx(\"div\", {\n    class: \"max-w-5xl mx-auto px-4 mb-16 lg:px-0 lg:py-4\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 11,\n      columnNumber: 3\n    }\n  }, __jsx(\"h3\", {\n    class: \"font-semibold text-2xl text-gray-800 my-5\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 12,\n      columnNumber: 4\n    }\n  }, \"Just booked in the United States\"), __jsx(\"div\", {\n    class: \"flex justify-start items-center flex-wrap\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 13,\n      columnNumber: 4\n    }\n  }, __jsx(_components_Card__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n    houseType: \"Entire House\",\n    houseName: \"Joshua Tree\",\n    title: \"The Joshua Tree House\",\n    img: _public_just_booked_1_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 14,\n      columnNumber: 5\n    }\n  }), __jsx(_components_Card__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n    houseType: \"Dome House\",\n    houseName: \"Aptos\",\n    title: \"Mushroom Dome Cabin\",\n    img: _public_just_booked_2_jpg__WEBPACK_IMPORTED_MODULE_3___default.a,\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 15,\n      columnNumber: 5\n    }\n  }), __jsx(_components_Card__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n    houseType: \"Earth House\",\n    houseName: \"Orondo\",\n    title: \"Underground Hygge\",\n    img: _public_just_booked_3_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 16,\n      columnNumber: 5\n    }\n  }), __jsx(_components_Card__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n    houseType: \"Entire House\",\n    houseName: \"Pioneertown\",\n    title: \"Off-grid itHouse\",\n    img: _public_just_booked_4_jpg__WEBPACK_IMPORTED_MODULE_5___default.a,\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 17,\n      columnNumber: 5\n    }\n  })));\n});//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb21wb25lbnRzL0Jvb2tlZC5qcz8zMzc0Il0sIm5hbWVzIjpbImltZzEiLCJpbWcyIiwiaW1nMyIsImltZzQiXSwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7Ozs7OztDQUVBOztBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBRWUscUVBQU07QUFDcEIsU0FDQztBQUFLLFNBQUssRUFBQyw4Q0FBWDtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBSSxTQUFLLEVBQUMsMkNBQVY7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSx3Q0FERCxFQUVDO0FBQUssU0FBSyxFQUFDLDJDQUFYO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FDQyxNQUFDLHdEQUFEO0FBQU0sYUFBUyxFQUFDLGNBQWhCO0FBQStCLGFBQVMsRUFBQyxhQUF6QztBQUF1RCxTQUFLLEVBQUMsdUJBQTdEO0FBQXFGLE9BQUcsRUFBRUEsZ0VBQTFGO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsSUFERCxFQUVDLE1BQUMsd0RBQUQ7QUFBTSxhQUFTLEVBQUMsWUFBaEI7QUFBNkIsYUFBUyxFQUFDLE9BQXZDO0FBQStDLFNBQUssRUFBQyxxQkFBckQ7QUFBMkUsT0FBRyxFQUFFQyxnRUFBaEY7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxJQUZELEVBR0MsTUFBQyx3REFBRDtBQUFNLGFBQVMsRUFBQyxhQUFoQjtBQUE4QixhQUFTLEVBQUMsUUFBeEM7QUFBaUQsU0FBSyxFQUFDLG1CQUF2RDtBQUEyRSxPQUFHLEVBQUVDLGdFQUFoRjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLElBSEQsRUFJQyxNQUFDLHdEQUFEO0FBQU0sYUFBUyxFQUFDLGNBQWhCO0FBQStCLGFBQVMsRUFBQyxhQUF6QztBQUF1RCxTQUFLLEVBQUMsa0JBQTdEO0FBQWdGLE9BQUcsRUFBRUMsZ0VBQXJGO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsSUFKRCxDQUZELENBREQ7QUFXQSxDQVpEIiwiZmlsZSI6Ii4vY29tcG9uZW50cy9Cb29rZWQuanMuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgQ2FyZCBmcm9tICcuLi9jb21wb25lbnRzL0NhcmQnO1xuXG4vLyBJbWFnZXNcbmltcG9ydCBpbWcxIGZyb20gJy4uL3B1YmxpYy9qdXN0LWJvb2tlZC0xLmpwZyc7XG5pbXBvcnQgaW1nMiBmcm9tICcuLi9wdWJsaWMvanVzdC1ib29rZWQtMi5qcGcnO1xuaW1wb3J0IGltZzMgZnJvbSAnLi4vcHVibGljL2p1c3QtYm9va2VkLTMuanBnJztcbmltcG9ydCBpbWc0IGZyb20gJy4uL3B1YmxpYy9qdXN0LWJvb2tlZC00LmpwZyc7XG5cbmV4cG9ydCBkZWZhdWx0ICgpID0+IHtcblx0cmV0dXJuIChcblx0XHQ8ZGl2IGNsYXNzPSdtYXgtdy01eGwgbXgtYXV0byBweC00IG1iLTE2IGxnOnB4LTAgbGc6cHktNCc+XG5cdFx0XHQ8aDMgY2xhc3M9J2ZvbnQtc2VtaWJvbGQgdGV4dC0yeGwgdGV4dC1ncmF5LTgwMCBteS01Jz5KdXN0IGJvb2tlZCBpbiB0aGUgVW5pdGVkIFN0YXRlczwvaDM+XG5cdFx0XHQ8ZGl2IGNsYXNzPSdmbGV4IGp1c3RpZnktc3RhcnQgaXRlbXMtY2VudGVyIGZsZXgtd3JhcCc+XG5cdFx0XHRcdDxDYXJkIGhvdXNlVHlwZT0nRW50aXJlIEhvdXNlJyBob3VzZU5hbWU9J0pvc2h1YSBUcmVlJyB0aXRsZT0nVGhlIEpvc2h1YSBUcmVlIEhvdXNlJyBpbWc9e2ltZzF9IC8+XG5cdFx0XHRcdDxDYXJkIGhvdXNlVHlwZT0nRG9tZSBIb3VzZScgaG91c2VOYW1lPSdBcHRvcycgdGl0bGU9J011c2hyb29tIERvbWUgQ2FiaW4nIGltZz17aW1nMn0gLz5cblx0XHRcdFx0PENhcmQgaG91c2VUeXBlPSdFYXJ0aCBIb3VzZScgaG91c2VOYW1lPSdPcm9uZG8nIHRpdGxlPSdVbmRlcmdyb3VuZCBIeWdnZScgaW1nPXtpbWczfSAvPlxuXHRcdFx0XHQ8Q2FyZCBob3VzZVR5cGU9J0VudGlyZSBIb3VzZScgaG91c2VOYW1lPSdQaW9uZWVydG93bicgdGl0bGU9J09mZi1ncmlkIGl0SG91c2UnIGltZz17aW1nNH0gLz5cblx0XHRcdDwvZGl2PlxuXHRcdDwvZGl2PlxuXHQpO1xufTtcbiJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./components/Booked.js\n");
 
 /***/ }),
 
@@ -494,75 +149,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _components_InputBox__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/InputBox */ "./components/InputBox.js");
-/* harmony import */ var _components_OptionBox__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/OptionBox */ "./components/OptionBox.js");
-var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/Booking.js";
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-
-
-/* harmony default export */ __webpack_exports__["default"] = (() => {
-  return __jsx("div", {
-    class: "max-w-5xl mx-auto py-12 my-1 px-4 lg:px-0",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 6
-    },
-    __self: undefined
-  }, __jsx("h3", {
-    class: "text-2xl font-semibold text-gray-800 lg:mb-4",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 7
-    },
-    __self: undefined
-  }, "Book unique homes and experiences"), __jsx("form", {
-    action: "",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: undefined
-  }, __jsx("div", {
-    class: "flex flex-wrap items-start justify-start",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 9
-    },
-    __self: undefined
-  }, __jsx(_components_InputBox__WEBPACK_IMPORTED_MODULE_1__["default"], {
-    label: "where",
-    placeholder: "Anywhere",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 10
-    },
-    __self: undefined
-  }), __jsx(_components_InputBox__WEBPACK_IMPORTED_MODULE_1__["default"], {
-    label: "when",
-    placeholder: "mm/dd/yy - mm/dd/yyyy",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 11
-    },
-    __self: undefined
-  }), __jsx(_components_OptionBox__WEBPACK_IMPORTED_MODULE_2__["default"], {
-    label: "guests",
-    options: {
-      first: '1 Guest',
-      second: '2 Guests',
-      third: '3 Guests'
-    },
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 12
-    },
-    __self: undefined
-  }))));
-});
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _components_InputBox__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/InputBox */ \"./components/InputBox.js\");\n/* harmony import */ var _components_OptionBox__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/OptionBox */ \"./components/OptionBox.js\");\nvar _jsxFileName = \"/Users/ken/Desktop/nextjs_airbnb/components/Booking.js\";\n\nvar __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;\n\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (() => {\n  return __jsx(\"div\", {\n    class: \"max-w-5xl mx-auto py-12 my-1 px-4 lg:px-0\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 6,\n      columnNumber: 3\n    }\n  }, __jsx(\"h3\", {\n    class: \"text-2xl font-semibold text-gray-800 lg:mb-4\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 7,\n      columnNumber: 4\n    }\n  }, \"Book unique homes and experiences\"), __jsx(\"form\", {\n    action: \"\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 8,\n      columnNumber: 4\n    }\n  }, __jsx(\"div\", {\n    class: \"flex flex-wrap items-start justify-start\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 9,\n      columnNumber: 5\n    }\n  }, __jsx(_components_InputBox__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n    label: \"where\",\n    placeholder: \"Anywhere\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 10,\n      columnNumber: 6\n    }\n  }), __jsx(_components_InputBox__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n    label: \"when\",\n    placeholder: \"mm/dd/yy - mm/dd/yyyy\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 11,\n      columnNumber: 6\n    }\n  }), __jsx(_components_OptionBox__WEBPACK_IMPORTED_MODULE_2__[\"default\"], {\n    label: \"guests\",\n    options: {\n      first: '1 Guest',\n      second: '2 Guests',\n      third: '3 Guests'\n    },\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 12,\n      columnNumber: 6\n    }\n  }))));\n});//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb21wb25lbnRzL0Jvb2tpbmcuanM/MmZiMiJdLCJuYW1lcyI6WyJmaXJzdCIsInNlY29uZCIsInRoaXJkIl0sIm1hcHBpbmdzIjoiOzs7Ozs7OztBQUFBO0FBQ0E7QUFFZSxxRUFBTTtBQUNwQixTQUNDO0FBQUssU0FBSyxFQUFDLDJDQUFYO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FDQztBQUFJLFNBQUssRUFBQyw4Q0FBVjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLHlDQURELEVBRUM7QUFBTSxVQUFNLEVBQUMsRUFBYjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBSyxTQUFLLEVBQUMsMENBQVg7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUNDLE1BQUMsNERBQUQ7QUFBVSxTQUFLLEVBQUMsT0FBaEI7QUFBd0IsZUFBVyxFQUFDLFVBQXBDO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsSUFERCxFQUVDLE1BQUMsNERBQUQ7QUFBVSxTQUFLLEVBQUMsTUFBaEI7QUFBdUIsZUFBVyxFQUFDLHVCQUFuQztBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLElBRkQsRUFHQyxNQUFDLDZEQUFEO0FBQVcsU0FBSyxFQUFDLFFBQWpCO0FBQTBCLFdBQU8sRUFBRTtBQUFFQSxXQUFLLEVBQUUsU0FBVDtBQUFvQkMsWUFBTSxFQUFFLFVBQTVCO0FBQXdDQyxXQUFLLEVBQUU7QUFBL0MsS0FBbkM7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxJQUhELENBREQsQ0FGRCxDQUREO0FBWUEsQ0FiRCIsImZpbGUiOiIuL2NvbXBvbmVudHMvQm9va2luZy5qcy5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBJbnB1dEJveCBmcm9tICcuLi9jb21wb25lbnRzL0lucHV0Qm94JztcbmltcG9ydCBPcHRpb25Cb3ggZnJvbSAnLi4vY29tcG9uZW50cy9PcHRpb25Cb3gnO1xuXG5leHBvcnQgZGVmYXVsdCAoKSA9PiB7XG5cdHJldHVybiAoXG5cdFx0PGRpdiBjbGFzcz0nbWF4LXctNXhsIG14LWF1dG8gcHktMTIgbXktMSBweC00IGxnOnB4LTAnPlxuXHRcdFx0PGgzIGNsYXNzPSd0ZXh0LTJ4bCBmb250LXNlbWlib2xkIHRleHQtZ3JheS04MDAgbGc6bWItNCc+Qm9vayB1bmlxdWUgaG9tZXMgYW5kIGV4cGVyaWVuY2VzPC9oMz5cblx0XHRcdDxmb3JtIGFjdGlvbj0nJz5cblx0XHRcdFx0PGRpdiBjbGFzcz0nZmxleCBmbGV4LXdyYXAgaXRlbXMtc3RhcnQganVzdGlmeS1zdGFydCc+XG5cdFx0XHRcdFx0PElucHV0Qm94IGxhYmVsPSd3aGVyZScgcGxhY2Vob2xkZXI9J0FueXdoZXJlJyAvPlxuXHRcdFx0XHRcdDxJbnB1dEJveCBsYWJlbD0nd2hlbicgcGxhY2Vob2xkZXI9J21tL2RkL3l5IC0gbW0vZGQveXl5eScgLz5cblx0XHRcdFx0XHQ8T3B0aW9uQm94IGxhYmVsPSdndWVzdHMnIG9wdGlvbnM9e3sgZmlyc3Q6ICcxIEd1ZXN0Jywgc2Vjb25kOiAnMiBHdWVzdHMnLCB0aGlyZDogJzMgR3Vlc3RzJyB9fSAvPlxuXHRcdFx0XHQ8L2Rpdj5cblx0XHRcdDwvZm9ybT5cblx0XHQ8L2Rpdj5cblx0KTtcbn07XG4iXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./components/Booking.js\n");
 
 /***/ }),
 
@@ -574,164 +161,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/Card.js";
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-/* harmony default export */ __webpack_exports__["default"] = (({
-  img,
-  houseType,
-  houseName,
-  title
-}) => {
-  return __jsx("div", {
-    class: "w-full lg:w-1/4 lg:p-1 my-3",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 3
-    },
-    __self: undefined
-  }, __jsx("img", {
-    src: img,
-    alt: "",
-    class: "rounded",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 4
-    },
-    __self: undefined
-  }), __jsx("p", {
-    class: "my-1 uppercase text-gray-600 text-xs font-semibold tracking-wide",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 5
-    },
-    __self: undefined
-  }, houseType, " ", __jsx("span", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 6
-    },
-    __self: undefined
-  }, "\u2022"), " ", houseName), __jsx("p", {
-    class: "text-lg text-gray-900",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: undefined
-  }, title), __jsx("p", {
-    class: "my-1 text-gray-600 font-thin text-sm",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 9
-    },
-    __self: undefined
-  }, "$285/night"), __jsx("div", {
-    className: "flex items-center flex-wrap justify-start",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 11
-    },
-    __self: undefined
-  }, __jsx("svg", {
-    class: "fill-current w-2 h-2 text-cyan mr-1",
-    viewBox: "0 0 1000 1000",
-    xmlns: "http://www.w3.org/2000/svg",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 12
-    },
-    __self: undefined
-  }, __jsx("path", {
-    d: "M972 380c9 28 2 50-20 67L725 619l87 280c11 39-18 75-54 75-12 0-23-4-33-12L499 790 273 962a58 58 0 0 1-78-12 50 50 0 0 1-8-51l86-278L46 447c-21-17-28-39-19-67 8-24 29-40 52-40h280l87-279c7-23 28-39 52-39 25 0 47 17 54 41l87 277h280c24 0 45 16 53 40z",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16
-    },
-    __self: undefined
-  })), __jsx("svg", {
-    class: "fill-current w-2 h-2 text-cyan mr-1",
-    viewBox: "0 0 1000 1000",
-    xmlns: "http://www.w3.org/2000/svg",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 18
-    },
-    __self: undefined
-  }, __jsx("path", {
-    d: "M972 380c9 28 2 50-20 67L725 619l87 280c11 39-18 75-54 75-12 0-23-4-33-12L499 790 273 962a58 58 0 0 1-78-12 50 50 0 0 1-8-51l86-278L46 447c-21-17-28-39-19-67 8-24 29-40 52-40h280l87-279c7-23 28-39 52-39 25 0 47 17 54 41l87 277h280c24 0 45 16 53 40z",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 22
-    },
-    __self: undefined
-  })), __jsx("svg", {
-    class: "fill-current w-2 h-2 text-cyan mr-1",
-    viewBox: "0 0 1000 1000",
-    xmlns: "http://www.w3.org/2000/svg",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 24
-    },
-    __self: undefined
-  }, __jsx("path", {
-    d: "M972 380c9 28 2 50-20 67L725 619l87 280c11 39-18 75-54 75-12 0-23-4-33-12L499 790 273 962a58 58 0 0 1-78-12 50 50 0 0 1-8-51l86-278L46 447c-21-17-28-39-19-67 8-24 29-40 52-40h280l87-279c7-23 28-39 52-39 25 0 47 17 54 41l87 277h280c24 0 45 16 53 40z",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 28
-    },
-    __self: undefined
-  })), __jsx("svg", {
-    class: "fill-current w-2 h-2 text-cyan mr-1",
-    viewBox: "0 0 1000 1000",
-    xmlns: "http://www.w3.org/2000/svg",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 30
-    },
-    __self: undefined
-  }, __jsx("path", {
-    d: "M972 380c9 28 2 50-20 67L725 619l87 280c11 39-18 75-54 75-12 0-23-4-33-12L499 790 273 962a58 58 0 0 1-78-12 50 50 0 0 1-8-51l86-278L46 447c-21-17-28-39-19-67 8-24 29-40 52-40h280l87-279c7-23 28-39 52-39 25 0 47 17 54 41l87 277h280c24 0 45 16 53 40z",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 34
-    },
-    __self: undefined
-  })), __jsx("svg", {
-    class: "fill-current w-2 h-2 text-cyan mr-1",
-    viewBox: "0 0 1000 1000",
-    xmlns: "http://www.w3.org/2000/svg",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 36
-    },
-    __self: undefined
-  }, __jsx("path", {
-    d: "M972 380c9 28 2 50-20 67L725 619l87 280c11 39-18 75-54 75-12 0-23-4-33-12L499 790 273 962a58 58 0 0 1-78-12 50 50 0 0 1-8-51l86-278L46 447c-21-17-28-39-19-67 8-24 29-40 52-40h280l87-279c7-23 28-39 52-39 25 0 47 17 54 41l87 277h280c24 0 45 16 53 40z",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 40
-    },
-    __self: undefined
-  })), __jsx("p", {
-    class: "text-xs text-gray-600 pl-1 font-thin",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 42
-    },
-    __self: undefined
-  }, "467 ", __jsx("span", {
-    "aria-hidden": true,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 43
-    },
-    __self: undefined
-  }, "\u2022"), " Superhost")));
-});
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\nvar _jsxFileName = \"/Users/ken/Desktop/nextjs_airbnb/components/Card.js\";\n\nvar __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;\n/* harmony default export */ __webpack_exports__[\"default\"] = (({\n  img,\n  houseType,\n  houseName,\n  title\n}) => {\n  return __jsx(\"div\", {\n    class: \"w-full lg:w-1/4 lg:p-1 my-3\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 3,\n      columnNumber: 3\n    }\n  }, __jsx(\"img\", {\n    src: img,\n    alt: \"\",\n    class: \"rounded\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 4,\n      columnNumber: 4\n    }\n  }), __jsx(\"p\", {\n    class: \"my-1 uppercase text-gray-600 text-xs font-semibold tracking-wide\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 5,\n      columnNumber: 4\n    }\n  }, houseType, \" \", __jsx(\"span\", {\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 6,\n      columnNumber: 17\n    }\n  }, \"\\u2022\"), \" \", houseName), __jsx(\"p\", {\n    class: \"text-lg text-gray-900\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 8,\n      columnNumber: 4\n    }\n  }, title), __jsx(\"p\", {\n    class: \"my-1 text-gray-600 font-thin text-sm\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 9,\n      columnNumber: 4\n    }\n  }, \"$285/night\"), __jsx(\"div\", {\n    className: \"flex items-center flex-wrap justify-start\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 11,\n      columnNumber: 4\n    }\n  }, __jsx(\"svg\", {\n    class: \"fill-current w-2 h-2 text-cyan mr-1\",\n    viewBox: \"0 0 1000 1000\",\n    xmlns: \"http://www.w3.org/2000/svg\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 12,\n      columnNumber: 5\n    }\n  }, __jsx(\"path\", {\n    d: \"M972 380c9 28 2 50-20 67L725 619l87 280c11 39-18 75-54 75-12 0-23-4-33-12L499 790 273 962a58 58 0 0 1-78-12 50 50 0 0 1-8-51l86-278L46 447c-21-17-28-39-19-67 8-24 29-40 52-40h280l87-279c7-23 28-39 52-39 25 0 47 17 54 41l87 277h280c24 0 45 16 53 40z\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 16,\n      columnNumber: 6\n    }\n  })), __jsx(\"svg\", {\n    class: \"fill-current w-2 h-2 text-cyan mr-1\",\n    viewBox: \"0 0 1000 1000\",\n    xmlns: \"http://www.w3.org/2000/svg\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 18,\n      columnNumber: 5\n    }\n  }, __jsx(\"path\", {\n    d: \"M972 380c9 28 2 50-20 67L725 619l87 280c11 39-18 75-54 75-12 0-23-4-33-12L499 790 273 962a58 58 0 0 1-78-12 50 50 0 0 1-8-51l86-278L46 447c-21-17-28-39-19-67 8-24 29-40 52-40h280l87-279c7-23 28-39 52-39 25 0 47 17 54 41l87 277h280c24 0 45 16 53 40z\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 22,\n      columnNumber: 6\n    }\n  })), __jsx(\"svg\", {\n    class: \"fill-current w-2 h-2 text-cyan mr-1\",\n    viewBox: \"0 0 1000 1000\",\n    xmlns: \"http://www.w3.org/2000/svg\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 24,\n      columnNumber: 5\n    }\n  }, __jsx(\"path\", {\n    d: \"M972 380c9 28 2 50-20 67L725 619l87 280c11 39-18 75-54 75-12 0-23-4-33-12L499 790 273 962a58 58 0 0 1-78-12 50 50 0 0 1-8-51l86-278L46 447c-21-17-28-39-19-67 8-24 29-40 52-40h280l87-279c7-23 28-39 52-39 25 0 47 17 54 41l87 277h280c24 0 45 16 53 40z\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 28,\n      columnNumber: 6\n    }\n  })), __jsx(\"svg\", {\n    class: \"fill-current w-2 h-2 text-cyan mr-1\",\n    viewBox: \"0 0 1000 1000\",\n    xmlns: \"http://www.w3.org/2000/svg\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 30,\n      columnNumber: 5\n    }\n  }, __jsx(\"path\", {\n    d: \"M972 380c9 28 2 50-20 67L725 619l87 280c11 39-18 75-54 75-12 0-23-4-33-12L499 790 273 962a58 58 0 0 1-78-12 50 50 0 0 1-8-51l86-278L46 447c-21-17-28-39-19-67 8-24 29-40 52-40h280l87-279c7-23 28-39 52-39 25 0 47 17 54 41l87 277h280c24 0 45 16 53 40z\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 34,\n      columnNumber: 6\n    }\n  })), __jsx(\"svg\", {\n    class: \"fill-current w-2 h-2 text-cyan mr-1\",\n    viewBox: \"0 0 1000 1000\",\n    xmlns: \"http://www.w3.org/2000/svg\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 36,\n      columnNumber: 5\n    }\n  }, __jsx(\"path\", {\n    d: \"M972 380c9 28 2 50-20 67L725 619l87 280c11 39-18 75-54 75-12 0-23-4-33-12L499 790 273 962a58 58 0 0 1-78-12 50 50 0 0 1-8-51l86-278L46 447c-21-17-28-39-19-67 8-24 29-40 52-40h280l87-279c7-23 28-39 52-39 25 0 47 17 54 41l87 277h280c24 0 45 16 53 40z\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 40,\n      columnNumber: 6\n    }\n  })), __jsx(\"p\", {\n    class: \"text-xs text-gray-600 pl-1 font-thin\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 42,\n      columnNumber: 5\n    }\n  }, \"467 \", __jsx(\"span\", {\n    \"aria-hidden\": true,\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 43,\n      columnNumber: 10\n    }\n  }, \"\\u2022\"), \" Superhost\")));\n});//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb21wb25lbnRzL0NhcmQuanM/ZGNjYiJdLCJuYW1lcyI6WyJpbWciLCJob3VzZVR5cGUiLCJob3VzZU5hbWUiLCJ0aXRsZSJdLCJtYXBwaW5ncyI6Ijs7Ozs7O0FBQWUsZ0VBQUM7QUFBRUEsS0FBRjtBQUFPQyxXQUFQO0FBQWtCQyxXQUFsQjtBQUE2QkM7QUFBN0IsQ0FBRCxLQUEwQztBQUN4RCxTQUNDO0FBQUssU0FBSyxFQUFDLDZCQUFYO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FDQztBQUFLLE9BQUcsRUFBRUgsR0FBVjtBQUFlLE9BQUcsRUFBQyxFQUFuQjtBQUFzQixTQUFLLEVBQUMsU0FBNUI7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxJQURELEVBRUM7QUFBRyxTQUFLLEVBQUMsa0VBQVQ7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUNFQyxTQURGLE9BQ2E7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxjQURiLE9BQzZCQyxTQUQ3QixDQUZELEVBS0M7QUFBRyxTQUFLLEVBQUMsdUJBQVQ7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUFrQ0MsS0FBbEMsQ0FMRCxFQU1DO0FBQUcsU0FBSyxFQUFDLHNDQUFUO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsa0JBTkQsRUFRQztBQUFLLGFBQVMsRUFBQywyQ0FBZjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFDQyxTQUFLLEVBQUMscUNBRFA7QUFFQyxXQUFPLEVBQUMsZUFGVDtBQUdDLFNBQUssRUFBQyw0QkFIUDtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBSUM7QUFBTSxLQUFDLEVBQUMsMFBBQVI7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxJQUpELENBREQsRUFPQztBQUNDLFNBQUssRUFBQyxxQ0FEUDtBQUVDLFdBQU8sRUFBQyxlQUZUO0FBR0MsU0FBSyxFQUFDLDRCQUhQO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FJQztBQUFNLEtBQUMsRUFBQywwUEFBUjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLElBSkQsQ0FQRCxFQWFDO0FBQ0MsU0FBSyxFQUFDLHFDQURQO0FBRUMsV0FBTyxFQUFDLGVBRlQ7QUFHQyxTQUFLLEVBQUMsNEJBSFA7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUlDO0FBQU0sS0FBQyxFQUFDLDBQQUFSO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsSUFKRCxDQWJELEVBbUJDO0FBQ0MsU0FBSyxFQUFDLHFDQURQO0FBRUMsV0FBTyxFQUFDLGVBRlQ7QUFHQyxTQUFLLEVBQUMsNEJBSFA7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUlDO0FBQU0sS0FBQyxFQUFDLDBQQUFSO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsSUFKRCxDQW5CRCxFQXlCQztBQUNDLFNBQUssRUFBQyxxQ0FEUDtBQUVDLFdBQU8sRUFBQyxlQUZUO0FBR0MsU0FBSyxFQUFDLDRCQUhQO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FJQztBQUFNLEtBQUMsRUFBQywwUEFBUjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLElBSkQsQ0F6QkQsRUErQkM7QUFBRyxTQUFLLEVBQUMsc0NBQVQ7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxhQUNLO0FBQU0sdUJBQU47QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxjQURMLGVBL0JELENBUkQsQ0FERDtBQThDQSxDQS9DRCIsImZpbGUiOiIuL2NvbXBvbmVudHMvQ2FyZC5qcy5qcyIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBkZWZhdWx0ICh7IGltZywgaG91c2VUeXBlLCBob3VzZU5hbWUsIHRpdGxlIH0pID0+IHtcblx0cmV0dXJuIChcblx0XHQ8ZGl2IGNsYXNzPSd3LWZ1bGwgbGc6dy0xLzQgbGc6cC0xIG15LTMnPlxuXHRcdFx0PGltZyBzcmM9e2ltZ30gYWx0PScnIGNsYXNzPSdyb3VuZGVkJyAvPlxuXHRcdFx0PHAgY2xhc3M9J215LTEgdXBwZXJjYXNlIHRleHQtZ3JheS02MDAgdGV4dC14cyBmb250LXNlbWlib2xkIHRyYWNraW5nLXdpZGUnPlxuXHRcdFx0XHR7aG91c2VUeXBlfSA8c3Bhbj7igKI8L3NwYW4+IHtob3VzZU5hbWV9XG5cdFx0XHQ8L3A+XG5cdFx0XHQ8cCBjbGFzcz0ndGV4dC1sZyB0ZXh0LWdyYXktOTAwJz57dGl0bGV9PC9wPlxuXHRcdFx0PHAgY2xhc3M9J215LTEgdGV4dC1ncmF5LTYwMCBmb250LXRoaW4gdGV4dC1zbSc+JDI4NS9uaWdodDwvcD5cblxuXHRcdFx0PGRpdiBjbGFzc05hbWU9J2ZsZXggaXRlbXMtY2VudGVyIGZsZXgtd3JhcCBqdXN0aWZ5LXN0YXJ0Jz5cblx0XHRcdFx0PHN2Z1xuXHRcdFx0XHRcdGNsYXNzPSdmaWxsLWN1cnJlbnQgdy0yIGgtMiB0ZXh0LWN5YW4gbXItMSdcblx0XHRcdFx0XHR2aWV3Qm94PScwIDAgMTAwMCAxMDAwJ1xuXHRcdFx0XHRcdHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zyc+XG5cdFx0XHRcdFx0PHBhdGggZD0nTTk3MiAzODBjOSAyOCAyIDUwLTIwIDY3TDcyNSA2MTlsODcgMjgwYzExIDM5LTE4IDc1LTU0IDc1LTEyIDAtMjMtNC0zMy0xMkw0OTkgNzkwIDI3MyA5NjJhNTggNTggMCAwIDEtNzgtMTIgNTAgNTAgMCAwIDEtOC01MWw4Ni0yNzhMNDYgNDQ3Yy0yMS0xNy0yOC0zOS0xOS02NyA4LTI0IDI5LTQwIDUyLTQwaDI4MGw4Ny0yNzljNy0yMyAyOC0zOSA1Mi0zOSAyNSAwIDQ3IDE3IDU0IDQxbDg3IDI3N2gyODBjMjQgMCA0NSAxNiA1MyA0MHonIC8+XG5cdFx0XHRcdDwvc3ZnPlxuXHRcdFx0XHQ8c3ZnXG5cdFx0XHRcdFx0Y2xhc3M9J2ZpbGwtY3VycmVudCB3LTIgaC0yIHRleHQtY3lhbiBtci0xJ1xuXHRcdFx0XHRcdHZpZXdCb3g9JzAgMCAxMDAwIDEwMDAnXG5cdFx0XHRcdFx0eG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz5cblx0XHRcdFx0XHQ8cGF0aCBkPSdNOTcyIDM4MGM5IDI4IDIgNTAtMjAgNjdMNzI1IDYxOWw4NyAyODBjMTEgMzktMTggNzUtNTQgNzUtMTIgMC0yMy00LTMzLTEyTDQ5OSA3OTAgMjczIDk2MmE1OCA1OCAwIDAgMS03OC0xMiA1MCA1MCAwIDAgMS04LTUxbDg2LTI3OEw0NiA0NDdjLTIxLTE3LTI4LTM5LTE5LTY3IDgtMjQgMjktNDAgNTItNDBoMjgwbDg3LTI3OWM3LTIzIDI4LTM5IDUyLTM5IDI1IDAgNDcgMTcgNTQgNDFsODcgMjc3aDI4MGMyNCAwIDQ1IDE2IDUzIDQweicgLz5cblx0XHRcdFx0PC9zdmc+XG5cdFx0XHRcdDxzdmdcblx0XHRcdFx0XHRjbGFzcz0nZmlsbC1jdXJyZW50IHctMiBoLTIgdGV4dC1jeWFuIG1yLTEnXG5cdFx0XHRcdFx0dmlld0JveD0nMCAwIDEwMDAgMTAwMCdcblx0XHRcdFx0XHR4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPlxuXHRcdFx0XHRcdDxwYXRoIGQ9J005NzIgMzgwYzkgMjggMiA1MC0yMCA2N0w3MjUgNjE5bDg3IDI4MGMxMSAzOS0xOCA3NS01NCA3NS0xMiAwLTIzLTQtMzMtMTJMNDk5IDc5MCAyNzMgOTYyYTU4IDU4IDAgMCAxLTc4LTEyIDUwIDUwIDAgMCAxLTgtNTFsODYtMjc4TDQ2IDQ0N2MtMjEtMTctMjgtMzktMTktNjcgOC0yNCAyOS00MCA1Mi00MGgyODBsODctMjc5YzctMjMgMjgtMzkgNTItMzkgMjUgMCA0NyAxNyA1NCA0MWw4NyAyNzdoMjgwYzI0IDAgNDUgMTYgNTMgNDB6JyAvPlxuXHRcdFx0XHQ8L3N2Zz5cblx0XHRcdFx0PHN2Z1xuXHRcdFx0XHRcdGNsYXNzPSdmaWxsLWN1cnJlbnQgdy0yIGgtMiB0ZXh0LWN5YW4gbXItMSdcblx0XHRcdFx0XHR2aWV3Qm94PScwIDAgMTAwMCAxMDAwJ1xuXHRcdFx0XHRcdHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zyc+XG5cdFx0XHRcdFx0PHBhdGggZD0nTTk3MiAzODBjOSAyOCAyIDUwLTIwIDY3TDcyNSA2MTlsODcgMjgwYzExIDM5LTE4IDc1LTU0IDc1LTEyIDAtMjMtNC0zMy0xMkw0OTkgNzkwIDI3MyA5NjJhNTggNTggMCAwIDEtNzgtMTIgNTAgNTAgMCAwIDEtOC01MWw4Ni0yNzhMNDYgNDQ3Yy0yMS0xNy0yOC0zOS0xOS02NyA4LTI0IDI5LTQwIDUyLTQwaDI4MGw4Ny0yNzljNy0yMyAyOC0zOSA1Mi0zOSAyNSAwIDQ3IDE3IDU0IDQxbDg3IDI3N2gyODBjMjQgMCA0NSAxNiA1MyA0MHonIC8+XG5cdFx0XHRcdDwvc3ZnPlxuXHRcdFx0XHQ8c3ZnXG5cdFx0XHRcdFx0Y2xhc3M9J2ZpbGwtY3VycmVudCB3LTIgaC0yIHRleHQtY3lhbiBtci0xJ1xuXHRcdFx0XHRcdHZpZXdCb3g9JzAgMCAxMDAwIDEwMDAnXG5cdFx0XHRcdFx0eG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz5cblx0XHRcdFx0XHQ8cGF0aCBkPSdNOTcyIDM4MGM5IDI4IDIgNTAtMjAgNjdMNzI1IDYxOWw4NyAyODBjMTEgMzktMTggNzUtNTQgNzUtMTIgMC0yMy00LTMzLTEyTDQ5OSA3OTAgMjczIDk2MmE1OCA1OCAwIDAgMS03OC0xMiA1MCA1MCAwIDAgMS04LTUxbDg2LTI3OEw0NiA0NDdjLTIxLTE3LTI4LTM5LTE5LTY3IDgtMjQgMjktNDAgNTItNDBoMjgwbDg3LTI3OWM3LTIzIDI4LTM5IDUyLTM5IDI1IDAgNDcgMTcgNTQgNDFsODcgMjc3aDI4MGMyNCAwIDQ1IDE2IDUzIDQweicgLz5cblx0XHRcdFx0PC9zdmc+XG5cdFx0XHRcdDxwIGNsYXNzPSd0ZXh0LXhzIHRleHQtZ3JheS02MDAgcGwtMSBmb250LXRoaW4nPlxuXHRcdFx0XHRcdDQ2NyA8c3BhbiBhcmlhLWhpZGRlbj7igKI8L3NwYW4+IFN1cGVyaG9zdFxuXHRcdFx0XHQ8L3A+XG5cdFx0XHQ8L2Rpdj5cblx0XHQ8L2Rpdj5cblx0KTtcbn07XG4iXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./components/Card.js\n");
 
 /***/ }),
 
@@ -743,497 +173,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/Footer.js";
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-/* harmony default export */ __webpack_exports__["default"] = (() => {
-  return __jsx("div", {
-    className: "bg-gray-100 border-t border-gray-300",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 3
-    },
-    __self: undefined
-  }, __jsx("div", {
-    className: "max-w-5xl mx-auto lg:px-0 px-4 py-16 border-b border-gray-300",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 4
-    },
-    __self: undefined
-  }, __jsx("div", {
-    className: "flex items-start justify-start flex-wrap",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 5
-    },
-    __self: undefined
-  }, __jsx("div", {
-    className: "w-full lg:w-1/4 mb-6",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 6
-    },
-    __self: undefined
-  }, __jsx("h3", {
-    className: "text-gray-900 text-sm font-semibold pb-3",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 7
-    },
-    __self: undefined
-  }, "Airbnb"), __jsx("ul", {
-    className: "leading-loose",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: undefined
-  }, __jsx("li", {
-    class: "text-gray-600 text-sm tracking-wide pb-1",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 9
-    },
-    __self: undefined
-  }, __jsx("a", {
-    href: "#",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 10
-    },
-    __self: undefined
-  }, "Careers")), __jsx("li", {
-    class: "text-gray-600 text-sm tracking-wide pb-1",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 12
-    },
-    __self: undefined
-  }, __jsx("a", {
-    href: "#",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 13
-    },
-    __self: undefined
-  }, "News")), __jsx("li", {
-    class: "text-gray-600 text-sm tracking-wide pb-1",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 15
-    },
-    __self: undefined
-  }, __jsx("a", {
-    href: "#",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16
-    },
-    __self: undefined
-  }, "Policies")), __jsx("li", {
-    class: "text-gray-600 text-sm tracking-wide pb-1",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 18
-    },
-    __self: undefined
-  }, __jsx("a", {
-    href: "#",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: undefined
-  }, "Help")), __jsx("li", {
-    class: "text-gray-600 text-sm tracking-wide pb-1",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 21
-    },
-    __self: undefined
-  }, __jsx("a", {
-    href: "#",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 22
-    },
-    __self: undefined
-  }, "Diversity & Belonging")))), __jsx("div", {
-    className: "w-full lg:w-1/4 mb-6",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 26
-    },
-    __self: undefined
-  }, __jsx("h3", {
-    className: "text-gray-900 text-sm font-semibold pb-3",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 27
-    },
-    __self: undefined
-  }, "Discover"), __jsx("ul", {
-    className: "leading-loose",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 28
-    },
-    __self: undefined
-  }, __jsx("li", {
-    class: "text-gray-600 text-sm tracking-wide pb-1",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 29
-    },
-    __self: undefined
-  }, __jsx("a", {
-    href: "#",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 30
-    },
-    __self: undefined
-  }, "Trust & Safety")), __jsx("li", {
-    class: "text-gray-600 text-sm tracking-wide pb-1",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 32
-    },
-    __self: undefined
-  }, __jsx("a", {
-    href: "#",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 33
-    },
-    __self: undefined
-  }, "Travel Credit")), __jsx("li", {
-    class: "text-gray-600 text-sm tracking-wide pb-1",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 35
-    },
-    __self: undefined
-  }, __jsx("a", {
-    href: "#",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 36
-    },
-    __self: undefined
-  }, "Airbnb Citizen")), __jsx("li", {
-    class: "text-gray-600 text-sm tracking-wide pb-1",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 38
-    },
-    __self: undefined
-  }, __jsx("a", {
-    href: "#",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 39
-    },
-    __self: undefined
-  }, "Business Travel")), __jsx("li", {
-    class: "text-gray-600 text-sm tracking-wide pb-1",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 41
-    },
-    __self: undefined
-  }, __jsx("a", {
-    href: "#",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 42
-    },
-    __self: undefined
-  }, "Things To Do")), __jsx("li", {
-    class: "text-gray-600 text-sm tracking-wide pb-1",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 44
-    },
-    __self: undefined
-  }, __jsx("a", {
-    href: "#",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 45
-    },
-    __self: undefined
-  }, "Airbnbmag")))), __jsx("div", {
-    className: "w-full lg:w-1/4 mb-6",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 49
-    },
-    __self: undefined
-  }, __jsx("h3", {
-    className: "text-gray-900 text-sm font-semibold pb-3",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 50
-    },
-    __self: undefined
-  }, "Hosting"), __jsx("ul", {
-    class: "leading-loose",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 51
-    },
-    __self: undefined
-  }, __jsx("li", {
-    class: "text-gray-600 text-sm tracking-wide pb-1",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 52
-    },
-    __self: undefined
-  }, __jsx("a", {
-    href: "#",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 53
-    },
-    __self: undefined
-  }, "Why Host")), __jsx("li", {
-    class: "text-gray-600 text-sm tracking-wide pb-1",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 55
-    },
-    __self: undefined
-  }, __jsx("a", {
-    href: "#",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 56
-    },
-    __self: undefined
-  }, "Hospitality")), __jsx("li", {
-    class: "text-gray-600 text-sm tracking-wide pb-1",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 58
-    },
-    __self: undefined
-  }, __jsx("a", {
-    href: "#",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 59
-    },
-    __self: undefined
-  }, "Responsible Hosting")), __jsx("li", {
-    class: "text-gray-600 text-sm tracking-wide pb-1",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 61
-    },
-    __self: undefined
-  }, __jsx("a", {
-    href: "#",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 62
-    },
-    __self: undefined
-  }, "Community Center")), __jsx("li", {
-    class: "text-gray-600 text-sm tracking-wide pb-1",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 64
-    },
-    __self: undefined
-  }, __jsx("a", {
-    href: "#",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 65
-    },
-    __self: undefined
-  }, "Host an Experience")))), __jsx("div", {
-    className: "w-full lg:w-1/4",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 69
-    },
-    __self: undefined
-  }, __jsx("div", {
-    class: "flex items-center justify-start flex-wrap mt-2 pb-3",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 70
-    },
-    __self: undefined
-  }, __jsx("a", {
-    href: "#",
-    class: "mr-2",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 71
-    },
-    __self: undefined
-  }, __jsx("svg", {
-    viewBox: "0 0 32 32",
-    role: "img",
-    "aria-label": "Navigate to Facebook",
-    focusable: "false",
-    class: "text-gray-600 fill-current w-4 h-4",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 72
-    },
-    __self: undefined
-  }, __jsx("path", {
-    d: "m8 14.41v-4.17c0-.42.35-.81.77-.81h2.52v-2.08c0-4.84 2.48-7.31 7.42-7.35 1.65 0 3.22.21 4.69.64.46.14.63.42.6.88l-.56 4.06c-.04.18-.14.35-.32.53-.21.11-.42.18-.63.14-.88-.25-1.78-.35-2.8-.35-1.4 0-1.61.28-1.61 1.73v1.8h4.52c.42 0 .81.42.81.88l-.35 4.17c0 .42-.35.71-.77.71h-4.21v16c0 .42-.35.81-.77.81h-5.21c-.42 0-.8-.39-.8-.81v-16h-2.52a.78.78 0 0 1 -.78-.78",
-    fillRule: "evenodd",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 78
-    },
-    __self: undefined
-  }))), __jsx("a", {
-    href: "#",
-    class: "mr-2",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 84
-    },
-    __self: undefined
-  }, __jsx("svg", {
-    class: "text-gray-600 fill-current w-4 h-4",
-    viewBox: "0 0 32 32",
-    role: "img",
-    "aria-label": "Navigate to Twitter",
-    focusable: "false",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 85
-    },
-    __self: undefined
-  }, __jsx("path", {
-    d: "m31 6.36c-1.16.49-2.32.82-3.55.95 1.29-.76 2.22-1.87 2.72-3.38a13.05 13.05 0 0 1 -3.91 1.51c-1.23-1.28-2.75-1.94-4.51-1.94-3.41 0-6.17 2.73-6.17 6.12 0 .49.07.95.17 1.38-4.94-.23-9.51-2.6-12.66-6.38-.56.95-.86 1.97-.86 3.09 0 2.07 1.03 3.91 2.75 5.06-1-.03-1.92-.3-2.82-.76v.07c0 2.89 2.12 5.42 4.94 5.98-.63.17-1.16.23-1.62.23-.3 0-.7-.03-1.13-.13a6.07 6.07 0 0 0 5.74 4.24c-2.22 1.74-4.78 2.63-7.66 2.63-.56 0-1.06-.03-1.43-.1 2.85 1.84 6 2.76 9.41 2.76 7.29 0 12.83-4.01 15.51-9.3 1.36-2.66 2.02-5.36 2.02-8.09v-.46c-.03-.17-.03-.3-.03-.33a12.66 12.66 0 0 0 3.09-3.16",
-    "fill-rule": "evenodd",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 91
-    },
-    __self: undefined
-  }))), __jsx("a", {
-    href: "#",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 97
-    },
-    __self: undefined
-  }, __jsx("svg", {
-    viewBox: "0 0 24 24",
-    role: "img",
-    "aria-label": "Navigate to Instagram",
-    focusable: "false",
-    class: "text-gray-600 fill-current w-4 h-4",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 98
-    },
-    __self: undefined
-  }, __jsx("path", {
-    d: "m23.09.91c-.61-.61-1.33-.91-2.17-.91h-17.84c-.85 0-1.57.3-2.17.91s-.91 1.33-.91 2.17v17.84c0 .85.3 1.57.91 2.17s1.33.91 2.17.91h17.84c.85 0 1.57-.3 2.17-.91s.91-1.33.91-2.17v-17.84c0-.85-.3-1.57-.91-2.17zm-14.48 7.74c.94-.91 2.08-1.37 3.4-1.37 1.33 0 2.47.46 3.41 1.37s1.41 2.01 1.41 3.3-.47 2.39-1.41 3.3-2.08 1.37-3.41 1.37c-1.32 0-2.46-.46-3.4-1.37s-1.41-2.01-1.41-3.3.47-2.39 1.41-3.3zm12.66 11.63c0 .27-.09.5-.28.68a.92.92 0 0 1 -.67.28h-16.7a.93.93 0 0 1 -.68-.28.92.92 0 0 1 -.27-.68v-10.13h2.2a6.74 6.74 0 0 0 -.31 2.05c0 2 .73 3.71 2.19 5.12s3.21 2.12 5.27 2.12a7.5 7.5 0 0 0 3.75-.97 7.29 7.29 0 0 0 2.72-2.63 6.93 6.93 0 0 0 1-3.63c0-.71-.11-1.39-.31-2.05h2.11v10.12zm0-13.95c0 .3-.11.56-.31.77a1.05 1.05 0 0 1 -.77.31h-2.72c-.3 0-.56-.11-.77-.31a1.05 1.05 0 0 1 -.31-.77v-2.58c0-.29.11-.54.31-.76s.47-.32.77-.32h2.72c.3 0 .56.11.77.32s.31.47.31.76z",
-    "fill-rule": "evenodd",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 104
-    },
-    __self: undefined
-  })))), __jsx("ul", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 110
-    },
-    __self: undefined
-  }, __jsx("li", {
-    class: "text-gray-600 text-sm tracking-wide pb-1",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 111
-    },
-    __self: undefined
-  }, __jsx("a", {
-    href: "#",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 112
-    },
-    __self: undefined
-  }, "Terms")), __jsx("li", {
-    class: "text-gray-600 text-sm tracking-wide pb-1",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 114
-    },
-    __self: undefined
-  }, __jsx("a", {
-    href: "#",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 115
-    },
-    __self: undefined
-  }, "Privacy")), __jsx("li", {
-    class: "text-gray-600 text-sm tracking-wide pb-1",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 117
-    },
-    __self: undefined
-  }, __jsx("a", {
-    href: "#",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 118
-    },
-    __self: undefined
-  }, "Site Map")))))), __jsx("div", {
-    class: "max-w-5xl mx-auto flex items-center justify-start flex-wrap py-6 px-4 lg:px-0",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 124
-    },
-    __self: undefined
-  }, __jsx("svg", {
-    class: "fill-current text-gray-600 w-5 h-5 flex-shrink-0",
-    viewBox: "0 0 1000 1000",
-    role: "presentation",
-    "aria-hidden": "true",
-    focusable: "false",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 125
-    },
-    __self: undefined
-  }, __jsx("path", {
-    d: "m499.3 736.7c-51-64-81-120.1-91-168.1-10-39-6-70 11-93 18-27 45-40 80-40s62 13 80 40c17 23 21 54 11 93-11 49-41 105-91 168.1zm362.2 43c-7 47-39 86-83 105-85 37-169.1-22-241.1-102 119.1-149.1 141.1-265.1 90-340.2-30-43-73-64-128.1-64-111 0-172.1 94-148.1 203.1 14 59 51 126.1 110 201.1-37 41-72 70-103 88-24 13-47 21-69 23-101 15-180.1-83-144.1-184.1 5-13 15-37 32-74l1-2c55-120.1 122.1-256.1 199.1-407.2l2-5 22-42c17-31 24-45 51-62 13-8 29-12 47-12 36 0 64 21 76 38 6 9 13 21 22 36l21 41 3 6c77 151.1 144.1 287.1 199.1 407.2l1 1 20 46 12 29c9.2 23.1 11.2 46.1 8.2 70.1zm46-90.1c-7-22-19-48-34-79v-1c-71-151.1-137.1-287.1-200.1-409.2l-4-6c-45-92-77-147.1-170.1-147.1-92 0-131.1 64-171.1 147.1l-3 6c-63 122.1-129.1 258.1-200.1 409.2v2l-21 46c-8 19-12 29-13 32-51 140.1 54 263.1 181.1 263.1 1 0 5 0 10-1h14c66-8 134.1-50 203.1-125.1 69 75 137.1 117.1 203.1 125.1h14c5 1 9 1 10 1 127.1.1 232.1-123 181.1-263.1z",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 131
-    },
-    __self: undefined
-  })), __jsx("p", {
-    class: "pl-4 text-sm text-gray-600 font-thin",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 133
-    },
-    __self: undefined
-  }, "\xA9 2019 Airbnb, Inc. All rights reserved.")));
-});
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\nvar _jsxFileName = \"/Users/ken/Desktop/nextjs_airbnb/components/Footer.js\";\n\nvar __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;\n/* harmony default export */ __webpack_exports__[\"default\"] = (() => {\n  return __jsx(\"div\", {\n    className: \"bg-gray-100 border-t border-gray-300\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 3,\n      columnNumber: 3\n    }\n  }, __jsx(\"div\", {\n    className: \"max-w-5xl mx-auto lg:px-0 px-4 py-16 border-b border-gray-300\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 4,\n      columnNumber: 4\n    }\n  }, __jsx(\"div\", {\n    className: \"flex items-start justify-start flex-wrap\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 5,\n      columnNumber: 5\n    }\n  }, __jsx(\"div\", {\n    className: \"w-full lg:w-1/4 mb-6\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 6,\n      columnNumber: 6\n    }\n  }, __jsx(\"h3\", {\n    className: \"text-gray-900 text-sm font-semibold pb-3\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 7,\n      columnNumber: 7\n    }\n  }, \"Airbnb\"), __jsx(\"ul\", {\n    className: \"leading-loose\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 8,\n      columnNumber: 7\n    }\n  }, __jsx(\"li\", {\n    class: \"text-gray-600 text-sm tracking-wide pb-1\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 9,\n      columnNumber: 8\n    }\n  }, __jsx(\"a\", {\n    href: \"#\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 10,\n      columnNumber: 9\n    }\n  }, \"Careers\")), __jsx(\"li\", {\n    class: \"text-gray-600 text-sm tracking-wide pb-1\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 12,\n      columnNumber: 8\n    }\n  }, __jsx(\"a\", {\n    href: \"#\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 13,\n      columnNumber: 9\n    }\n  }, \"News\")), __jsx(\"li\", {\n    class: \"text-gray-600 text-sm tracking-wide pb-1\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 15,\n      columnNumber: 8\n    }\n  }, __jsx(\"a\", {\n    href: \"#\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 16,\n      columnNumber: 9\n    }\n  }, \"Policies\")), __jsx(\"li\", {\n    class: \"text-gray-600 text-sm tracking-wide pb-1\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 18,\n      columnNumber: 8\n    }\n  }, __jsx(\"a\", {\n    href: \"#\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 19,\n      columnNumber: 9\n    }\n  }, \"Help\")), __jsx(\"li\", {\n    class: \"text-gray-600 text-sm tracking-wide pb-1\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 21,\n      columnNumber: 8\n    }\n  }, __jsx(\"a\", {\n    href: \"#\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 22,\n      columnNumber: 9\n    }\n  }, \"Diversity & Belonging\")))), __jsx(\"div\", {\n    className: \"w-full lg:w-1/4 mb-6\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 26,\n      columnNumber: 6\n    }\n  }, __jsx(\"h3\", {\n    className: \"text-gray-900 text-sm font-semibold pb-3\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 27,\n      columnNumber: 7\n    }\n  }, \"Discover\"), __jsx(\"ul\", {\n    className: \"leading-loose\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 28,\n      columnNumber: 7\n    }\n  }, __jsx(\"li\", {\n    class: \"text-gray-600 text-sm tracking-wide pb-1\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 29,\n      columnNumber: 8\n    }\n  }, __jsx(\"a\", {\n    href: \"#\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 30,\n      columnNumber: 9\n    }\n  }, \"Trust & Safety\")), __jsx(\"li\", {\n    class: \"text-gray-600 text-sm tracking-wide pb-1\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 32,\n      columnNumber: 8\n    }\n  }, __jsx(\"a\", {\n    href: \"#\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 33,\n      columnNumber: 9\n    }\n  }, \"Travel Credit\")), __jsx(\"li\", {\n    class: \"text-gray-600 text-sm tracking-wide pb-1\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 35,\n      columnNumber: 8\n    }\n  }, __jsx(\"a\", {\n    href: \"#\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 36,\n      columnNumber: 9\n    }\n  }, \"Airbnb Citizen\")), __jsx(\"li\", {\n    class: \"text-gray-600 text-sm tracking-wide pb-1\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 38,\n      columnNumber: 8\n    }\n  }, __jsx(\"a\", {\n    href: \"#\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 39,\n      columnNumber: 9\n    }\n  }, \"Business Travel\")), __jsx(\"li\", {\n    class: \"text-gray-600 text-sm tracking-wide pb-1\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 41,\n      columnNumber: 8\n    }\n  }, __jsx(\"a\", {\n    href: \"#\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 42,\n      columnNumber: 9\n    }\n  }, \"Things To Do\")), __jsx(\"li\", {\n    class: \"text-gray-600 text-sm tracking-wide pb-1\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 44,\n      columnNumber: 8\n    }\n  }, __jsx(\"a\", {\n    href: \"#\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 45,\n      columnNumber: 9\n    }\n  }, \"Airbnbmag\")))), __jsx(\"div\", {\n    className: \"w-full lg:w-1/4 mb-6\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 49,\n      columnNumber: 6\n    }\n  }, __jsx(\"h3\", {\n    className: \"text-gray-900 text-sm font-semibold pb-3\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 50,\n      columnNumber: 7\n    }\n  }, \"Hosting\"), __jsx(\"ul\", {\n    class: \"leading-loose\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 51,\n      columnNumber: 7\n    }\n  }, __jsx(\"li\", {\n    class: \"text-gray-600 text-sm tracking-wide pb-1\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 52,\n      columnNumber: 8\n    }\n  }, __jsx(\"a\", {\n    href: \"#\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 53,\n      columnNumber: 9\n    }\n  }, \"Why Host\")), __jsx(\"li\", {\n    class: \"text-gray-600 text-sm tracking-wide pb-1\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 55,\n      columnNumber: 8\n    }\n  }, __jsx(\"a\", {\n    href: \"#\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 56,\n      columnNumber: 9\n    }\n  }, \"Hospitality\")), __jsx(\"li\", {\n    class: \"text-gray-600 text-sm tracking-wide pb-1\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 58,\n      columnNumber: 8\n    }\n  }, __jsx(\"a\", {\n    href: \"#\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 59,\n      columnNumber: 9\n    }\n  }, \"Responsible Hosting\")), __jsx(\"li\", {\n    class: \"text-gray-600 text-sm tracking-wide pb-1\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 61,\n      columnNumber: 8\n    }\n  }, __jsx(\"a\", {\n    href: \"#\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 62,\n      columnNumber: 9\n    }\n  }, \"Community Center\")), __jsx(\"li\", {\n    class: \"text-gray-600 text-sm tracking-wide pb-1\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 64,\n      columnNumber: 8\n    }\n  }, __jsx(\"a\", {\n    href: \"#\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 65,\n      columnNumber: 9\n    }\n  }, \"Host an Experience\")))), __jsx(\"div\", {\n    className: \"w-full lg:w-1/4\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 69,\n      columnNumber: 6\n    }\n  }, __jsx(\"div\", {\n    class: \"flex items-center justify-start flex-wrap mt-2 pb-3\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 70,\n      columnNumber: 7\n    }\n  }, __jsx(\"a\", {\n    href: \"#\",\n    class: \"mr-2\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 71,\n      columnNumber: 8\n    }\n  }, __jsx(\"svg\", {\n    viewBox: \"0 0 32 32\",\n    role: \"img\",\n    \"aria-label\": \"Navigate to Facebook\",\n    focusable: \"false\",\n    class: \"text-gray-600 fill-current w-4 h-4\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 72,\n      columnNumber: 9\n    }\n  }, __jsx(\"path\", {\n    d: \"m8 14.41v-4.17c0-.42.35-.81.77-.81h2.52v-2.08c0-4.84 2.48-7.31 7.42-7.35 1.65 0 3.22.21 4.69.64.46.14.63.42.6.88l-.56 4.06c-.04.18-.14.35-.32.53-.21.11-.42.18-.63.14-.88-.25-1.78-.35-2.8-.35-1.4 0-1.61.28-1.61 1.73v1.8h4.52c.42 0 .81.42.81.88l-.35 4.17c0 .42-.35.71-.77.71h-4.21v16c0 .42-.35.81-.77.81h-5.21c-.42 0-.8-.39-.8-.81v-16h-2.52a.78.78 0 0 1 -.78-.78\",\n    fillRule: \"evenodd\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 78,\n      columnNumber: 10\n    }\n  }))), __jsx(\"a\", {\n    href: \"#\",\n    class: \"mr-2\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 84,\n      columnNumber: 8\n    }\n  }, __jsx(\"svg\", {\n    class: \"text-gray-600 fill-current w-4 h-4\",\n    viewBox: \"0 0 32 32\",\n    role: \"img\",\n    \"aria-label\": \"Navigate to Twitter\",\n    focusable: \"false\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 85,\n      columnNumber: 9\n    }\n  }, __jsx(\"path\", {\n    d: \"m31 6.36c-1.16.49-2.32.82-3.55.95 1.29-.76 2.22-1.87 2.72-3.38a13.05 13.05 0 0 1 -3.91 1.51c-1.23-1.28-2.75-1.94-4.51-1.94-3.41 0-6.17 2.73-6.17 6.12 0 .49.07.95.17 1.38-4.94-.23-9.51-2.6-12.66-6.38-.56.95-.86 1.97-.86 3.09 0 2.07 1.03 3.91 2.75 5.06-1-.03-1.92-.3-2.82-.76v.07c0 2.89 2.12 5.42 4.94 5.98-.63.17-1.16.23-1.62.23-.3 0-.7-.03-1.13-.13a6.07 6.07 0 0 0 5.74 4.24c-2.22 1.74-4.78 2.63-7.66 2.63-.56 0-1.06-.03-1.43-.1 2.85 1.84 6 2.76 9.41 2.76 7.29 0 12.83-4.01 15.51-9.3 1.36-2.66 2.02-5.36 2.02-8.09v-.46c-.03-.17-.03-.3-.03-.33a12.66 12.66 0 0 0 3.09-3.16\",\n    \"fill-rule\": \"evenodd\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 91,\n      columnNumber: 10\n    }\n  }))), __jsx(\"a\", {\n    href: \"#\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 97,\n      columnNumber: 8\n    }\n  }, __jsx(\"svg\", {\n    viewBox: \"0 0 24 24\",\n    role: \"img\",\n    \"aria-label\": \"Navigate to Instagram\",\n    focusable: \"false\",\n    class: \"text-gray-600 fill-current w-4 h-4\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 98,\n      columnNumber: 9\n    }\n  }, __jsx(\"path\", {\n    d: \"m23.09.91c-.61-.61-1.33-.91-2.17-.91h-17.84c-.85 0-1.57.3-2.17.91s-.91 1.33-.91 2.17v17.84c0 .85.3 1.57.91 2.17s1.33.91 2.17.91h17.84c.85 0 1.57-.3 2.17-.91s.91-1.33.91-2.17v-17.84c0-.85-.3-1.57-.91-2.17zm-14.48 7.74c.94-.91 2.08-1.37 3.4-1.37 1.33 0 2.47.46 3.41 1.37s1.41 2.01 1.41 3.3-.47 2.39-1.41 3.3-2.08 1.37-3.41 1.37c-1.32 0-2.46-.46-3.4-1.37s-1.41-2.01-1.41-3.3.47-2.39 1.41-3.3zm12.66 11.63c0 .27-.09.5-.28.68a.92.92 0 0 1 -.67.28h-16.7a.93.93 0 0 1 -.68-.28.92.92 0 0 1 -.27-.68v-10.13h2.2a6.74 6.74 0 0 0 -.31 2.05c0 2 .73 3.71 2.19 5.12s3.21 2.12 5.27 2.12a7.5 7.5 0 0 0 3.75-.97 7.29 7.29 0 0 0 2.72-2.63 6.93 6.93 0 0 0 1-3.63c0-.71-.11-1.39-.31-2.05h2.11v10.12zm0-13.95c0 .3-.11.56-.31.77a1.05 1.05 0 0 1 -.77.31h-2.72c-.3 0-.56-.11-.77-.31a1.05 1.05 0 0 1 -.31-.77v-2.58c0-.29.11-.54.31-.76s.47-.32.77-.32h2.72c.3 0 .56.11.77.32s.31.47.31.76z\",\n    \"fill-rule\": \"evenodd\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 104,\n      columnNumber: 10\n    }\n  })))), __jsx(\"ul\", {\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 110,\n      columnNumber: 7\n    }\n  }, __jsx(\"li\", {\n    class: \"text-gray-600 text-sm tracking-wide pb-1\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 111,\n      columnNumber: 8\n    }\n  }, __jsx(\"a\", {\n    href: \"#\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 112,\n      columnNumber: 9\n    }\n  }, \"Terms\")), __jsx(\"li\", {\n    class: \"text-gray-600 text-sm tracking-wide pb-1\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 114,\n      columnNumber: 8\n    }\n  }, __jsx(\"a\", {\n    href: \"#\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 115,\n      columnNumber: 9\n    }\n  }, \"Privacy\")), __jsx(\"li\", {\n    class: \"text-gray-600 text-sm tracking-wide pb-1\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 117,\n      columnNumber: 8\n    }\n  }, __jsx(\"a\", {\n    href: \"#\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 118,\n      columnNumber: 9\n    }\n  }, \"Site Map\")))))), __jsx(\"div\", {\n    class: \"max-w-5xl mx-auto flex items-center justify-start flex-wrap py-6 px-4 lg:px-0\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 124,\n      columnNumber: 4\n    }\n  }, __jsx(\"svg\", {\n    class: \"fill-current text-gray-600 w-5 h-5 flex-shrink-0\",\n    viewBox: \"0 0 1000 1000\",\n    role: \"presentation\",\n    \"aria-hidden\": \"true\",\n    focusable: \"false\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 125,\n      columnNumber: 5\n    }\n  }, __jsx(\"path\", {\n    d: \"m499.3 736.7c-51-64-81-120.1-91-168.1-10-39-6-70 11-93 18-27 45-40 80-40s62 13 80 40c17 23 21 54 11 93-11 49-41 105-91 168.1zm362.2 43c-7 47-39 86-83 105-85 37-169.1-22-241.1-102 119.1-149.1 141.1-265.1 90-340.2-30-43-73-64-128.1-64-111 0-172.1 94-148.1 203.1 14 59 51 126.1 110 201.1-37 41-72 70-103 88-24 13-47 21-69 23-101 15-180.1-83-144.1-184.1 5-13 15-37 32-74l1-2c55-120.1 122.1-256.1 199.1-407.2l2-5 22-42c17-31 24-45 51-62 13-8 29-12 47-12 36 0 64 21 76 38 6 9 13 21 22 36l21 41 3 6c77 151.1 144.1 287.1 199.1 407.2l1 1 20 46 12 29c9.2 23.1 11.2 46.1 8.2 70.1zm46-90.1c-7-22-19-48-34-79v-1c-71-151.1-137.1-287.1-200.1-409.2l-4-6c-45-92-77-147.1-170.1-147.1-92 0-131.1 64-171.1 147.1l-3 6c-63 122.1-129.1 258.1-200.1 409.2v2l-21 46c-8 19-12 29-13 32-51 140.1 54 263.1 181.1 263.1 1 0 5 0 10-1h14c66-8 134.1-50 203.1-125.1 69 75 137.1 117.1 203.1 125.1h14c5 1 9 1 10 1 127.1.1 232.1-123 181.1-263.1z\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 131,\n      columnNumber: 6\n    }\n  })), __jsx(\"p\", {\n    class: \"pl-4 text-sm text-gray-600 font-thin\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 133,\n      columnNumber: 5\n    }\n  }, \"\\xA9 2019 Airbnb, Inc. All rights reserved.\")));\n});//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb21wb25lbnRzL0Zvb3Rlci5qcz9mMjU2Il0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7OztBQUFlLHFFQUFNO0FBQ3BCLFNBQ0M7QUFBSyxhQUFTLEVBQUMsc0NBQWY7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUNDO0FBQUssYUFBUyxFQUFDLCtEQUFmO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FDQztBQUFLLGFBQVMsRUFBQywwQ0FBZjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBSyxhQUFTLEVBQUMsc0JBQWY7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUNDO0FBQUksYUFBUyxFQUFDLDBDQUFkO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsY0FERCxFQUVDO0FBQUksYUFBUyxFQUFDLGVBQWQ7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUNDO0FBQUksU0FBSyxFQUFDLDBDQUFWO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FDQztBQUFHLFFBQUksRUFBQyxHQUFSO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsZUFERCxDQURELEVBSUM7QUFBSSxTQUFLLEVBQUMsMENBQVY7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUNDO0FBQUcsUUFBSSxFQUFDLEdBQVI7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxZQURELENBSkQsRUFPQztBQUFJLFNBQUssRUFBQywwQ0FBVjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBRyxRQUFJLEVBQUMsR0FBUjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLGdCQURELENBUEQsRUFVQztBQUFJLFNBQUssRUFBQywwQ0FBVjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBRyxRQUFJLEVBQUMsR0FBUjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLFlBREQsQ0FWRCxFQWFDO0FBQUksU0FBSyxFQUFDLDBDQUFWO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FDQztBQUFHLFFBQUksRUFBQyxHQUFSO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsNkJBREQsQ0FiRCxDQUZELENBREQsRUFxQkM7QUFBSyxhQUFTLEVBQUMsc0JBQWY7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUNDO0FBQUksYUFBUyxFQUFDLDBDQUFkO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsZ0JBREQsRUFFQztBQUFJLGFBQVMsRUFBQyxlQUFkO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FDQztBQUFJLFNBQUssRUFBQywwQ0FBVjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBRyxRQUFJLEVBQUMsR0FBUjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLHNCQURELENBREQsRUFJQztBQUFJLFNBQUssRUFBQywwQ0FBVjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBRyxRQUFJLEVBQUMsR0FBUjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLHFCQURELENBSkQsRUFPQztBQUFJLFNBQUssRUFBQywwQ0FBVjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBRyxRQUFJLEVBQUMsR0FBUjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLHNCQURELENBUEQsRUFVQztBQUFJLFNBQUssRUFBQywwQ0FBVjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBRyxRQUFJLEVBQUMsR0FBUjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLHVCQURELENBVkQsRUFhQztBQUFJLFNBQUssRUFBQywwQ0FBVjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBRyxRQUFJLEVBQUMsR0FBUjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLG9CQURELENBYkQsRUFnQkM7QUFBSSxTQUFLLEVBQUMsMENBQVY7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUNDO0FBQUcsUUFBSSxFQUFDLEdBQVI7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxpQkFERCxDQWhCRCxDQUZELENBckJELEVBNENDO0FBQUssYUFBUyxFQUFDLHNCQUFmO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FDQztBQUFJLGFBQVMsRUFBQywwQ0FBZDtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLGVBREQsRUFFQztBQUFJLFNBQUssRUFBQyxlQUFWO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FDQztBQUFJLFNBQUssRUFBQywwQ0FBVjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBRyxRQUFJLEVBQUMsR0FBUjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLGdCQURELENBREQsRUFJQztBQUFJLFNBQUssRUFBQywwQ0FBVjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBRyxRQUFJLEVBQUMsR0FBUjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLG1CQURELENBSkQsRUFPQztBQUFJLFNBQUssRUFBQywwQ0FBVjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBRyxRQUFJLEVBQUMsR0FBUjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLDJCQURELENBUEQsRUFVQztBQUFJLFNBQUssRUFBQywwQ0FBVjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBRyxRQUFJLEVBQUMsR0FBUjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLHdCQURELENBVkQsRUFhQztBQUFJLFNBQUssRUFBQywwQ0FBVjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBRyxRQUFJLEVBQUMsR0FBUjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLDBCQURELENBYkQsQ0FGRCxDQTVDRCxFQWdFQztBQUFLLGFBQVMsRUFBQyxpQkFBZjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBSyxTQUFLLEVBQUMscURBQVg7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUNDO0FBQUcsUUFBSSxFQUFDLEdBQVI7QUFBWSxTQUFLLEVBQUMsTUFBbEI7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUNDO0FBQ0MsV0FBTyxFQUFDLFdBRFQ7QUFFQyxRQUFJLEVBQUMsS0FGTjtBQUdDLGtCQUFXLHNCQUhaO0FBSUMsYUFBUyxFQUFDLE9BSlg7QUFLQyxTQUFLLEVBQUMsb0NBTFA7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQU1DO0FBQ0MsS0FBQyxFQUFDLDBXQURIO0FBRUMsWUFBUSxFQUFDLFNBRlY7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxJQU5ELENBREQsQ0FERCxFQWNDO0FBQUcsUUFBSSxFQUFDLEdBQVI7QUFBWSxTQUFLLEVBQUMsTUFBbEI7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUNDO0FBQ0MsU0FBSyxFQUFDLG9DQURQO0FBRUMsV0FBTyxFQUFDLFdBRlQ7QUFHQyxRQUFJLEVBQUMsS0FITjtBQUlDLGtCQUFXLHFCQUpaO0FBS0MsYUFBUyxFQUFDLE9BTFg7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQU1DO0FBQ0MsS0FBQyxFQUFDLDRqQkFESDtBQUVDLGlCQUFVLFNBRlg7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxJQU5ELENBREQsQ0FkRCxFQTJCQztBQUFHLFFBQUksRUFBQyxHQUFSO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FDQztBQUNDLFdBQU8sRUFBQyxXQURUO0FBRUMsUUFBSSxFQUFDLEtBRk47QUFHQyxrQkFBVyx1QkFIWjtBQUlDLGFBQVMsRUFBQyxPQUpYO0FBS0MsU0FBSyxFQUFDLG9DQUxQO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FNQztBQUNDLEtBQUMsRUFBQyw4MUJBREg7QUFFQyxpQkFBVSxTQUZYO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsSUFORCxDQURELENBM0JELENBREQsRUF5Q0M7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUNDO0FBQUksU0FBSyxFQUFDLDBDQUFWO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FDQztBQUFHLFFBQUksRUFBQyxHQUFSO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsYUFERCxDQURELEVBSUM7QUFBSSxTQUFLLEVBQUMsMENBQVY7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUNDO0FBQUcsUUFBSSxFQUFDLEdBQVI7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxlQURELENBSkQsRUFPQztBQUFJLFNBQUssRUFBQywwQ0FBVjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBRyxRQUFJLEVBQUMsR0FBUjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLGdCQURELENBUEQsQ0F6Q0QsQ0FoRUQsQ0FERCxDQURELEVBeUhDO0FBQUssU0FBSyxFQUFDLCtFQUFYO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FDQztBQUNDLFNBQUssRUFBQyxrREFEUDtBQUVDLFdBQU8sRUFBQyxlQUZUO0FBR0MsUUFBSSxFQUFDLGNBSE47QUFJQyxtQkFBWSxNQUpiO0FBS0MsYUFBUyxFQUFDLE9BTFg7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQU1DO0FBQU0sS0FBQyxFQUFDLDQ0QkFBUjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLElBTkQsQ0FERCxFQVNDO0FBQUcsU0FBSyxFQUFDLHNDQUFUO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsbURBVEQsQ0F6SEQsQ0FERDtBQXVJQSxDQXhJRCIsImZpbGUiOiIuL2NvbXBvbmVudHMvRm9vdGVyLmpzLmpzIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGRlZmF1bHQgKCkgPT4ge1xuXHRyZXR1cm4gKFxuXHRcdDxkaXYgY2xhc3NOYW1lPSdiZy1ncmF5LTEwMCBib3JkZXItdCBib3JkZXItZ3JheS0zMDAnPlxuXHRcdFx0PGRpdiBjbGFzc05hbWU9J21heC13LTV4bCBteC1hdXRvIGxnOnB4LTAgcHgtNCBweS0xNiBib3JkZXItYiBib3JkZXItZ3JheS0zMDAnPlxuXHRcdFx0XHQ8ZGl2IGNsYXNzTmFtZT0nZmxleCBpdGVtcy1zdGFydCBqdXN0aWZ5LXN0YXJ0IGZsZXgtd3JhcCc+XG5cdFx0XHRcdFx0PGRpdiBjbGFzc05hbWU9J3ctZnVsbCBsZzp3LTEvNCBtYi02Jz5cblx0XHRcdFx0XHRcdDxoMyBjbGFzc05hbWU9J3RleHQtZ3JheS05MDAgdGV4dC1zbSBmb250LXNlbWlib2xkIHBiLTMnPkFpcmJuYjwvaDM+XG5cdFx0XHRcdFx0XHQ8dWwgY2xhc3NOYW1lPSdsZWFkaW5nLWxvb3NlJz5cblx0XHRcdFx0XHRcdFx0PGxpIGNsYXNzPSd0ZXh0LWdyYXktNjAwIHRleHQtc20gdHJhY2tpbmctd2lkZSBwYi0xJz5cblx0XHRcdFx0XHRcdFx0XHQ8YSBocmVmPVwiI1wiPkNhcmVlcnM8L2E+XG5cdFx0XHRcdFx0XHRcdDwvbGk+XG5cdFx0XHRcdFx0XHRcdDxsaSBjbGFzcz0ndGV4dC1ncmF5LTYwMCB0ZXh0LXNtIHRyYWNraW5nLXdpZGUgcGItMSc+XG5cdFx0XHRcdFx0XHRcdFx0PGEgaHJlZj1cIiNcIj5OZXdzPC9hPlxuXHRcdFx0XHRcdFx0XHQ8L2xpPlxuXHRcdFx0XHRcdFx0XHQ8bGkgY2xhc3M9J3RleHQtZ3JheS02MDAgdGV4dC1zbSB0cmFja2luZy13aWRlIHBiLTEnPlxuXHRcdFx0XHRcdFx0XHRcdDxhIGhyZWY9XCIjXCI+UG9saWNpZXM8L2E+XG5cdFx0XHRcdFx0XHRcdDwvbGk+XG5cdFx0XHRcdFx0XHRcdDxsaSBjbGFzcz0ndGV4dC1ncmF5LTYwMCB0ZXh0LXNtIHRyYWNraW5nLXdpZGUgcGItMSc+XG5cdFx0XHRcdFx0XHRcdFx0PGEgaHJlZj1cIiNcIj5IZWxwPC9hPlxuXHRcdFx0XHRcdFx0XHQ8L2xpPlxuXHRcdFx0XHRcdFx0XHQ8bGkgY2xhc3M9J3RleHQtZ3JheS02MDAgdGV4dC1zbSB0cmFja2luZy13aWRlIHBiLTEnPlxuXHRcdFx0XHRcdFx0XHRcdDxhIGhyZWY9XCIjXCI+RGl2ZXJzaXR5ICYgQmVsb25naW5nPC9hPlxuXHRcdFx0XHRcdFx0XHQ8L2xpPlxuXHRcdFx0XHRcdFx0PC91bD5cblx0XHRcdFx0XHQ8L2Rpdj5cblx0XHRcdFx0XHQ8ZGl2IGNsYXNzTmFtZT0ndy1mdWxsIGxnOnctMS80IG1iLTYnPlxuXHRcdFx0XHRcdFx0PGgzIGNsYXNzTmFtZT0ndGV4dC1ncmF5LTkwMCB0ZXh0LXNtIGZvbnQtc2VtaWJvbGQgcGItMyc+RGlzY292ZXI8L2gzPlxuXHRcdFx0XHRcdFx0PHVsIGNsYXNzTmFtZT0nbGVhZGluZy1sb29zZSc+XG5cdFx0XHRcdFx0XHRcdDxsaSBjbGFzcz0ndGV4dC1ncmF5LTYwMCB0ZXh0LXNtIHRyYWNraW5nLXdpZGUgcGItMSc+XG5cdFx0XHRcdFx0XHRcdFx0PGEgaHJlZj1cIiNcIj5UcnVzdCAmIFNhZmV0eTwvYT5cblx0XHRcdFx0XHRcdFx0PC9saT5cblx0XHRcdFx0XHRcdFx0PGxpIGNsYXNzPSd0ZXh0LWdyYXktNjAwIHRleHQtc20gdHJhY2tpbmctd2lkZSBwYi0xJz5cblx0XHRcdFx0XHRcdFx0XHQ8YSBocmVmPVwiI1wiPlRyYXZlbCBDcmVkaXQ8L2E+XG5cdFx0XHRcdFx0XHRcdDwvbGk+XG5cdFx0XHRcdFx0XHRcdDxsaSBjbGFzcz0ndGV4dC1ncmF5LTYwMCB0ZXh0LXNtIHRyYWNraW5nLXdpZGUgcGItMSc+XG5cdFx0XHRcdFx0XHRcdFx0PGEgaHJlZj1cIiNcIj5BaXJibmIgQ2l0aXplbjwvYT5cblx0XHRcdFx0XHRcdFx0PC9saT5cblx0XHRcdFx0XHRcdFx0PGxpIGNsYXNzPSd0ZXh0LWdyYXktNjAwIHRleHQtc20gdHJhY2tpbmctd2lkZSBwYi0xJz5cblx0XHRcdFx0XHRcdFx0XHQ8YSBocmVmPVwiI1wiPkJ1c2luZXNzIFRyYXZlbDwvYT5cblx0XHRcdFx0XHRcdFx0PC9saT5cblx0XHRcdFx0XHRcdFx0PGxpIGNsYXNzPSd0ZXh0LWdyYXktNjAwIHRleHQtc20gdHJhY2tpbmctd2lkZSBwYi0xJz5cblx0XHRcdFx0XHRcdFx0XHQ8YSBocmVmPVwiI1wiPlRoaW5ncyBUbyBEbzwvYT5cblx0XHRcdFx0XHRcdFx0PC9saT5cblx0XHRcdFx0XHRcdFx0PGxpIGNsYXNzPSd0ZXh0LWdyYXktNjAwIHRleHQtc20gdHJhY2tpbmctd2lkZSBwYi0xJz5cblx0XHRcdFx0XHRcdFx0XHQ8YSBocmVmPVwiI1wiPkFpcmJuYm1hZzwvYT5cblx0XHRcdFx0XHRcdFx0PC9saT5cblx0XHRcdFx0XHRcdDwvdWw+XG5cdFx0XHRcdFx0PC9kaXY+XG5cdFx0XHRcdFx0PGRpdiBjbGFzc05hbWU9J3ctZnVsbCBsZzp3LTEvNCBtYi02Jz5cblx0XHRcdFx0XHRcdDxoMyBjbGFzc05hbWU9J3RleHQtZ3JheS05MDAgdGV4dC1zbSBmb250LXNlbWlib2xkIHBiLTMnPkhvc3Rpbmc8L2gzPlxuXHRcdFx0XHRcdFx0PHVsIGNsYXNzPSdsZWFkaW5nLWxvb3NlJz5cblx0XHRcdFx0XHRcdFx0PGxpIGNsYXNzPSd0ZXh0LWdyYXktNjAwIHRleHQtc20gdHJhY2tpbmctd2lkZSBwYi0xJz5cblx0XHRcdFx0XHRcdFx0XHQ8YSBocmVmPVwiI1wiPldoeSBIb3N0PC9hPlxuXHRcdFx0XHRcdFx0XHQ8L2xpPlxuXHRcdFx0XHRcdFx0XHQ8bGkgY2xhc3M9J3RleHQtZ3JheS02MDAgdGV4dC1zbSB0cmFja2luZy13aWRlIHBiLTEnPlxuXHRcdFx0XHRcdFx0XHRcdDxhIGhyZWY9XCIjXCI+SG9zcGl0YWxpdHk8L2E+XG5cdFx0XHRcdFx0XHRcdDwvbGk+XG5cdFx0XHRcdFx0XHRcdDxsaSBjbGFzcz0ndGV4dC1ncmF5LTYwMCB0ZXh0LXNtIHRyYWNraW5nLXdpZGUgcGItMSc+XG5cdFx0XHRcdFx0XHRcdFx0PGEgaHJlZj1cIiNcIj5SZXNwb25zaWJsZSBIb3N0aW5nPC9hPlxuXHRcdFx0XHRcdFx0XHQ8L2xpPlxuXHRcdFx0XHRcdFx0XHQ8bGkgY2xhc3M9J3RleHQtZ3JheS02MDAgdGV4dC1zbSB0cmFja2luZy13aWRlIHBiLTEnPlxuXHRcdFx0XHRcdFx0XHRcdDxhIGhyZWY9XCIjXCI+Q29tbXVuaXR5IENlbnRlcjwvYT5cblx0XHRcdFx0XHRcdFx0PC9saT5cblx0XHRcdFx0XHRcdFx0PGxpIGNsYXNzPSd0ZXh0LWdyYXktNjAwIHRleHQtc20gdHJhY2tpbmctd2lkZSBwYi0xJz5cblx0XHRcdFx0XHRcdFx0XHQ8YSBocmVmPVwiI1wiPkhvc3QgYW4gRXhwZXJpZW5jZTwvYT5cblx0XHRcdFx0XHRcdFx0PC9saT5cblx0XHRcdFx0XHRcdDwvdWw+XG5cdFx0XHRcdFx0PC9kaXY+XG5cdFx0XHRcdFx0PGRpdiBjbGFzc05hbWU9J3ctZnVsbCBsZzp3LTEvNCc+XG5cdFx0XHRcdFx0XHQ8ZGl2IGNsYXNzPSdmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LXN0YXJ0IGZsZXgtd3JhcCBtdC0yIHBiLTMnPlxuXHRcdFx0XHRcdFx0XHQ8YSBocmVmPScjJyBjbGFzcz0nbXItMic+XG5cdFx0XHRcdFx0XHRcdFx0PHN2Z1xuXHRcdFx0XHRcdFx0XHRcdFx0dmlld0JveD0nMCAwIDMyIDMyJ1xuXHRcdFx0XHRcdFx0XHRcdFx0cm9sZT0naW1nJ1xuXHRcdFx0XHRcdFx0XHRcdFx0YXJpYS1sYWJlbD0nTmF2aWdhdGUgdG8gRmFjZWJvb2snXG5cdFx0XHRcdFx0XHRcdFx0XHRmb2N1c2FibGU9J2ZhbHNlJ1xuXHRcdFx0XHRcdFx0XHRcdFx0Y2xhc3M9J3RleHQtZ3JheS02MDAgZmlsbC1jdXJyZW50IHctNCBoLTQnPlxuXHRcdFx0XHRcdFx0XHRcdFx0PHBhdGhcblx0XHRcdFx0XHRcdFx0XHRcdFx0ZD0nbTggMTQuNDF2LTQuMTdjMC0uNDIuMzUtLjgxLjc3LS44MWgyLjUydi0yLjA4YzAtNC44NCAyLjQ4LTcuMzEgNy40Mi03LjM1IDEuNjUgMCAzLjIyLjIxIDQuNjkuNjQuNDYuMTQuNjMuNDIuNi44OGwtLjU2IDQuMDZjLS4wNC4xOC0uMTQuMzUtLjMyLjUzLS4yMS4xMS0uNDIuMTgtLjYzLjE0LS44OC0uMjUtMS43OC0uMzUtMi44LS4zNS0xLjQgMC0xLjYxLjI4LTEuNjEgMS43M3YxLjhoNC41MmMuNDIgMCAuODEuNDIuODEuODhsLS4zNSA0LjE3YzAgLjQyLS4zNS43MS0uNzcuNzFoLTQuMjF2MTZjMCAuNDItLjM1LjgxLS43Ny44MWgtNS4yMWMtLjQyIDAtLjgtLjM5LS44LS44MXYtMTZoLTIuNTJhLjc4Ljc4IDAgMCAxIC0uNzgtLjc4J1xuXHRcdFx0XHRcdFx0XHRcdFx0XHRmaWxsUnVsZT0nZXZlbm9kZCc+PC9wYXRoPlxuXHRcdFx0XHRcdFx0XHRcdDwvc3ZnPlxuXHRcdFx0XHRcdFx0XHQ8L2E+XG5cblx0XHRcdFx0XHRcdFx0PGEgaHJlZj0nIycgY2xhc3M9J21yLTInPlxuXHRcdFx0XHRcdFx0XHRcdDxzdmdcblx0XHRcdFx0XHRcdFx0XHRcdGNsYXNzPSd0ZXh0LWdyYXktNjAwIGZpbGwtY3VycmVudCB3LTQgaC00J1xuXHRcdFx0XHRcdFx0XHRcdFx0dmlld0JveD0nMCAwIDMyIDMyJ1xuXHRcdFx0XHRcdFx0XHRcdFx0cm9sZT0naW1nJ1xuXHRcdFx0XHRcdFx0XHRcdFx0YXJpYS1sYWJlbD0nTmF2aWdhdGUgdG8gVHdpdHRlcidcblx0XHRcdFx0XHRcdFx0XHRcdGZvY3VzYWJsZT0nZmFsc2UnPlxuXHRcdFx0XHRcdFx0XHRcdFx0PHBhdGhcblx0XHRcdFx0XHRcdFx0XHRcdFx0ZD0nbTMxIDYuMzZjLTEuMTYuNDktMi4zMi44Mi0zLjU1Ljk1IDEuMjktLjc2IDIuMjItMS44NyAyLjcyLTMuMzhhMTMuMDUgMTMuMDUgMCAwIDEgLTMuOTEgMS41MWMtMS4yMy0xLjI4LTIuNzUtMS45NC00LjUxLTEuOTQtMy40MSAwLTYuMTcgMi43My02LjE3IDYuMTIgMCAuNDkuMDcuOTUuMTcgMS4zOC00Ljk0LS4yMy05LjUxLTIuNi0xMi42Ni02LjM4LS41Ni45NS0uODYgMS45Ny0uODYgMy4wOSAwIDIuMDcgMS4wMyAzLjkxIDIuNzUgNS4wNi0xLS4wMy0xLjkyLS4zLTIuODItLjc2di4wN2MwIDIuODkgMi4xMiA1LjQyIDQuOTQgNS45OC0uNjMuMTctMS4xNi4yMy0xLjYyLjIzLS4zIDAtLjctLjAzLTEuMTMtLjEzYTYuMDcgNi4wNyAwIDAgMCA1Ljc0IDQuMjRjLTIuMjIgMS43NC00Ljc4IDIuNjMtNy42NiAyLjYzLS41NiAwLTEuMDYtLjAzLTEuNDMtLjEgMi44NSAxLjg0IDYgMi43NiA5LjQxIDIuNzYgNy4yOSAwIDEyLjgzLTQuMDEgMTUuNTEtOS4zIDEuMzYtMi42NiAyLjAyLTUuMzYgMi4wMi04LjA5di0uNDZjLS4wMy0uMTctLjAzLS4zLS4wMy0uMzNhMTIuNjYgMTIuNjYgMCAwIDAgMy4wOS0zLjE2J1xuXHRcdFx0XHRcdFx0XHRcdFx0XHRmaWxsLXJ1bGU9J2V2ZW5vZGQnPjwvcGF0aD5cblx0XHRcdFx0XHRcdFx0XHQ8L3N2Zz5cblx0XHRcdFx0XHRcdFx0PC9hPlxuXG5cdFx0XHRcdFx0XHRcdDxhIGhyZWY9JyMnPlxuXHRcdFx0XHRcdFx0XHRcdDxzdmdcblx0XHRcdFx0XHRcdFx0XHRcdHZpZXdCb3g9JzAgMCAyNCAyNCdcblx0XHRcdFx0XHRcdFx0XHRcdHJvbGU9J2ltZydcblx0XHRcdFx0XHRcdFx0XHRcdGFyaWEtbGFiZWw9J05hdmlnYXRlIHRvIEluc3RhZ3JhbSdcblx0XHRcdFx0XHRcdFx0XHRcdGZvY3VzYWJsZT0nZmFsc2UnXG5cdFx0XHRcdFx0XHRcdFx0XHRjbGFzcz0ndGV4dC1ncmF5LTYwMCBmaWxsLWN1cnJlbnQgdy00IGgtNCc+XG5cdFx0XHRcdFx0XHRcdFx0XHQ8cGF0aFxuXHRcdFx0XHRcdFx0XHRcdFx0XHRkPSdtMjMuMDkuOTFjLS42MS0uNjEtMS4zMy0uOTEtMi4xNy0uOTFoLTE3Ljg0Yy0uODUgMC0xLjU3LjMtMi4xNy45MXMtLjkxIDEuMzMtLjkxIDIuMTd2MTcuODRjMCAuODUuMyAxLjU3LjkxIDIuMTdzMS4zMy45MSAyLjE3LjkxaDE3Ljg0Yy44NSAwIDEuNTctLjMgMi4xNy0uOTFzLjkxLTEuMzMuOTEtMi4xN3YtMTcuODRjMC0uODUtLjMtMS41Ny0uOTEtMi4xN3ptLTE0LjQ4IDcuNzRjLjk0LS45MSAyLjA4LTEuMzcgMy40LTEuMzcgMS4zMyAwIDIuNDcuNDYgMy40MSAxLjM3czEuNDEgMi4wMSAxLjQxIDMuMy0uNDcgMi4zOS0xLjQxIDMuMy0yLjA4IDEuMzctMy40MSAxLjM3Yy0xLjMyIDAtMi40Ni0uNDYtMy40LTEuMzdzLTEuNDEtMi4wMS0xLjQxLTMuMy40Ny0yLjM5IDEuNDEtMy4zem0xMi42NiAxMS42M2MwIC4yNy0uMDkuNS0uMjguNjhhLjkyLjkyIDAgMCAxIC0uNjcuMjhoLTE2LjdhLjkzLjkzIDAgMCAxIC0uNjgtLjI4LjkyLjkyIDAgMCAxIC0uMjctLjY4di0xMC4xM2gyLjJhNi43NCA2Ljc0IDAgMCAwIC0uMzEgMi4wNWMwIDIgLjczIDMuNzEgMi4xOSA1LjEyczMuMjEgMi4xMiA1LjI3IDIuMTJhNy41IDcuNSAwIDAgMCAzLjc1LS45NyA3LjI5IDcuMjkgMCAwIDAgMi43Mi0yLjYzIDYuOTMgNi45MyAwIDAgMCAxLTMuNjNjMC0uNzEtLjExLTEuMzktLjMxLTIuMDVoMi4xMXYxMC4xMnptMC0xMy45NWMwIC4zLS4xMS41Ni0uMzEuNzdhMS4wNSAxLjA1IDAgMCAxIC0uNzcuMzFoLTIuNzJjLS4zIDAtLjU2LS4xMS0uNzctLjMxYTEuMDUgMS4wNSAwIDAgMSAtLjMxLS43N3YtMi41OGMwLS4yOS4xMS0uNTQuMzEtLjc2cy40Ny0uMzIuNzctLjMyaDIuNzJjLjMgMCAuNTYuMTEuNzcuMzJzLjMxLjQ3LjMxLjc2eidcblx0XHRcdFx0XHRcdFx0XHRcdFx0ZmlsbC1ydWxlPSdldmVub2RkJz48L3BhdGg+XG5cdFx0XHRcdFx0XHRcdFx0PC9zdmc+XG5cdFx0XHRcdFx0XHRcdDwvYT5cblx0XHRcdFx0XHRcdDwvZGl2PlxuXHRcdFx0XHRcdFx0PHVsPlxuXHRcdFx0XHRcdFx0XHQ8bGkgY2xhc3M9J3RleHQtZ3JheS02MDAgdGV4dC1zbSB0cmFja2luZy13aWRlIHBiLTEnPlxuXHRcdFx0XHRcdFx0XHRcdDxhIGhyZWY9XCIjXCI+VGVybXM8L2E+XG5cdFx0XHRcdFx0XHRcdDwvbGk+XG5cdFx0XHRcdFx0XHRcdDxsaSBjbGFzcz0ndGV4dC1ncmF5LTYwMCB0ZXh0LXNtIHRyYWNraW5nLXdpZGUgcGItMSc+XG5cdFx0XHRcdFx0XHRcdFx0PGEgaHJlZj1cIiNcIj5Qcml2YWN5PC9hPlxuXHRcdFx0XHRcdFx0XHQ8L2xpPlxuXHRcdFx0XHRcdFx0XHQ8bGkgY2xhc3M9J3RleHQtZ3JheS02MDAgdGV4dC1zbSB0cmFja2luZy13aWRlIHBiLTEnPlxuXHRcdFx0XHRcdFx0XHRcdDxhIGhyZWY9XCIjXCI+U2l0ZSBNYXA8L2E+XG5cdFx0XHRcdFx0XHRcdDwvbGk+XG5cdFx0XHRcdFx0XHQ8L3VsPlxuXHRcdFx0XHRcdDwvZGl2PlxuXHRcdFx0XHQ8L2Rpdj5cblx0XHRcdDwvZGl2PlxuXHRcdFx0PGRpdiBjbGFzcz0nbWF4LXctNXhsIG14LWF1dG8gZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1zdGFydCBmbGV4LXdyYXAgcHktNiBweC00IGxnOnB4LTAnPlxuXHRcdFx0XHQ8c3ZnXG5cdFx0XHRcdFx0Y2xhc3M9J2ZpbGwtY3VycmVudCB0ZXh0LWdyYXktNjAwIHctNSBoLTUgZmxleC1zaHJpbmstMCdcblx0XHRcdFx0XHR2aWV3Qm94PScwIDAgMTAwMCAxMDAwJ1xuXHRcdFx0XHRcdHJvbGU9J3ByZXNlbnRhdGlvbidcblx0XHRcdFx0XHRhcmlhLWhpZGRlbj0ndHJ1ZSdcblx0XHRcdFx0XHRmb2N1c2FibGU9J2ZhbHNlJz5cblx0XHRcdFx0XHQ8cGF0aCBkPSdtNDk5LjMgNzM2LjdjLTUxLTY0LTgxLTEyMC4xLTkxLTE2OC4xLTEwLTM5LTYtNzAgMTEtOTMgMTgtMjcgNDUtNDAgODAtNDBzNjIgMTMgODAgNDBjMTcgMjMgMjEgNTQgMTEgOTMtMTEgNDktNDEgMTA1LTkxIDE2OC4xem0zNjIuMiA0M2MtNyA0Ny0zOSA4Ni04MyAxMDUtODUgMzctMTY5LjEtMjItMjQxLjEtMTAyIDExOS4xLTE0OS4xIDE0MS4xLTI2NS4xIDkwLTM0MC4yLTMwLTQzLTczLTY0LTEyOC4xLTY0LTExMSAwLTE3Mi4xIDk0LTE0OC4xIDIwMy4xIDE0IDU5IDUxIDEyNi4xIDExMCAyMDEuMS0zNyA0MS03MiA3MC0xMDMgODgtMjQgMTMtNDcgMjEtNjkgMjMtMTAxIDE1LTE4MC4xLTgzLTE0NC4xLTE4NC4xIDUtMTMgMTUtMzcgMzItNzRsMS0yYzU1LTEyMC4xIDEyMi4xLTI1Ni4xIDE5OS4xLTQwNy4ybDItNSAyMi00MmMxNy0zMSAyNC00NSA1MS02MiAxMy04IDI5LTEyIDQ3LTEyIDM2IDAgNjQgMjEgNzYgMzggNiA5IDEzIDIxIDIyIDM2bDIxIDQxIDMgNmM3NyAxNTEuMSAxNDQuMSAyODcuMSAxOTkuMSA0MDcuMmwxIDEgMjAgNDYgMTIgMjljOS4yIDIzLjEgMTEuMiA0Ni4xIDguMiA3MC4xem00Ni05MC4xYy03LTIyLTE5LTQ4LTM0LTc5di0xYy03MS0xNTEuMS0xMzcuMS0yODcuMS0yMDAuMS00MDkuMmwtNC02Yy00NS05Mi03Ny0xNDcuMS0xNzAuMS0xNDcuMS05MiAwLTEzMS4xIDY0LTE3MS4xIDE0Ny4xbC0zIDZjLTYzIDEyMi4xLTEyOS4xIDI1OC4xLTIwMC4xIDQwOS4ydjJsLTIxIDQ2Yy04IDE5LTEyIDI5LTEzIDMyLTUxIDE0MC4xIDU0IDI2My4xIDE4MS4xIDI2My4xIDEgMCA1IDAgMTAtMWgxNGM2Ni04IDEzNC4xLTUwIDIwMy4xLTEyNS4xIDY5IDc1IDEzNy4xIDExNy4xIDIwMy4xIDEyNS4xaDE0YzUgMSA5IDEgMTAgMSAxMjcuMS4xIDIzMi4xLTEyMyAxODEuMS0yNjMuMXonPjwvcGF0aD5cblx0XHRcdFx0PC9zdmc+XG5cdFx0XHRcdDxwIGNsYXNzPSdwbC00IHRleHQtc20gdGV4dC1ncmF5LTYwMCBmb250LXRoaW4nPiZjb3B5OyAyMDE5IEFpcmJuYiwgSW5jLiBBbGwgcmlnaHRzIHJlc2VydmVkLjwvcD5cblx0XHRcdDwvZGl2PlxuXHRcdDwvZGl2PlxuXHQpO1xufTtcbiJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./components/Footer.js\n");
 
 /***/ }),
 
@@ -1245,60 +185,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var framer_motion__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! framer-motion */ "framer-motion");
-/* harmony import */ var framer_motion__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(framer_motion__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/HeaderButton.js";
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-
-/* harmony default export */ __webpack_exports__["default"] = (({
-  color,
-  description,
-  name,
-  borderColor,
-  fontColor
-}) => {
-  return __jsx("div", {
-    className: "lg:pr-2 pb-3 w-full lg:w-1/2",
-    initial: "initial",
-    animate: "animate",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 5
-    },
-    __self: undefined
-  }, __jsx("p", {
-    className: "py-2 text-white font-thin tracking-wide",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 6
-    },
-    __self: undefined
-  }, description), __jsx(framer_motion__WEBPACK_IMPORTED_MODULE_1__["motion"].a, {
-    whileHover: {
-      scale: 0.95,
-      easing: 'ease'
-    },
-    whileTap: {
-      scale: 1.05
-    },
-    style: {
-      backgroundColor: color,
-      border: `${borderColor} 2px solid`,
-      color: `${fontColor}`
-    },
-    className: " block text-center py-3 rounded font-semibold w-full",
-    href: "#",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 7
-    },
-    __self: undefined
-  }, name));
-});
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var framer_motion__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! framer-motion */ \"framer-motion\");\n/* harmony import */ var framer_motion__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(framer_motion__WEBPACK_IMPORTED_MODULE_1__);\nvar _jsxFileName = \"/Users/ken/Desktop/nextjs_airbnb/components/HeaderButton.js\";\n\nvar __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (({\n  color,\n  description,\n  name,\n  borderColor,\n  fontColor\n}) => {\n  return __jsx(\"div\", {\n    className: \"lg:pr-2 pb-3 w-full lg:w-1/2\",\n    initial: \"initial\",\n    animate: \"animate\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 5,\n      columnNumber: 3\n    }\n  }, __jsx(\"p\", {\n    className: \"py-2 text-white font-thin tracking-wide\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 6,\n      columnNumber: 4\n    }\n  }, description), __jsx(framer_motion__WEBPACK_IMPORTED_MODULE_1__[\"motion\"].a, {\n    whileHover: {\n      scale: 0.95,\n      easing: 'ease'\n    },\n    whileTap: {\n      scale: 1.05\n    },\n    style: {\n      backgroundColor: color,\n      border: `${borderColor} 2px solid`,\n      color: `${fontColor}`\n    },\n    className: \" block text-center py-3 rounded font-semibold w-full\",\n    href: \"#\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 7,\n      columnNumber: 4\n    }\n  }, name));\n});//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb21wb25lbnRzL0hlYWRlckJ1dHRvbi5qcz9jYjk3Il0sIm5hbWVzIjpbImNvbG9yIiwiZGVzY3JpcHRpb24iLCJuYW1lIiwiYm9yZGVyQ29sb3IiLCJmb250Q29sb3IiLCJzY2FsZSIsImVhc2luZyIsImJhY2tncm91bmRDb2xvciIsImJvcmRlciJdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7QUFBQTtBQUVlLGdFQUFDO0FBQUVBLE9BQUY7QUFBU0MsYUFBVDtBQUFzQkMsTUFBdEI7QUFBNEJDLGFBQTVCO0FBQXlDQztBQUF6QyxDQUFELEtBQTBEO0FBQ3hFLFNBQ0M7QUFBSyxhQUFTLEVBQUMsOEJBQWY7QUFBOEMsV0FBTyxFQUFDLFNBQXREO0FBQWdFLFdBQU8sRUFBQyxTQUF4RTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBRyxhQUFTLEVBQUMseUNBQWI7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUF3REgsV0FBeEQsQ0FERCxFQUVDLE1BQUMsb0RBQUQsQ0FBUSxDQUFSO0FBQ0MsY0FBVSxFQUFFO0FBQUVJLFdBQUssRUFBRSxJQUFUO0FBQWVDLFlBQU0sRUFBRTtBQUF2QixLQURiO0FBRUMsWUFBUSxFQUFFO0FBQUVELFdBQUssRUFBRTtBQUFULEtBRlg7QUFHQyxTQUFLLEVBQUU7QUFBRUUscUJBQWUsRUFBRVAsS0FBbkI7QUFBMEJRLFlBQU0sRUFBRyxHQUFFTCxXQUFZLFlBQWpEO0FBQThESCxXQUFLLEVBQUcsR0FBRUksU0FBVTtBQUFsRixLQUhSO0FBSUMsYUFBUyxFQUFDLHNEQUpYO0FBS0MsUUFBSSxFQUFDLEdBTE47QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQU1FRixJQU5GLENBRkQsQ0FERDtBQWFBLENBZEQiLCJmaWxlIjoiLi9jb21wb25lbnRzL0hlYWRlckJ1dHRvbi5qcy5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IG1vdGlvbiB9IGZyb20gJ2ZyYW1lci1tb3Rpb24nO1xuXG5leHBvcnQgZGVmYXVsdCAoeyBjb2xvciwgZGVzY3JpcHRpb24sIG5hbWUsIGJvcmRlckNvbG9yLCBmb250Q29sb3IgfSkgPT4ge1xuXHRyZXR1cm4gKFxuXHRcdDxkaXYgY2xhc3NOYW1lPSdsZzpwci0yIHBiLTMgdy1mdWxsIGxnOnctMS8yJyBpbml0aWFsPSdpbml0aWFsJyBhbmltYXRlPSdhbmltYXRlJz5cblx0XHRcdDxwIGNsYXNzTmFtZT0ncHktMiB0ZXh0LXdoaXRlIGZvbnQtdGhpbiB0cmFja2luZy13aWRlJz57ZGVzY3JpcHRpb259PC9wPlxuXHRcdFx0PG1vdGlvbi5hXG5cdFx0XHRcdHdoaWxlSG92ZXI9e3sgc2NhbGU6IDAuOTUsIGVhc2luZzogJ2Vhc2UnIH19XG5cdFx0XHRcdHdoaWxlVGFwPXt7IHNjYWxlOiAxLjA1IH19XG5cdFx0XHRcdHN0eWxlPXt7IGJhY2tncm91bmRDb2xvcjogY29sb3IsIGJvcmRlcjogYCR7Ym9yZGVyQ29sb3J9IDJweCBzb2xpZGAsIGNvbG9yOiBgJHtmb250Q29sb3J9YCB9fVxuXHRcdFx0XHRjbGFzc05hbWU9JyBibG9jayB0ZXh0LWNlbnRlciBweS0zIHJvdW5kZWQgZm9udC1zZW1pYm9sZCB3LWZ1bGwnXG5cdFx0XHRcdGhyZWY9JyMnPlxuXHRcdFx0XHR7bmFtZX1cblx0XHRcdDwvbW90aW9uLmE+XG5cdFx0PC9kaXY+XG5cdCk7XG59O1xuIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./components/HeaderButton.js\n");
 
 /***/ }),
 
@@ -1310,43 +197,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/InputBox.js";
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-/* harmony default export */ __webpack_exports__["default"] = (({
-  label,
-  placeholder
-}) => {
-  return __jsx("div", {
-    class: "lg:mb-0 w-full lg:w-1/3 lg:pr-2 py-2 ",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 3
-    },
-    __self: undefined
-  }, __jsx("label", {
-    class: "uppercase text-xs font-semibold pb-2 text-gray-800 block",
-    htmlFor: label,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 4
-    },
-    __self: undefined
-  }, label), __jsx("input", {
-    type: "text",
-    id: label,
-    class: "p-3 w-full rounded border border-gray-300",
-    placeholder: placeholder,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 7
-    },
-    __self: undefined
-  }));
-});
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\nvar _jsxFileName = \"/Users/ken/Desktop/nextjs_airbnb/components/InputBox.js\";\n\nvar __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;\n/* harmony default export */ __webpack_exports__[\"default\"] = (({\n  label,\n  placeholder\n}) => {\n  return __jsx(\"div\", {\n    class: \"lg:mb-0 w-full lg:w-1/3 lg:pr-2 py-2 \",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 3,\n      columnNumber: 3\n    }\n  }, __jsx(\"label\", {\n    class: \"uppercase text-xs font-semibold pb-2 text-gray-800 block\",\n    htmlFor: label,\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 4,\n      columnNumber: 4\n    }\n  }, label), __jsx(\"input\", {\n    type: \"text\",\n    id: label,\n    class: \"p-3 w-full rounded border border-gray-300\",\n    placeholder: placeholder,\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 7,\n      columnNumber: 4\n    }\n  }));\n});//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb21wb25lbnRzL0lucHV0Qm94LmpzPzIwNzQiXSwibmFtZXMiOlsibGFiZWwiLCJwbGFjZWhvbGRlciJdLCJtYXBwaW5ncyI6Ijs7Ozs7O0FBQWUsZ0VBQUM7QUFBRUEsT0FBRjtBQUFTQztBQUFULENBQUQsS0FBNEI7QUFDMUMsU0FDQztBQUFLLFNBQUssRUFBQyx1Q0FBWDtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBTyxTQUFLLEVBQUMsMERBQWI7QUFBd0UsV0FBTyxFQUFFRCxLQUFqRjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0VBLEtBREYsQ0FERCxFQUlDO0FBQU8sUUFBSSxFQUFDLE1BQVo7QUFBbUIsTUFBRSxFQUFFQSxLQUF2QjtBQUE4QixTQUFLLEVBQUMsMkNBQXBDO0FBQWdGLGVBQVcsRUFBRUMsV0FBN0Y7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxJQUpELENBREQ7QUFRQSxDQVREIiwiZmlsZSI6Ii4vY29tcG9uZW50cy9JbnB1dEJveC5qcy5qcyIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBkZWZhdWx0ICh7IGxhYmVsLCBwbGFjZWhvbGRlciB9KSA9PiB7XG5cdHJldHVybiAoXG5cdFx0PGRpdiBjbGFzcz0nbGc6bWItMCB3LWZ1bGwgbGc6dy0xLzMgbGc6cHItMiBweS0yICc+XG5cdFx0XHQ8bGFiZWwgY2xhc3M9J3VwcGVyY2FzZSB0ZXh0LXhzIGZvbnQtc2VtaWJvbGQgcGItMiB0ZXh0LWdyYXktODAwIGJsb2NrJyBodG1sRm9yPXtsYWJlbH0+XG5cdFx0XHRcdHtsYWJlbH1cblx0XHRcdDwvbGFiZWw+XG5cdFx0XHQ8aW5wdXQgdHlwZT0ndGV4dCcgaWQ9e2xhYmVsfSBjbGFzcz0ncC0zIHctZnVsbCByb3VuZGVkIGJvcmRlciBib3JkZXItZ3JheS0zMDAnIHBsYWNlaG9sZGVyPXtwbGFjZWhvbGRlcn0gLz5cblx0XHQ8L2Rpdj5cblx0KTtcbn07XG4iXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./components/InputBox.js\n");
 
 /***/ }),
 
@@ -1358,92 +209,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/OptionBox.js";
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-/* harmony default export */ __webpack_exports__["default"] = (({
-  label,
-  options
-}) => {
-  return __jsx("div", {
-    class: "lg:w-1/3 w-full pt-2 lg:pr-0 ",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 3
-    },
-    __self: undefined
-  }, __jsx("label", {
-    for: label,
-    class: "uppercase tracking-wide font-semibold text-xs text-gray-900 mb-2 block",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 4
-    },
-    __self: undefined
-  }, label), __jsx("div", {
-    class: "relative",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 7
-    },
-    __self: undefined
-  }, __jsx("select", {
-    id: label,
-    class: "p-3 border border-gray-300 rounded w-full appearance-none",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: undefined
-  }, __jsx("option", {
-    value: "1",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 9
-    },
-    __self: undefined
-  }, options.first), __jsx("option", {
-    value: "2",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 10
-    },
-    __self: undefined
-  }, options.second), __jsx("option", {
-    value: "3",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 11
-    },
-    __self: undefined
-  }, options.third)), __jsx("div", {
-    class: "flex items-center pointer-events-none absolute inset-y-0 right-0 px-2",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 13
-    },
-    __self: undefined
-  }, __jsx("svg", {
-    class: "fill-current h-4 w-4",
-    xmlns: "http://www.w3.org/2000/svg",
-    viewBox: "0 0 20 20",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 14
-    },
-    __self: undefined
-  }, __jsx("path", {
-    d: "M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 15
-    },
-    __self: undefined
-  })))));
-});
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\nvar _jsxFileName = \"/Users/ken/Desktop/nextjs_airbnb/components/OptionBox.js\";\n\nvar __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;\n/* harmony default export */ __webpack_exports__[\"default\"] = (({\n  label,\n  options\n}) => {\n  return __jsx(\"div\", {\n    class: \"lg:w-1/3 w-full pt-2 lg:pr-0 \",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 3,\n      columnNumber: 3\n    }\n  }, __jsx(\"label\", {\n    for: label,\n    class: \"uppercase tracking-wide font-semibold text-xs text-gray-900 mb-2 block\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 4,\n      columnNumber: 4\n    }\n  }, label), __jsx(\"div\", {\n    class: \"relative\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 7,\n      columnNumber: 4\n    }\n  }, __jsx(\"select\", {\n    id: label,\n    class: \"p-3 border border-gray-300 rounded w-full appearance-none\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 8,\n      columnNumber: 5\n    }\n  }, __jsx(\"option\", {\n    value: \"1\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 9,\n      columnNumber: 6\n    }\n  }, options.first), __jsx(\"option\", {\n    value: \"2\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 10,\n      columnNumber: 6\n    }\n  }, options.second), __jsx(\"option\", {\n    value: \"3\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 11,\n      columnNumber: 6\n    }\n  }, options.third)), __jsx(\"div\", {\n    class: \"flex items-center pointer-events-none absolute inset-y-0 right-0 px-2\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 13,\n      columnNumber: 5\n    }\n  }, __jsx(\"svg\", {\n    class: \"fill-current h-4 w-4\",\n    xmlns: \"http://www.w3.org/2000/svg\",\n    viewBox: \"0 0 20 20\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 14,\n      columnNumber: 6\n    }\n  }, __jsx(\"path\", {\n    d: \"M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 15,\n      columnNumber: 7\n    }\n  })))));\n});//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb21wb25lbnRzL09wdGlvbkJveC5qcz81OThiIl0sIm5hbWVzIjpbImxhYmVsIiwib3B0aW9ucyIsImZpcnN0Iiwic2Vjb25kIiwidGhpcmQiXSwibWFwcGluZ3MiOiI7Ozs7OztBQUFlLGdFQUFDO0FBQUVBLE9BQUY7QUFBU0M7QUFBVCxDQUFELEtBQXdCO0FBQ3RDLFNBQ0M7QUFBSyxTQUFLLEVBQUMsK0JBQVg7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUNDO0FBQU8sT0FBRyxFQUFFRCxLQUFaO0FBQW1CLFNBQUssRUFBQyx3RUFBekI7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUNFQSxLQURGLENBREQsRUFJQztBQUFLLFNBQUssRUFBQyxVQUFYO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FDQztBQUFRLE1BQUUsRUFBRUEsS0FBWjtBQUFtQixTQUFLLEVBQUMsMkRBQXpCO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FDQztBQUFRLFNBQUssRUFBQyxHQUFkO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FBbUJDLE9BQU8sQ0FBQ0MsS0FBM0IsQ0FERCxFQUVDO0FBQVEsU0FBSyxFQUFDLEdBQWQ7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUFtQkQsT0FBTyxDQUFDRSxNQUEzQixDQUZELEVBR0M7QUFBUSxTQUFLLEVBQUMsR0FBZDtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQW1CRixPQUFPLENBQUNHLEtBQTNCLENBSEQsQ0FERCxFQU1DO0FBQUssU0FBSyxFQUFDLHVFQUFYO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FDQztBQUFLLFNBQUssRUFBQyxzQkFBWDtBQUFrQyxTQUFLLEVBQUMsNEJBQXhDO0FBQXFFLFdBQU8sRUFBQyxXQUE3RTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBTSxLQUFDLEVBQUMsNEVBQVI7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxJQURELENBREQsQ0FORCxDQUpELENBREQ7QUFtQkEsQ0FwQkQiLCJmaWxlIjoiLi9jb21wb25lbnRzL09wdGlvbkJveC5qcy5qcyIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBkZWZhdWx0ICh7IGxhYmVsLCBvcHRpb25zIH0pID0+IHtcblx0cmV0dXJuIChcblx0XHQ8ZGl2IGNsYXNzPSdsZzp3LTEvMyB3LWZ1bGwgcHQtMiBsZzpwci0wICc+XG5cdFx0XHQ8bGFiZWwgZm9yPXtsYWJlbH0gY2xhc3M9J3VwcGVyY2FzZSB0cmFja2luZy13aWRlIGZvbnQtc2VtaWJvbGQgdGV4dC14cyB0ZXh0LWdyYXktOTAwIG1iLTIgYmxvY2snPlxuXHRcdFx0XHR7bGFiZWx9XG5cdFx0XHQ8L2xhYmVsPlxuXHRcdFx0PGRpdiBjbGFzcz0ncmVsYXRpdmUnPlxuXHRcdFx0XHQ8c2VsZWN0IGlkPXtsYWJlbH0gY2xhc3M9J3AtMyBib3JkZXIgYm9yZGVyLWdyYXktMzAwIHJvdW5kZWQgdy1mdWxsIGFwcGVhcmFuY2Utbm9uZSc+XG5cdFx0XHRcdFx0PG9wdGlvbiB2YWx1ZT0nMSc+e29wdGlvbnMuZmlyc3R9PC9vcHRpb24+XG5cdFx0XHRcdFx0PG9wdGlvbiB2YWx1ZT0nMic+e29wdGlvbnMuc2Vjb25kfTwvb3B0aW9uPlxuXHRcdFx0XHRcdDxvcHRpb24gdmFsdWU9JzMnPntvcHRpb25zLnRoaXJkfTwvb3B0aW9uPlxuXHRcdFx0XHQ8L3NlbGVjdD5cblx0XHRcdFx0PGRpdiBjbGFzcz0nZmxleCBpdGVtcy1jZW50ZXIgcG9pbnRlci1ldmVudHMtbm9uZSBhYnNvbHV0ZSBpbnNldC15LTAgcmlnaHQtMCBweC0yJz5cblx0XHRcdFx0XHQ8c3ZnIGNsYXNzPSdmaWxsLWN1cnJlbnQgaC00IHctNCcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB2aWV3Qm94PScwIDAgMjAgMjAnPlxuXHRcdFx0XHRcdFx0PHBhdGggZD0nTTkuMjkzIDEyLjk1bC43MDcuNzA3TDE1LjY1NyA4bC0xLjQxNC0xLjQxNEwxMCAxMC44MjggNS43NTcgNi41ODYgNC4zNDMgOHonIC8+XG5cdFx0XHRcdFx0PC9zdmc+XG5cdFx0XHRcdDwvZGl2PlxuXHRcdFx0PC9kaXY+XG5cdFx0PC9kaXY+XG5cdCk7XG59O1xuIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./components/OptionBox.js\n");
 
 /***/ }),
 
@@ -1455,114 +221,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/ReviewCard.js";
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-/* harmony default export */ __webpack_exports__["default"] = (({
-  img,
-  stars,
-  description,
-  avatar,
-  hostName,
-  hostCountry
-}) => {
-  var starArray = [],
-      i = 0,
-      len = parseInt(stars);
-
-  while (++i <= len) starArray.push(i);
-
-  return __jsx("div", {
-    class: "w-full lg:w-1/3 px-1 my-5",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 7
-    },
-    __self: undefined
-  }, __jsx("img", {
-    class: "bg-no-repeat bg-cover rounded w-full",
-    src: img,
-    alt: "",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: undefined
-  }), __jsx("div", {
-    class: "flex items-start justify-start flex-wrap py-2",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 9
-    },
-    __self: undefined
-  }, starArray.map(function (i) {
-    return __jsx("svg", {
-      key: i,
-      class: "fill-current w-4 h-4 text-cyan mr-1",
-      viewBox: "0 0 1000 1000",
-      xmlns: "http://www.w3.org/2000/svg",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 12
-      },
-      __self: this
-    }, __jsx("path", {
-      d: "M972 380c9 28 2 50-20 67L725 619l87 280c11 39-18 75-54 75-12 0-23-4-33-12L499 790 273 962a58 58 0 0 1-78-12 50 50 0 0 1-8-51l86-278L46 447c-21-17-28-39-19-67 8-24 29-40 52-40h280l87-279c7-23 28-39 52-39 25 0 47 17 54 41l87 277h280c24 0 45 16 53 40z",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 17
-      },
-      __self: this
-    }));
-  })), __jsx("p", {
-    class: "text-gray-600 font-thin leading-snug text-sm",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 22
-    },
-    __self: undefined
-  }, description), __jsx("div", {
-    class: "flex items-center justify-start flex-wrap mt-3",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 23
-    },
-    __self: undefined
-  }, __jsx("img", {
-    class: "rounded-full w-12 h-12",
-    src: avatar,
-    alt: "",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 24
-    },
-    __self: undefined
-  }), __jsx("div", {
-    class: "pl-4",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 25
-    },
-    __self: undefined
-  }, __jsx("p", {
-    class: "text-sm font-semibold text-gray-800",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 26
-    },
-    __self: undefined
-  }, hostName), __jsx("p", {
-    class: "text-sm text-gray-700",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 27
-    },
-    __self: undefined
-  }, hostCountry))));
-});
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\nvar _jsxFileName = \"/Users/ken/Desktop/nextjs_airbnb/components/ReviewCard.js\";\n\nvar __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;\n/* harmony default export */ __webpack_exports__[\"default\"] = (({\n  img,\n  stars,\n  description,\n  avatar,\n  hostName,\n  hostCountry\n}) => {\n  var starArray = [],\n      i = 0,\n      len = parseInt(stars);\n\n  while (++i <= len) starArray.push(i);\n\n  return __jsx(\"div\", {\n    class: \"w-full lg:w-1/3 px-1 my-5\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 7,\n      columnNumber: 3\n    }\n  }, __jsx(\"img\", {\n    class: \"bg-no-repeat bg-cover rounded w-full\",\n    src: img,\n    alt: \"\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 8,\n      columnNumber: 4\n    }\n  }), __jsx(\"div\", {\n    class: \"flex items-start justify-start flex-wrap py-2\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 9,\n      columnNumber: 4\n    }\n  }, starArray.map(function (i) {\n    return __jsx(\"svg\", {\n      key: i,\n      class: \"fill-current w-4 h-4 text-cyan mr-1\",\n      viewBox: \"0 0 1000 1000\",\n      xmlns: \"http://www.w3.org/2000/svg\",\n      __self: this,\n      __source: {\n        fileName: _jsxFileName,\n        lineNumber: 12,\n        columnNumber: 7\n      }\n    }, __jsx(\"path\", {\n      d: \"M972 380c9 28 2 50-20 67L725 619l87 280c11 39-18 75-54 75-12 0-23-4-33-12L499 790 273 962a58 58 0 0 1-78-12 50 50 0 0 1-8-51l86-278L46 447c-21-17-28-39-19-67 8-24 29-40 52-40h280l87-279c7-23 28-39 52-39 25 0 47 17 54 41l87 277h280c24 0 45 16 53 40z\",\n      __self: this,\n      __source: {\n        fileName: _jsxFileName,\n        lineNumber: 17,\n        columnNumber: 8\n      }\n    }));\n  })), __jsx(\"p\", {\n    class: \"text-gray-600 font-thin leading-snug text-sm\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 22,\n      columnNumber: 4\n    }\n  }, description), __jsx(\"div\", {\n    class: \"flex items-center justify-start flex-wrap mt-3\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 23,\n      columnNumber: 4\n    }\n  }, __jsx(\"img\", {\n    class: \"rounded-full w-12 h-12\",\n    src: avatar,\n    alt: \"\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 24,\n      columnNumber: 5\n    }\n  }), __jsx(\"div\", {\n    class: \"pl-4\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 25,\n      columnNumber: 5\n    }\n  }, __jsx(\"p\", {\n    class: \"text-sm font-semibold text-gray-800\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 26,\n      columnNumber: 6\n    }\n  }, hostName), __jsx(\"p\", {\n    class: \"text-sm text-gray-700\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 27,\n      columnNumber: 6\n    }\n  }, hostCountry))));\n});//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb21wb25lbnRzL1Jldmlld0NhcmQuanM/OWZmZSJdLCJuYW1lcyI6WyJpbWciLCJzdGFycyIsImRlc2NyaXB0aW9uIiwiYXZhdGFyIiwiaG9zdE5hbWUiLCJob3N0Q291bnRyeSIsInN0YXJBcnJheSIsImkiLCJsZW4iLCJwYXJzZUludCIsInB1c2giLCJtYXAiXSwibWFwcGluZ3MiOiI7Ozs7OztBQUFlLGdFQUFDO0FBQUVBLEtBQUY7QUFBT0MsT0FBUDtBQUFjQyxhQUFkO0FBQTJCQyxRQUEzQjtBQUFtQ0MsVUFBbkM7QUFBNkNDO0FBQTdDLENBQUQsS0FBZ0U7QUFDOUUsTUFBSUMsU0FBUyxHQUFHLEVBQWhCO0FBQUEsTUFDQ0MsQ0FBQyxHQUFHLENBREw7QUFBQSxNQUVDQyxHQUFHLEdBQUdDLFFBQVEsQ0FBQ1IsS0FBRCxDQUZmOztBQUdBLFNBQU8sRUFBRU0sQ0FBRixJQUFPQyxHQUFkLEVBQW1CRixTQUFTLENBQUNJLElBQVYsQ0FBZUgsQ0FBZjs7QUFDbkIsU0FDQztBQUFLLFNBQUssRUFBQywyQkFBWDtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBSyxTQUFLLEVBQUMsc0NBQVg7QUFBa0QsT0FBRyxFQUFFUCxHQUF2RDtBQUE0RCxPQUFHLEVBQUMsRUFBaEU7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxJQURELEVBRUM7QUFBSyxTQUFLLEVBQUMsK0NBQVg7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUNFTSxTQUFTLENBQUNLLEdBQVYsQ0FBYyxVQUFTSixDQUFULEVBQVk7QUFDMUIsV0FDQztBQUNDLFNBQUcsRUFBRUEsQ0FETjtBQUVDLFdBQUssRUFBQyxxQ0FGUDtBQUdDLGFBQU8sRUFBQyxlQUhUO0FBSUMsV0FBSyxFQUFDLDRCQUpQO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsT0FLQztBQUFNLE9BQUMsRUFBQywwUEFBUjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLE1BTEQsQ0FERDtBQVNBLEdBVkEsQ0FERixDQUZELEVBZUM7QUFBRyxTQUFLLEVBQUMsOENBQVQ7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUF5REwsV0FBekQsQ0FmRCxFQWdCQztBQUFLLFNBQUssRUFBQyxnREFBWDtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBSyxTQUFLLEVBQUMsd0JBQVg7QUFBb0MsT0FBRyxFQUFFQyxNQUF6QztBQUFpRCxPQUFHLEVBQUMsRUFBckQ7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxJQURELEVBRUM7QUFBSyxTQUFLLEVBQUMsTUFBWDtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFBRyxTQUFLLEVBQUMscUNBQVQ7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUFnREMsUUFBaEQsQ0FERCxFQUVDO0FBQUcsU0FBSyxFQUFDLHVCQUFUO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FBa0NDLFdBQWxDLENBRkQsQ0FGRCxDQWhCRCxDQUREO0FBMEJBLENBL0JEIiwiZmlsZSI6Ii4vY29tcG9uZW50cy9SZXZpZXdDYXJkLmpzLmpzIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGRlZmF1bHQgKHsgaW1nLCBzdGFycywgZGVzY3JpcHRpb24sIGF2YXRhciwgaG9zdE5hbWUsIGhvc3RDb3VudHJ5IH0pID0+IHtcblx0dmFyIHN0YXJBcnJheSA9IFtdLFxuXHRcdGkgPSAwLFxuXHRcdGxlbiA9IHBhcnNlSW50KHN0YXJzKTtcblx0d2hpbGUgKCsraSA8PSBsZW4pIHN0YXJBcnJheS5wdXNoKGkpO1xuXHRyZXR1cm4gKFxuXHRcdDxkaXYgY2xhc3M9J3ctZnVsbCBsZzp3LTEvMyBweC0xIG15LTUnPlxuXHRcdFx0PGltZyBjbGFzcz0nYmctbm8tcmVwZWF0IGJnLWNvdmVyIHJvdW5kZWQgdy1mdWxsJyBzcmM9e2ltZ30gYWx0PScnIC8+XG5cdFx0XHQ8ZGl2IGNsYXNzPSdmbGV4IGl0ZW1zLXN0YXJ0IGp1c3RpZnktc3RhcnQgZmxleC13cmFwIHB5LTInPlxuXHRcdFx0XHR7c3RhckFycmF5Lm1hcChmdW5jdGlvbihpKSB7XG5cdFx0XHRcdFx0cmV0dXJuIChcblx0XHRcdFx0XHRcdDxzdmdcblx0XHRcdFx0XHRcdFx0a2V5PXtpfVxuXHRcdFx0XHRcdFx0XHRjbGFzcz0nZmlsbC1jdXJyZW50IHctNCBoLTQgdGV4dC1jeWFuIG1yLTEnXG5cdFx0XHRcdFx0XHRcdHZpZXdCb3g9JzAgMCAxMDAwIDEwMDAnXG5cdFx0XHRcdFx0XHRcdHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zyc+XG5cdFx0XHRcdFx0XHRcdDxwYXRoIGQ9J005NzIgMzgwYzkgMjggMiA1MC0yMCA2N0w3MjUgNjE5bDg3IDI4MGMxMSAzOS0xOCA3NS01NCA3NS0xMiAwLTIzLTQtMzMtMTJMNDk5IDc5MCAyNzMgOTYyYTU4IDU4IDAgMCAxLTc4LTEyIDUwIDUwIDAgMCAxLTgtNTFsODYtMjc4TDQ2IDQ0N2MtMjEtMTctMjgtMzktMTktNjcgOC0yNCAyOS00MCA1Mi00MGgyODBsODctMjc5YzctMjMgMjgtMzkgNTItMzkgMjUgMCA0NyAxNyA1NCA0MWw4NyAyNzdoMjgwYzI0IDAgNDUgMTYgNTMgNDB6JyAvPlxuXHRcdFx0XHRcdFx0PC9zdmc+XG5cdFx0XHRcdFx0KTtcblx0XHRcdFx0fSl9XG5cdFx0XHQ8L2Rpdj5cblx0XHRcdDxwIGNsYXNzPSd0ZXh0LWdyYXktNjAwIGZvbnQtdGhpbiBsZWFkaW5nLXNudWcgdGV4dC1zbSc+e2Rlc2NyaXB0aW9ufTwvcD5cblx0XHRcdDxkaXYgY2xhc3M9J2ZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktc3RhcnQgZmxleC13cmFwIG10LTMnPlxuXHRcdFx0XHQ8aW1nIGNsYXNzPSdyb3VuZGVkLWZ1bGwgdy0xMiBoLTEyJyBzcmM9e2F2YXRhcn0gYWx0PScnIC8+XG5cdFx0XHRcdDxkaXYgY2xhc3M9J3BsLTQnPlxuXHRcdFx0XHRcdDxwIGNsYXNzPSd0ZXh0LXNtIGZvbnQtc2VtaWJvbGQgdGV4dC1ncmF5LTgwMCc+e2hvc3ROYW1lfTwvcD5cblx0XHRcdFx0XHQ8cCBjbGFzcz0ndGV4dC1zbSB0ZXh0LWdyYXktNzAwJz57aG9zdENvdW50cnl9PC9wPlxuXHRcdFx0XHQ8L2Rpdj5cblx0XHRcdDwvZGl2PlxuXHRcdDwvZGl2PlxuXHQpO1xufTtcbiJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./components/ReviewCard.js\n");
 
 /***/ }),
 
@@ -1574,151 +233,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _ReviewCard__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./ReviewCard */ "./components/ReviewCard.js");
-/* harmony import */ var _public_1_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../public/1.jpg */ "./public/1.jpg");
-/* harmony import */ var _public_1_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_public_1_jpg__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _public_2_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../public/2.jpg */ "./public/2.jpg");
-/* harmony import */ var _public_2_jpg__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_public_2_jpg__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _public_3_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../public/3.jpg */ "./public/3.jpg");
-/* harmony import */ var _public_3_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_3_jpg__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var _public_jeff_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../public/jeff.png */ "./public/jeff.png");
-/* harmony import */ var _public_jeff_png__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_jeff_png__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var _public_lesley_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../public/lesley.png */ "./public/lesley.png");
-/* harmony import */ var _public_lesley_png__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_public_lesley_png__WEBPACK_IMPORTED_MODULE_6__);
-/* harmony import */ var _public_denise_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../public/denise.png */ "./public/denise.png");
-/* harmony import */ var _public_denise_png__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_public_denise_png__WEBPACK_IMPORTED_MODULE_7__);
-var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/components/Reviews.js";
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-
-
-
-
-
-
-
-/* harmony default export */ __webpack_exports__["default"] = (() => {
-  return __jsx("div", {
-    class: "max-w-5xl mx-auto py-12 my-1 px-4 lg:px-0",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 13
-    },
-    __self: undefined
-  }, __jsx("h3", {
-    class: "font-semibold text-2xl leading-none text-gray-800",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 14
-    },
-    __self: undefined
-  }, "What guests are saying about homes in the United States"), __jsx("div", {
-    class: "flex items-center flex-wrap justify-start lg:py-2",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 17
-    },
-    __self: undefined
-  }, __jsx("svg", {
-    class: " w-4 h-4 flex-shrink-0 mt-4",
-    viewBox: "0 0 24 24",
-    role: "presentation",
-    "aria-hidden": "true",
-    focusable: "false",
-    style: {
-      height: 24,
-      width: 24,
-      fill: '#FFB400'
-    },
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 18
-    },
-    __self: undefined
-  }, __jsx("path", {
-    d: "m21.95 9.48a.84.84 0 0 0 -.87-.48h-4.62a.5.5 0 0 0 0 1l4.14.01-4.81 4.17a.5.5 0 0 0 -.14.57l2.65 6.38-6.07-3.72a.5.5 0 0 0 -.52 0l-6.08 3.72 2.65-6.37a.5.5 0 0 0 -.13-.57l-4.75-4.18h5.75a.5.5 0 0 0 .46-.3l2.37-5.37 1.58 3.57a.5.5 0 0 0 .91-.41l-1.72-3.88a.8.8 0 0 0 -1.56-.01l-2.38 5.39h-5.9a.83.83 0 0 0 -.87.48.85.85 0 0 0 .32.96l4.85 4.25-2.78 6.67a.81.81 0 0 0 .16.98.66.66 0 0 0 .43.15 1.1 1.1 0 0 0 .56-.18l6.37-3.91 6.38 3.92a.81.81 0 0 0 .99.03c.15-.12.37-.41.15-1l-2.77-6.66 4.92-4.26a.84.84 0 0 0 .31-.95zm-.78.53h-.01",
-    fill: "#484848",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 25
-    },
-    __self: undefined
-  }), __jsx("path", {
-    d: "m11 21.5a.5.5 0 1 1 -.5-.5.5.5 0 0 1 .5.5zm-3.5-15.5a.5.5 0 1 0 .5.5.5.5 0 0 0 -.5-.5zm15 10h-.5v-.5a.5.5 0 0 0 -1 0v .5h-.5a.5.5 0 0 0 0 1h .5v.5a.5.5 0 0 0 1 0v-.5h.5a.5.5 0 0 0 0-1zm-15-13h-.5v-.5a.5.5 0 0 0 -1 0v .5h-.5a.5.5 0 0 0 0 1h .5v.5a.5.5 0 0 0 1 0v-.5h.5a.5.5 0 0 0 0-1zm10.22 7.54a.84.84 0 0 0 -.17-.02q-.28-.01-3.19 0a .6.6 0 0 1 -.55-.35l-1.5-3.23a.42.42 0 0 0 -.75 0l-1.81 4.14a2.92 2.92 0 0 0 4.12 3.72l.46-.26 3.49-2.99.16-.18a.5.5 0 0 0 -.26-.82z",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 28
-    },
-    __self: undefined
-  })), __jsx("p", {
-    class: " text-gray-700 sm:mt-5 sm:pl-4 lg:mt-5 lg:pl-4",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 30
-    },
-    __self: undefined
-  }, "United States homes were ", __jsx("strong", {
-    class: "emphasized",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 31
-    },
-    __self: undefined
-  }, "rated 4.8 out of 5 starts"), " with", __jsx("strong", {
-    class: "emphasized",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 32
-    },
-    __self: undefined
-  }, " 42,5000,000+ reviews"))), __jsx("div", {
-    class: "flex items-start flex-wrap",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 35
-    },
-    __self: undefined
-  }, __jsx(_ReviewCard__WEBPACK_IMPORTED_MODULE_1__["default"], {
-    img: _public_1_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
-    stars: "5",
-    description: "What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and...",
-    avatar: _public_jeff_png__WEBPACK_IMPORTED_MODULE_5___default.a,
-    hostName: "Jeff",
-    hostCountry: "United States",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 36
-    },
-    __self: undefined
-  }), __jsx(_ReviewCard__WEBPACK_IMPORTED_MODULE_1__["default"], {
-    img: _public_2_jpg__WEBPACK_IMPORTED_MODULE_3___default.a,
-    stars: "4",
-    description: "What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and...",
-    avatar: _public_lesley_png__WEBPACK_IMPORTED_MODULE_6___default.a,
-    hostName: "Lesley",
-    hostCountry: "United Kingdom",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 44
-    },
-    __self: undefined
-  }), __jsx(_ReviewCard__WEBPACK_IMPORTED_MODULE_1__["default"], {
-    img: _public_3_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,
-    stars: "5",
-    description: "What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and...",
-    avatar: _public_denise_png__WEBPACK_IMPORTED_MODULE_7___default.a,
-    hostName: "Denise",
-    hostCountry: "United States",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 52
-    },
-    __self: undefined
-  })));
-});
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _ReviewCard__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./ReviewCard */ \"./components/ReviewCard.js\");\n/* harmony import */ var _public_1_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../public/1.jpg */ \"./public/1.jpg\");\n/* harmony import */ var _public_1_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_public_1_jpg__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _public_2_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../public/2.jpg */ \"./public/2.jpg\");\n/* harmony import */ var _public_2_jpg__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_public_2_jpg__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var _public_3_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../public/3.jpg */ \"./public/3.jpg\");\n/* harmony import */ var _public_3_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_3_jpg__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var _public_jeff_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../public/jeff.png */ \"./public/jeff.png\");\n/* harmony import */ var _public_jeff_png__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_jeff_png__WEBPACK_IMPORTED_MODULE_5__);\n/* harmony import */ var _public_lesley_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../public/lesley.png */ \"./public/lesley.png\");\n/* harmony import */ var _public_lesley_png__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_public_lesley_png__WEBPACK_IMPORTED_MODULE_6__);\n/* harmony import */ var _public_denise_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../public/denise.png */ \"./public/denise.png\");\n/* harmony import */ var _public_denise_png__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_public_denise_png__WEBPACK_IMPORTED_MODULE_7__);\nvar _jsxFileName = \"/Users/ken/Desktop/nextjs_airbnb/components/Reviews.js\";\n\nvar __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;\n\n\n\n\n\n\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (() => {\n  return __jsx(\"div\", {\n    class: \"max-w-5xl mx-auto py-12 my-1 px-4 lg:px-0\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 13,\n      columnNumber: 3\n    }\n  }, __jsx(\"h3\", {\n    class: \"font-semibold text-2xl leading-none text-gray-800\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 14,\n      columnNumber: 4\n    }\n  }, \"What guests are saying about homes in the United States\"), __jsx(\"div\", {\n    class: \"flex items-center flex-wrap justify-start lg:py-2\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 17,\n      columnNumber: 4\n    }\n  }, __jsx(\"svg\", {\n    class: \" w-4 h-4 flex-shrink-0 mt-4\",\n    viewBox: \"0 0 24 24\",\n    role: \"presentation\",\n    \"aria-hidden\": \"true\",\n    focusable: \"false\",\n    style: {\n      height: 24,\n      width: 24,\n      fill: '#FFB400'\n    },\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 18,\n      columnNumber: 5\n    }\n  }, __jsx(\"path\", {\n    d: \"m21.95 9.48a.84.84 0 0 0 -.87-.48h-4.62a.5.5 0 0 0 0 1l4.14.01-4.81 4.17a.5.5 0 0 0 -.14.57l2.65 6.38-6.07-3.72a.5.5 0 0 0 -.52 0l-6.08 3.72 2.65-6.37a.5.5 0 0 0 -.13-.57l-4.75-4.18h5.75a.5.5 0 0 0 .46-.3l2.37-5.37 1.58 3.57a.5.5 0 0 0 .91-.41l-1.72-3.88a.8.8 0 0 0 -1.56-.01l-2.38 5.39h-5.9a.83.83 0 0 0 -.87.48.85.85 0 0 0 .32.96l4.85 4.25-2.78 6.67a.81.81 0 0 0 .16.98.66.66 0 0 0 .43.15 1.1 1.1 0 0 0 .56-.18l6.37-3.91 6.38 3.92a.81.81 0 0 0 .99.03c.15-.12.37-.41.15-1l-2.77-6.66 4.92-4.26a.84.84 0 0 0 .31-.95zm-.78.53h-.01\",\n    fill: \"#484848\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 25,\n      columnNumber: 6\n    }\n  }), __jsx(\"path\", {\n    d: \"m11 21.5a.5.5 0 1 1 -.5-.5.5.5 0 0 1 .5.5zm-3.5-15.5a.5.5 0 1 0 .5.5.5.5 0 0 0 -.5-.5zm15 10h-.5v-.5a.5.5 0 0 0 -1 0v .5h-.5a.5.5 0 0 0 0 1h .5v.5a.5.5 0 0 0 1 0v-.5h.5a.5.5 0 0 0 0-1zm-15-13h-.5v-.5a.5.5 0 0 0 -1 0v .5h-.5a.5.5 0 0 0 0 1h .5v.5a.5.5 0 0 0 1 0v-.5h.5a.5.5 0 0 0 0-1zm10.22 7.54a.84.84 0 0 0 -.17-.02q-.28-.01-3.19 0a .6.6 0 0 1 -.55-.35l-1.5-3.23a.42.42 0 0 0 -.75 0l-1.81 4.14a2.92 2.92 0 0 0 4.12 3.72l.46-.26 3.49-2.99.16-.18a.5.5 0 0 0 -.26-.82z\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 28,\n      columnNumber: 6\n    }\n  })), __jsx(\"p\", {\n    class: \" text-gray-700 sm:mt-5 sm:pl-4 lg:mt-5 lg:pl-4\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 30,\n      columnNumber: 5\n    }\n  }, \"United States homes were \", __jsx(\"strong\", {\n    class: \"emphasized\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 31,\n      columnNumber: 31\n    }\n  }, \"rated 4.8 out of 5 starts\"), \" with\", __jsx(\"strong\", {\n    class: \"emphasized\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 32,\n      columnNumber: 6\n    }\n  }, \" 42,5000,000+ reviews\"))), __jsx(\"div\", {\n    class: \"flex items-start flex-wrap\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 35,\n      columnNumber: 4\n    }\n  }, __jsx(_ReviewCard__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n    img: _public_1_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,\n    stars: \"5\",\n    description: \"What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and...\",\n    avatar: _public_jeff_png__WEBPACK_IMPORTED_MODULE_5___default.a,\n    hostName: \"Jeff\",\n    hostCountry: \"United States\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 36,\n      columnNumber: 5\n    }\n  }), __jsx(_ReviewCard__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n    img: _public_2_jpg__WEBPACK_IMPORTED_MODULE_3___default.a,\n    stars: \"4\",\n    description: \"What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and...\",\n    avatar: _public_lesley_png__WEBPACK_IMPORTED_MODULE_6___default.a,\n    hostName: \"Lesley\",\n    hostCountry: \"United Kingdom\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 44,\n      columnNumber: 5\n    }\n  }), __jsx(_ReviewCard__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n    img: _public_3_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,\n    stars: \"5\",\n    description: \"What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and...\",\n    avatar: _public_denise_png__WEBPACK_IMPORTED_MODULE_7___default.a,\n    hostName: \"Denise\",\n    hostCountry: \"United States\",\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 52,\n      columnNumber: 5\n    }\n  })));\n});//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb21wb25lbnRzL1Jldmlld3MuanM/MGEzYyJdLCJuYW1lcyI6WyJoZWlnaHQiLCJ3aWR0aCIsImZpbGwiLCJjYXJkMSIsImF2YXRhcjEiLCJjYXJkMiIsImF2YXRhcjIiLCJjYXJkMyIsImF2YXRhcjMiXSwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7QUFBQTtBQUVBO0FBQ0E7QUFDQTtBQUVBO0FBQ0E7QUFDQTtBQUVlLHFFQUFNO0FBQ3BCLFNBQ0M7QUFBSyxTQUFLLEVBQUMsMkNBQVg7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUNDO0FBQUksU0FBSyxFQUFDLG1EQUFWO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsK0RBREQsRUFJQztBQUFLLFNBQUssRUFBQyxtREFBWDtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLEtBQ0M7QUFDQyxTQUFLLEVBQUMsNkJBRFA7QUFFQyxXQUFPLEVBQUMsV0FGVDtBQUdDLFFBQUksRUFBQyxjQUhOO0FBSUMsbUJBQVksTUFKYjtBQUtDLGFBQVMsRUFBQyxPQUxYO0FBTUMsU0FBSyxFQUFFO0FBQUVBLFlBQU0sRUFBRSxFQUFWO0FBQWNDLFdBQUssRUFBRSxFQUFyQjtBQUF5QkMsVUFBSSxFQUFFO0FBQS9CLEtBTlI7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQU9DO0FBQ0MsS0FBQyxFQUFDLGtoQkFESDtBQUVDLFFBQUksRUFBQyxTQUZOO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsSUFQRCxFQVVDO0FBQU0sS0FBQyxFQUFDLG9kQUFSO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsSUFWRCxDQURELEVBYUM7QUFBRyxTQUFLLEVBQUMsZ0RBQVQ7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxrQ0FDMEI7QUFBUSxTQUFLLEVBQUMsWUFBZDtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLGlDQUQxQixXQUVDO0FBQVEsU0FBSyxFQUFDLFlBQWQ7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSw2QkFGRCxDQWJELENBSkQsRUFzQkM7QUFBSyxTQUFLLEVBQUMsNEJBQVg7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxLQUNDLE1BQUMsbURBQUQ7QUFDQyxPQUFHLEVBQUVDLG9EQUROO0FBRUMsU0FBSyxFQUFDLEdBRlA7QUFHQyxlQUFXLEVBQUMseUlBSGI7QUFJQyxVQUFNLEVBQUVDLHVEQUpUO0FBS0MsWUFBUSxFQUFDLE1BTFY7QUFNQyxlQUFXLEVBQUMsZUFOYjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLElBREQsRUFTQyxNQUFDLG1EQUFEO0FBQ0MsT0FBRyxFQUFFQyxvREFETjtBQUVDLFNBQUssRUFBQyxHQUZQO0FBR0MsZUFBVyxFQUFDLHlJQUhiO0FBSUMsVUFBTSxFQUFFQyx5REFKVDtBQUtDLFlBQVEsRUFBQyxRQUxWO0FBTUMsZUFBVyxFQUFDLGdCQU5iO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsSUFURCxFQWlCQyxNQUFDLG1EQUFEO0FBQ0MsT0FBRyxFQUFFQyxvREFETjtBQUVDLFNBQUssRUFBQyxHQUZQO0FBR0MsZUFBVyxFQUFDLHlJQUhiO0FBSUMsVUFBTSxFQUFFQyx5REFKVDtBQUtDLFlBQVEsRUFBQyxRQUxWO0FBTUMsZUFBVyxFQUFDLGVBTmI7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxJQWpCRCxDQXRCRCxDQUREO0FBbURBLENBcEREIiwiZmlsZSI6Ii4vY29tcG9uZW50cy9SZXZpZXdzLmpzLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJldmlldyBmcm9tICcuL1Jldmlld0NhcmQnO1xuXG5pbXBvcnQgY2FyZDEgZnJvbSAnLi4vcHVibGljLzEuanBnJztcbmltcG9ydCBjYXJkMiBmcm9tICcuLi9wdWJsaWMvMi5qcGcnO1xuaW1wb3J0IGNhcmQzIGZyb20gJy4uL3B1YmxpYy8zLmpwZyc7XG5cbmltcG9ydCBhdmF0YXIxIGZyb20gJy4uL3B1YmxpYy9qZWZmLnBuZyc7XG5pbXBvcnQgYXZhdGFyMiBmcm9tICcuLi9wdWJsaWMvbGVzbGV5LnBuZyc7XG5pbXBvcnQgYXZhdGFyMyBmcm9tICcuLi9wdWJsaWMvZGVuaXNlLnBuZyc7XG5cbmV4cG9ydCBkZWZhdWx0ICgpID0+IHtcblx0cmV0dXJuIChcblx0XHQ8ZGl2IGNsYXNzPSdtYXgtdy01eGwgbXgtYXV0byBweS0xMiBteS0xIHB4LTQgbGc6cHgtMCc+XG5cdFx0XHQ8aDMgY2xhc3M9J2ZvbnQtc2VtaWJvbGQgdGV4dC0yeGwgbGVhZGluZy1ub25lIHRleHQtZ3JheS04MDAnPlxuXHRcdFx0XHRXaGF0IGd1ZXN0cyBhcmUgc2F5aW5nIGFib3V0IGhvbWVzIGluIHRoZSBVbml0ZWQgU3RhdGVzXG5cdFx0XHQ8L2gzPlxuXHRcdFx0PGRpdiBjbGFzcz0nZmxleCBpdGVtcy1jZW50ZXIgZmxleC13cmFwIGp1c3RpZnktc3RhcnQgbGc6cHktMic+XG5cdFx0XHRcdDxzdmdcblx0XHRcdFx0XHRjbGFzcz0nIHctNCBoLTQgZmxleC1zaHJpbmstMCBtdC00J1xuXHRcdFx0XHRcdHZpZXdCb3g9JzAgMCAyNCAyNCdcblx0XHRcdFx0XHRyb2xlPSdwcmVzZW50YXRpb24nXG5cdFx0XHRcdFx0YXJpYS1oaWRkZW49J3RydWUnXG5cdFx0XHRcdFx0Zm9jdXNhYmxlPSdmYWxzZSdcblx0XHRcdFx0XHRzdHlsZT17eyBoZWlnaHQ6IDI0LCB3aWR0aDogMjQsIGZpbGw6ICcjRkZCNDAwJyB9fT5cblx0XHRcdFx0XHQ8cGF0aFxuXHRcdFx0XHRcdFx0ZD0nbTIxLjk1IDkuNDhhLjg0Ljg0IDAgMCAwIC0uODctLjQ4aC00LjYyYS41LjUgMCAwIDAgMCAxbDQuMTQuMDEtNC44MSA0LjE3YS41LjUgMCAwIDAgLS4xNC41N2wyLjY1IDYuMzgtNi4wNy0zLjcyYS41LjUgMCAwIDAgLS41MiAwbC02LjA4IDMuNzIgMi42NS02LjM3YS41LjUgMCAwIDAgLS4xMy0uNTdsLTQuNzUtNC4xOGg1Ljc1YS41LjUgMCAwIDAgLjQ2LS4zbDIuMzctNS4zNyAxLjU4IDMuNTdhLjUuNSAwIDAgMCAuOTEtLjQxbC0xLjcyLTMuODhhLjguOCAwIDAgMCAtMS41Ni0uMDFsLTIuMzggNS4zOWgtNS45YS44My44MyAwIDAgMCAtLjg3LjQ4Ljg1Ljg1IDAgMCAwIC4zMi45Nmw0Ljg1IDQuMjUtMi43OCA2LjY3YS44MS44MSAwIDAgMCAuMTYuOTguNjYuNjYgMCAwIDAgLjQzLjE1IDEuMSAxLjEgMCAwIDAgLjU2LS4xOGw2LjM3LTMuOTEgNi4zOCAzLjkyYS44MS44MSAwIDAgMCAuOTkuMDNjLjE1LS4xMi4zNy0uNDEuMTUtMWwtMi43Ny02LjY2IDQuOTItNC4yNmEuODQuODQgMCAwIDAgLjMxLS45NXptLS43OC41M2gtLjAxJ1xuXHRcdFx0XHRcdFx0ZmlsbD0nIzQ4NDg0OCc+PC9wYXRoPlxuXHRcdFx0XHRcdDxwYXRoIGQ9J20xMSAyMS41YS41LjUgMCAxIDEgLS41LS41LjUuNSAwIDAgMSAuNS41em0tMy41LTE1LjVhLjUuNSAwIDEgMCAuNS41LjUuNSAwIDAgMCAtLjUtLjV6bTE1IDEwaC0uNXYtLjVhLjUuNSAwIDAgMCAtMSAwdiAuNWgtLjVhLjUuNSAwIDAgMCAwIDFoIC41di41YS41LjUgMCAwIDAgMSAwdi0uNWguNWEuNS41IDAgMCAwIDAtMXptLTE1LTEzaC0uNXYtLjVhLjUuNSAwIDAgMCAtMSAwdiAuNWgtLjVhLjUuNSAwIDAgMCAwIDFoIC41di41YS41LjUgMCAwIDAgMSAwdi0uNWguNWEuNS41IDAgMCAwIDAtMXptMTAuMjIgNy41NGEuODQuODQgMCAwIDAgLS4xNy0uMDJxLS4yOC0uMDEtMy4xOSAwYSAuNi42IDAgMCAxIC0uNTUtLjM1bC0xLjUtMy4yM2EuNDIuNDIgMCAwIDAgLS43NSAwbC0xLjgxIDQuMTRhMi45MiAyLjkyIDAgMCAwIDQuMTIgMy43MmwuNDYtLjI2IDMuNDktMi45OS4xNi0uMThhLjUuNSAwIDAgMCAtLjI2LS44MnonPjwvcGF0aD5cblx0XHRcdFx0PC9zdmc+XG5cdFx0XHRcdDxwIGNsYXNzPScgdGV4dC1ncmF5LTcwMCBzbTptdC01IHNtOnBsLTQgbGc6bXQtNSBsZzpwbC00Jz5cblx0XHRcdFx0XHRVbml0ZWQgU3RhdGVzIGhvbWVzIHdlcmUgPHN0cm9uZyBjbGFzcz0nZW1waGFzaXplZCc+cmF0ZWQgNC44IG91dCBvZiA1IHN0YXJ0czwvc3Ryb25nPiB3aXRoXG5cdFx0XHRcdFx0PHN0cm9uZyBjbGFzcz0nZW1waGFzaXplZCc+IDQyLDUwMDAsMDAwKyByZXZpZXdzPC9zdHJvbmc+XG5cdFx0XHRcdDwvcD5cblx0XHRcdDwvZGl2PlxuXHRcdFx0PGRpdiBjbGFzcz0nZmxleCBpdGVtcy1zdGFydCBmbGV4LXdyYXAnPlxuXHRcdFx0XHQ8UmV2aWV3XG5cdFx0XHRcdFx0aW1nPXtjYXJkMX1cblx0XHRcdFx0XHRzdGFycz0nNSdcblx0XHRcdFx0XHRkZXNjcmlwdGlvbj0nV2hhdCBhIHdvbmRlcmZ1bCBsaXR0bGUgY290dGFnZSEgTW9yZSBzcGFjaW91cyBhbmQgYWRvcmFibGUgdGhhbiB0aGUgcGljdHVyZXMgc2hvdy4gV2UgbmV2ZXIgbWV0IG91ciBob3N0cywgYnV0IHdlIGZlbHQgd2VsY29tZWQgYW5kLi4uJ1xuXHRcdFx0XHRcdGF2YXRhcj17YXZhdGFyMX1cblx0XHRcdFx0XHRob3N0TmFtZT0nSmVmZidcblx0XHRcdFx0XHRob3N0Q291bnRyeT0nVW5pdGVkIFN0YXRlcydcblx0XHRcdFx0Lz5cblx0XHRcdFx0PFJldmlld1xuXHRcdFx0XHRcdGltZz17Y2FyZDJ9XG5cdFx0XHRcdFx0c3RhcnM9JzQnXG5cdFx0XHRcdFx0ZGVzY3JpcHRpb249J1doYXQgYSB3b25kZXJmdWwgbGl0dGxlIGNvdHRhZ2UhIE1vcmUgc3BhY2lvdXMgYW5kIGFkb3JhYmxlIHRoYW4gdGhlIHBpY3R1cmVzIHNob3cuIFdlIG5ldmVyIG1ldCBvdXIgaG9zdHMsIGJ1dCB3ZSBmZWx0IHdlbGNvbWVkIGFuZC4uLidcblx0XHRcdFx0XHRhdmF0YXI9e2F2YXRhcjJ9XG5cdFx0XHRcdFx0aG9zdE5hbWU9J0xlc2xleSdcblx0XHRcdFx0XHRob3N0Q291bnRyeT0nVW5pdGVkIEtpbmdkb20nXG5cdFx0XHRcdC8+XG5cdFx0XHRcdDxSZXZpZXdcblx0XHRcdFx0XHRpbWc9e2NhcmQzfVxuXHRcdFx0XHRcdHN0YXJzPSc1J1xuXHRcdFx0XHRcdGRlc2NyaXB0aW9uPSdXaGF0IGEgd29uZGVyZnVsIGxpdHRsZSBjb3R0YWdlISBNb3JlIHNwYWNpb3VzIGFuZCBhZG9yYWJsZSB0aGFuIHRoZSBwaWN0dXJlcyBzaG93LiBXZSBuZXZlciBtZXQgb3VyIGhvc3RzLCBidXQgd2UgZmVsdCB3ZWxjb21lZCBhbmQuLi4nXG5cdFx0XHRcdFx0YXZhdGFyPXthdmF0YXIzfVxuXHRcdFx0XHRcdGhvc3ROYW1lPSdEZW5pc2UnXG5cdFx0XHRcdFx0aG9zdENvdW50cnk9J1VuaXRlZCBTdGF0ZXMnXG5cdFx0XHRcdC8+XG5cdFx0XHQ8L2Rpdj5cblx0XHQ8L2Rpdj5cblx0KTtcbn07XG4iXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./components/Reviews.js\n");
 
 /***/ }),
 
@@ -1730,67 +245,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _components_Banner__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Banner */ "./components/Banner.js");
-/* harmony import */ var _components_Booking__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Booking */ "./components/Booking.js");
-/* harmony import */ var _components_Benefits__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Benefits */ "./components/Benefits.js");
-/* harmony import */ var _components_Reviews__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Reviews */ "./components/Reviews.js");
-/* harmony import */ var _components_Booked__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../components/Booked */ "./components/Booked.js");
-/* harmony import */ var _components_Footer__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../components/Footer */ "./components/Footer.js");
-var _jsxFileName = "/Users/ken/Desktop/nextjs_airbnb/pages/index.js";
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-// Components
-
-
-
-
-
-
-
-const Home = () => {
-  return __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, __jsx(_components_Banner__WEBPACK_IMPORTED_MODULE_1__["default"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16
-    },
-    __self: undefined
-  }), __jsx(_components_Booking__WEBPACK_IMPORTED_MODULE_2__["default"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 17
-    },
-    __self: undefined
-  }), __jsx(_components_Reviews__WEBPACK_IMPORTED_MODULE_4__["default"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 18
-    },
-    __self: undefined
-  }), __jsx(_components_Benefits__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: undefined
-  }), __jsx(_components_Booked__WEBPACK_IMPORTED_MODULE_5__["default"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 20
-    },
-    __self: undefined
-  }), __jsx(_components_Footer__WEBPACK_IMPORTED_MODULE_6__["default"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 21
-    },
-    __self: undefined
-  }));
-};
-
-/* harmony default export */ __webpack_exports__["default"] = (Home);
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _components_Banner__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Banner */ \"./components/Banner.js\");\n/* harmony import */ var _components_Booking__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Booking */ \"./components/Booking.js\");\n/* harmony import */ var _components_Benefits__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Benefits */ \"./components/Benefits.js\");\n/* harmony import */ var _components_Reviews__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Reviews */ \"./components/Reviews.js\");\n/* harmony import */ var _components_Booked__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../components/Booked */ \"./components/Booked.js\");\n/* harmony import */ var _components_Footer__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../components/Footer */ \"./components/Footer.js\");\nvar _jsxFileName = \"/Users/ken/Desktop/nextjs_airbnb/pages/index.js\";\n\nvar __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;\n// Components\n\n\n\n\n\n\n\nconst Home = () => {\n  return __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, __jsx(_components_Banner__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 16,\n      columnNumber: 4\n    }\n  }), __jsx(_components_Booking__WEBPACK_IMPORTED_MODULE_2__[\"default\"], {\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 17,\n      columnNumber: 4\n    }\n  }), __jsx(_components_Reviews__WEBPACK_IMPORTED_MODULE_4__[\"default\"], {\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 18,\n      columnNumber: 4\n    }\n  }), __jsx(_components_Benefits__WEBPACK_IMPORTED_MODULE_3__[\"default\"], {\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 19,\n      columnNumber: 4\n    }\n  }), __jsx(_components_Booked__WEBPACK_IMPORTED_MODULE_5__[\"default\"], {\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 20,\n      columnNumber: 4\n    }\n  }), __jsx(_components_Footer__WEBPACK_IMPORTED_MODULE_6__[\"default\"], {\n    __self: undefined,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 21,\n      columnNumber: 4\n    }\n  }));\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (Home);//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9wYWdlcy9pbmRleC5qcz80NGQ4Il0sIm5hbWVzIjpbIkhvbWUiXSwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7OztBQUVBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBOztBQUlBLE1BQU1BLElBQUksR0FBRyxNQUFNO0FBQ2xCLFNBQ0MsbUVBQ0MsTUFBQywwREFBRDtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLElBREQsRUFFQyxNQUFDLDJEQUFEO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsSUFGRCxFQUdDLE1BQUMsMkRBQUQ7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxJQUhELEVBSUMsTUFBQyw0REFBRDtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLElBSkQsRUFLQyxNQUFDLDBEQUFEO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsSUFMRCxFQU1DLE1BQUMsMERBQUQ7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxJQU5ELENBREQ7QUFVQSxDQVhEOztBQWFlQSxtRUFBZiIsImZpbGUiOiIuL3BhZ2VzL2luZGV4LmpzLmpzIiwic291cmNlc0NvbnRlbnQiOlsiXG5cbi8vIENvbXBvbmVudHNcbmltcG9ydCBCYW5uZXIgZnJvbSAnLi4vY29tcG9uZW50cy9CYW5uZXInO1xuaW1wb3J0IEJvb2tpbmcgZnJvbSAnLi4vY29tcG9uZW50cy9Cb29raW5nJztcbmltcG9ydCBCZW5lZml0cyBmcm9tICcuLi9jb21wb25lbnRzL0JlbmVmaXRzJztcbmltcG9ydCBSZXZpZXdzIGZyb20gJy4uL2NvbXBvbmVudHMvUmV2aWV3cyc7XG5pbXBvcnQgQm9va2VkIGZyb20gJy4uL2NvbXBvbmVudHMvQm9va2VkJztcbmltcG9ydCBGb290ZXIgZnJvbSAnLi4vY29tcG9uZW50cy9Gb290ZXInO1xuXG5cblxuY29uc3QgSG9tZSA9ICgpID0+IHtcblx0cmV0dXJuIChcblx0XHQ8PlxuXHRcdFx0PEJhbm5lciAvPlxuXHRcdFx0PEJvb2tpbmcgLz5cblx0XHRcdDxSZXZpZXdzLz5cblx0XHRcdDxCZW5lZml0cyAvPlxuXHRcdFx0PEJvb2tlZCAvPlxuXHRcdFx0PEZvb3RlciAvPlxuXHRcdDwvPlxuXHQpO1xufTtcblxuZXhwb3J0IGRlZmF1bHQgSG9tZTtcbiJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./pages/index.js\n");
 
 /***/ }),
 
@@ -1801,7 +256,7 @@ const Home = () => {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/1-8dfe0f499b83811a9310ce973c73cee2.jpg";
+eval("module.exports = \"/_next/static/images/1-156aa193fa2e07b3c436f7e06e0b501c.jpg\";//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9wdWJsaWMvMS5qcGc/YjdlZiJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSIsImZpbGUiOiIuL3B1YmxpYy8xLmpwZy5qcyIsInNvdXJjZXNDb250ZW50IjpbIm1vZHVsZS5leHBvcnRzID0gXCIvX25leHQvc3RhdGljL2ltYWdlcy8xLTE1NmFhMTkzZmEyZTA3YjNjNDM2ZjdlMDZlMGI1MDFjLmpwZ1wiOyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./public/1.jpg\n");
 
 /***/ }),
 
@@ -1812,7 +267,7 @@ module.exports = "/_next/static/images/1-8dfe0f499b83811a9310ce973c73cee2.jpg";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/2-a15a9910276ce221a4e838fd97b4f103.jpg";
+eval("module.exports = \"/_next/static/images/2-3840143cffc6c82ab9b39cc5ff9348e1.jpg\";//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9wdWJsaWMvMi5qcGc/YmQxOCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSIsImZpbGUiOiIuL3B1YmxpYy8yLmpwZy5qcyIsInNvdXJjZXNDb250ZW50IjpbIm1vZHVsZS5leHBvcnRzID0gXCIvX25leHQvc3RhdGljL2ltYWdlcy8yLTM4NDAxNDNjZmZjNmM4MmFiOWIzOWNjNWZmOTM0OGUxLmpwZ1wiOyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./public/2.jpg\n");
 
 /***/ }),
 
@@ -1823,7 +278,7 @@ module.exports = "/_next/static/images/2-a15a9910276ce221a4e838fd97b4f103.jpg";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/3-29759a212c89539ac5a071b67370b58e.jpg";
+eval("module.exports = \"/_next/static/images/3-1db694ee27ddf9e27b8bd7836ee30598.jpg\";//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9wdWJsaWMvMy5qcGc/NGU5NSJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSIsImZpbGUiOiIuL3B1YmxpYy8zLmpwZy5qcyIsInNvdXJjZXNDb250ZW50IjpbIm1vZHVsZS5leHBvcnRzID0gXCIvX25leHQvc3RhdGljL2ltYWdlcy8zLTFkYjY5NGVlMjdkZGY5ZTI3YjhiZDc4MzZlZTMwNTk4LmpwZ1wiOyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./public/3.jpg\n");
 
 /***/ }),
 
@@ -1834,7 +289,7 @@ module.exports = "/_next/static/images/3-29759a212c89539ac5a071b67370b58e.jpg";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/airbnb-home-bb270612b5fb0dddf3eaa293a588c61f.jpg";
+eval("module.exports = \"/_next/static/images/airbnb-home-460e68dff24ec926595fa35ae367be64.jpg\";//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9wdWJsaWMvYWlyYm5iLWhvbWUuanBnP2M4MzkiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEiLCJmaWxlIjoiLi9wdWJsaWMvYWlyYm5iLWhvbWUuanBnLmpzIiwic291cmNlc0NvbnRlbnQiOlsibW9kdWxlLmV4cG9ydHMgPSBcIi9fbmV4dC9zdGF0aWMvaW1hZ2VzL2FpcmJuYi1ob21lLTQ2MGU2OGRmZjI0ZWM5MjY1OTVmYTM1YWUzNjdiZTY0LmpwZ1wiOyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./public/airbnb-home.jpg\n");
 
 /***/ }),
 
@@ -1845,7 +300,7 @@ module.exports = "/_next/static/images/airbnb-home-bb270612b5fb0dddf3eaa293a588c
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/denise-b221093793d3dd19f3d1cd1dd4b27349.png";
+eval("module.exports = \"/_next/static/images/denise-27ad891be9e0603298a21f09b056b404.png\";//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9wdWJsaWMvZGVuaXNlLnBuZz85YzU2Il0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBIiwiZmlsZSI6Ii4vcHVibGljL2RlbmlzZS5wbmcuanMiLCJzb3VyY2VzQ29udGVudCI6WyJtb2R1bGUuZXhwb3J0cyA9IFwiL19uZXh0L3N0YXRpYy9pbWFnZXMvZGVuaXNlLTI3YWQ4OTFiZTllMDYwMzI5OGEyMWYwOWIwNTZiNDA0LnBuZ1wiOyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./public/denise.png\n");
 
 /***/ }),
 
@@ -1856,7 +311,7 @@ module.exports = "/_next/static/images/denise-b221093793d3dd19f3d1cd1dd4b27349.p
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/jeff-6daf55f86141c7e4a5cf7bdb7b9bf548.png";
+eval("module.exports = \"/_next/static/images/jeff-f688922bae4a6bb92866acda2f4a59a9.png\";//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9wdWJsaWMvamVmZi5wbmc/ZGUyNiJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSIsImZpbGUiOiIuL3B1YmxpYy9qZWZmLnBuZy5qcyIsInNvdXJjZXNDb250ZW50IjpbIm1vZHVsZS5leHBvcnRzID0gXCIvX25leHQvc3RhdGljL2ltYWdlcy9qZWZmLWY2ODg5MjJiYWU0YTZiYjkyODY2YWNkYTJmNGE1OWE5LnBuZ1wiOyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./public/jeff.png\n");
 
 /***/ }),
 
@@ -1867,7 +322,7 @@ module.exports = "/_next/static/images/jeff-6daf55f86141c7e4a5cf7bdb7b9bf548.png
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/just-booked-1-5905cb412d75befb4bd7bb2d13c4607d.jpg";
+eval("module.exports = \"/_next/static/images/just-booked-1-b8c60dd201837d3bcbe5a3fda495dd7f.jpg\";//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9wdWJsaWMvanVzdC1ib29rZWQtMS5qcGc/NWVkMCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSIsImZpbGUiOiIuL3B1YmxpYy9qdXN0LWJvb2tlZC0xLmpwZy5qcyIsInNvdXJjZXNDb250ZW50IjpbIm1vZHVsZS5leHBvcnRzID0gXCIvX25leHQvc3RhdGljL2ltYWdlcy9qdXN0LWJvb2tlZC0xLWI4YzYwZGQyMDE4MzdkM2JjYmU1YTNmZGE0OTVkZDdmLmpwZ1wiOyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./public/just-booked-1.jpg\n");
 
 /***/ }),
 
@@ -1878,7 +333,7 @@ module.exports = "/_next/static/images/just-booked-1-5905cb412d75befb4bd7bb2d13c
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/just-booked-2-975b56e0590cbb4266351d5a4b2a1645.jpg";
+eval("module.exports = \"/_next/static/images/just-booked-2-693d2523b08301ebd24b7fe6d2525812.jpg\";//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9wdWJsaWMvanVzdC1ib29rZWQtMi5qcGc/ZmM1YSJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSIsImZpbGUiOiIuL3B1YmxpYy9qdXN0LWJvb2tlZC0yLmpwZy5qcyIsInNvdXJjZXNDb250ZW50IjpbIm1vZHVsZS5leHBvcnRzID0gXCIvX25leHQvc3RhdGljL2ltYWdlcy9qdXN0LWJvb2tlZC0yLTY5M2QyNTIzYjA4MzAxZWJkMjRiN2ZlNmQyNTI1ODEyLmpwZ1wiOyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./public/just-booked-2.jpg\n");
 
 /***/ }),
 
@@ -1889,7 +344,7 @@ module.exports = "/_next/static/images/just-booked-2-975b56e0590cbb4266351d5a4b2
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/just-booked-3-b0be93da564887de2dd619692515ebb8.jpg";
+eval("module.exports = \"/_next/static/images/just-booked-3-4dc169fa7a3dc1bb39d1d3b9710e046c.jpg\";//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9wdWJsaWMvanVzdC1ib29rZWQtMy5qcGc/YWZlOCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSIsImZpbGUiOiIuL3B1YmxpYy9qdXN0LWJvb2tlZC0zLmpwZy5qcyIsInNvdXJjZXNDb250ZW50IjpbIm1vZHVsZS5leHBvcnRzID0gXCIvX25leHQvc3RhdGljL2ltYWdlcy9qdXN0LWJvb2tlZC0zLTRkYzE2OWZhN2EzZGMxYmIzOWQxZDNiOTcxMGUwNDZjLmpwZ1wiOyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./public/just-booked-3.jpg\n");
 
 /***/ }),
 
@@ -1900,7 +355,7 @@ module.exports = "/_next/static/images/just-booked-3-b0be93da564887de2dd61969251
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/just-booked-4-fe952247e32c0b80f3e057bcf17a930f.jpg";
+eval("module.exports = \"/_next/static/images/just-booked-4-07e76a93d53f39b6fa31434b3cae95ad.jpg\";//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9wdWJsaWMvanVzdC1ib29rZWQtNC5qcGc/ZWZmNCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSIsImZpbGUiOiIuL3B1YmxpYy9qdXN0LWJvb2tlZC00LmpwZy5qcyIsInNvdXJjZXNDb250ZW50IjpbIm1vZHVsZS5leHBvcnRzID0gXCIvX25leHQvc3RhdGljL2ltYWdlcy9qdXN0LWJvb2tlZC00LTA3ZTc2YTkzZDUzZjM5YjZmYTMxNDM0YjNjYWU5NWFkLmpwZ1wiOyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./public/just-booked-4.jpg\n");
 
 /***/ }),
 
@@ -1911,7 +366,7 @@ module.exports = "/_next/static/images/just-booked-4-fe952247e32c0b80f3e057bcf17
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/lesley-dd4d48c1282ce889a0b38b5cafe6c6e3.png";
+eval("module.exports = \"/_next/static/images/lesley-f732997fc752a2ffe6afc3ea55e7ef04.png\";//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9wdWJsaWMvbGVzbGV5LnBuZz83MzY1Il0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBIiwiZmlsZSI6Ii4vcHVibGljL2xlc2xleS5wbmcuanMiLCJzb3VyY2VzQ29udGVudCI6WyJtb2R1bGUuZXhwb3J0cyA9IFwiL19uZXh0L3N0YXRpYy9pbWFnZXMvbGVzbGV5LWY3MzI5OTdmYzc1MmEyZmZlNmFmYzNlYTU1ZTdlZjA0LnBuZ1wiOyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./public/lesley.png\n");
 
 /***/ }),
 
@@ -1934,7 +389,7 @@ module.exports = __webpack_require__(/*! /Users/ken/Desktop/nextjs_airbnb/pages/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = require("framer-motion");
+eval("module.exports = require(\"framer-motion\");//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vZXh0ZXJuYWwgXCJmcmFtZXItbW90aW9uXCI/ZmY3ZiJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSIsImZpbGUiOiJmcmFtZXItbW90aW9uLmpzIiwic291cmNlc0NvbnRlbnQiOlsibW9kdWxlLmV4cG9ydHMgPSByZXF1aXJlKFwiZnJhbWVyLW1vdGlvblwiKTsiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///framer-motion\n");
 
 /***/ }),
 
@@ -1945,9 +400,8 @@ module.exports = require("framer-motion");
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = require("react");
+eval("module.exports = require(\"react\");//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vZXh0ZXJuYWwgXCJyZWFjdFwiPzU4OGUiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEiLCJmaWxlIjoicmVhY3QuanMiLCJzb3VyY2VzQ29udGVudCI6WyJtb2R1bGUuZXhwb3J0cyA9IHJlcXVpcmUoXCJyZWFjdFwiKTsiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///react\n");
 
 /***/ })
 
 /******/ });
-//# sourceMappingURL=index.js.map
